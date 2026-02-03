@@ -1,0 +1,22 @@
+{
+  "Type": "Variant",
+  "Reference": "Template_Intelligent",
+  "Modify": {
+    "MaxHealth": 100,
+    "DropList": "Drop_Klops_Gentleman",
+    "Appearance": "Klops_Lab",
+    "Weapons": [],
+    "OffHand": [],
+    "DefaultPlayerAttitude": "Neutral",
+    "MaxSpeed": 6,
+    "NameTranslationKey": {
+      "Compute": "NameTranslationKey"
+    }
+  },
+  "Parameters": {
+    "NameTranslationKey": {
+      "Value": "Klops",
+      "Description": "Translation key for NPC name display"
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "Container": {
+    "Type": "Multiple",
+    "Containers": [
+      {
+        "Type": "Choice",
+        "Weight": 100,
+        "Containers": [
+          {
+            "Type": "Single",
+            "Item": {
+              "ItemId": "Ingredient_Bar_Iron",
+              "QuantityMin": 1,
+              "QuantityMax": 2
+            }
+          }
+        ]
+      },
+      {
+        "Type": "Choice",
+        "Weight": 100,
+        "Containers": [
+          {
+            "Type": "Single",
+            "Item": {
+              "ItemId": "Deco_Iron_Chain_Small",
+              "QuantityMin": 1,
+              "QuantityMax": 2
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

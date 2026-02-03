@@ -1,0 +1,20 @@
+{
+  "Type": "Variant",
+  "Reference": "Template_Spirit",
+  "Modify": {
+    "Appearance": "Fullmetal_Drone",
+    "DropList": "Drop_Fullmetal_Drone",
+    "MaxHealth": 150,
+    "IsMemory": true,
+    "MemoriesCategory": "Elemental",
+    "NameTranslationKey": {
+      "Compute": "NameTranslationKey"
+    }
+  },
+  "Parameters": {
+    "NameTranslationKey": {
+      "Value": "server.npcRoles.Spirit_Root.name",
+      "Description": "Translation key for NPC name display"
+    }
+  }
+}

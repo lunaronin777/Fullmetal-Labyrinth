@@ -1,0 +1,20 @@
+{
+  "Group": "Lunaronin777",
+  "Name": "Fullmetal Labyrinth",
+  "Version": "1.2.3",
+  "Description": "The Labyrinth Remembers, and the Gears Turn",
+  "Authors": [
+    {
+      "Name": "Lunaronin777",
+      "Email": "lunaronin777@gmail.com",
+      "Url": "https://github.com/lunaronin777/"
+    }
+  ],
+  "Website": "https://github.com/lunaronin777/Fullmetal-Labyrinth",
+  "Dependencies": {},
+  "OptionalDependencies": {},
+  "LoadBefore": {},
+  "DisabledByDefault": false,
+  "IncludesAssetPack": false,
+  "SubPlugins": []
+}

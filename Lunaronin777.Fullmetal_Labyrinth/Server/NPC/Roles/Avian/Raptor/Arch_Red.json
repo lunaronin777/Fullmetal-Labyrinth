@@ -1,0 +1,24 @@
+{
+  "Type": "Variant",
+  "Reference": "Template_Birds_Passive",
+  "Modify": {
+    "Appearance": "Arch_Red",
+    "FlockArray": [
+      "Archaeopteryx"
+    ],
+    "DropList": "Drop_Arch_Red",
+    "MaxHealth": 220,
+    "WanderRadius": 35,
+    "IsMemory": true,
+    "MemoriesCategory": "Avian",
+    "NameTranslationKey": {
+      "Compute": "NameTranslationKey"
+    }
+  },
+  "Parameters": {
+    "NameTranslationKey": {
+      "Value": "server.npcRoles.Archaeopteryx.name",
+      "Description": "Translation key for NPC name display"
+    }
+  }
+}

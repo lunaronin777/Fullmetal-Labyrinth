@@ -1,0 +1,16 @@
+{
+  "Parent": "Skeleton",
+  "Texture": "NPC/Automaton/Fullmetal.png",
+  "DefaultAttachments": [
+    {
+      "Model": "NPC/Undead/Skeleton/Models/Attachments/Cosmetics/Head/Eyes/Eyes.blockymodel",
+      "Texture": "NPC/Undead/Skeleton/Models/Attachments/Cosmetics/Head/Eyes/Eyes_Red.png"
+    }
+  ],
+  "MinScale": 1.4,
+  "MaxScale": 1.41,
+  "EyeHeight": 1.7,
+  "Light": {
+    "Radius": 0
+  }
+}

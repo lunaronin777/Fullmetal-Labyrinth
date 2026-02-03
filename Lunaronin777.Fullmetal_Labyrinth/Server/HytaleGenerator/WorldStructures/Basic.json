@@ -1,0 +1,39 @@
+{
+  "Type": "NoiseRange",
+  "Biomes": [
+    {
+      "Biome": "Mid_Lab_Biome",
+      "Min": -1,
+      "Max": 0
+    },
+    {
+      "Biome": "Top_Lab_Biome",
+      "Min": 0,
+      "Max": 1
+    }
+  ],
+  "DefaultBiome": "Mid_Lab_Biome",
+  "DefaultTransitionDistance": 32,
+  "MaxBiomeEdgeDistance": 5,
+  "Density": {
+    "Type": "Imported",
+    "Name": "Biome-Map"
+  },
+  "ContentFields": [
+    {
+      "Type": "BaseHeight",
+      "Name": "Base",
+      "Y": 0
+    },
+    {
+      "Type": "BaseHeight",
+      "Name": "Water",
+      "Y": 0
+    },
+    {
+      "Type": "BaseHeight",
+      "Name": "Bedrock",
+      "Y": 0
+    }
+  ]
+}

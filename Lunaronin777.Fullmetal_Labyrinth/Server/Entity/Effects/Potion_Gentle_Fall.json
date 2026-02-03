@@ -1,0 +1,13 @@
+{
+  "DamageResistance": {
+    "Fall": [
+      {
+        "Amount": 1.0,
+        "CalculationType": "Multiplicative"
+      }
+    ]
+  },
+  "Duration": 90,
+  "StatusEffectIcon": "Icons/ItemsGenerated/Potion_Stamina.png",
+  "RemovalBehavior": "Duration"
+}

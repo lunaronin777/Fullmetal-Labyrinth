@@ -1,0 +1,13 @@
+{
+  "Model": "NPC_Spawn_Marker",
+  "NPCs": [
+    {
+      "Name": "Klops_Lab2",
+      "Weight": 100,
+      "RealtimeRespawnTime": 2
+    }
+  ],
+  "ExclusionRadius": 40,
+  "MaxDropHeight": 4,
+  "RealtimeRespawn": true
+}
