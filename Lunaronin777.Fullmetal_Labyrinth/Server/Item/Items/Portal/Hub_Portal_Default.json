@@ -50,7 +50,7 @@
     },
     "Gathering": {
       "Breaking": {
-        "GatherType": "Unbreakable"
+        "GatherType": "Benches"
       }
     },
     "Light": {

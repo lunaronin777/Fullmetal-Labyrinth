@@ -769,9 +769,21 @@
 					"Type":	"Prefab",
 					"Skip":	false,
 					"WeightedPrefabPaths":	[{
+							"$NodeId":	"WeightedPath.Prefab.Prop-6e86b676-d715-474d-98fd-42b9135fab0c",
+							"Path":	"New_Corridors",
+							"Weight":	0.04
+						}, {
+							"$NodeId":	"WeightedPath.Prefab.Prop-1a2699fa-b0bf-4352-8ae6-cf7c86387335",
+							"Path":	"Pillar_Corridors",
+							"Weight":	0.04
+						}, {
+							"$NodeId":	"WeightedPath.Prefab.Prop-55d7f40a-8bc1-478e-905f-ac9792630667",
+							"Path":	"Start_Corridors",
+							"Weight":	0.04
+						}, {
 							"$NodeId":	"WeightedPath.Prefab.Prop-be39b60f-a2cb-4a55-985d-6345a4268dc3",
 							"Path":	"Underground_Corridors",
-							"Weight":	1
+							"Weight":	0.88
 						}],
 					"LegacyPath":	false,
 					"LoadEntities":	true,
@@ -2207,6 +2219,12 @@
 					"$y":	-4142
 				}
 			},
+			"GreaterThanConditionSADMP-684c0a15-3e3b-498e-bd2e-53046200cfcf":	{
+				"$Position":	{
+					"$x":	188,
+					"$y":	-4491
+				}
+			},
 			"ConstantThicknessLayerSADMP-9bf5efdc-bba6-4651-8e40-5a11c976ae33":	{
 				"$Position":	{
 					"$x":	190,
@@ -2563,86 +2581,86 @@
 			},
 			"Runtime-a4432dde-8d89-4f59-b067-edcf0954d0f2":	{
 				"$Position":	{
-					"$x":	-10735,
-					"$y":	-5710
+					"$x":	-13849,
+					"$y":	-4818
 				}
 			},
 			"Mesh2DPositions-47585cc1-b695-43db-8321-d8c2c6e71b90":	{
 				"$Position":	{
-					"$x":	-10175,
-					"$y":	-5763
+					"$x":	-13289,
+					"$y":	-4871
 				}
 			},
 			"MeshPointGenerator-3bb84469-6aac-403b-99ae-fadf34cf22b5":	{
 				"$Position":	{
-					"$x":	-9462,
-					"$y":	-5767
+					"$x":	-12576,
+					"$y":	-4875
 				}
 			},
 			"Constant.Assignments-75180298-471f-4b3d-a41f-b2e98881d2e5":	{
 				"$Position":	{
-					"$x":	-10191,
-					"$y":	-5481
+					"$x":	-13305,
+					"$y":	-4589
 				}
 			},
 			"Prefab.Prop-f5eb37fb-aab1-4156-a0a9-94aea6419503":	{
 				"$Position":	{
-					"$x":	-9210,
-					"$y":	-5111
+					"$x":	-12477,
+					"$y":	-4286
 				}
 			},
 			"WeightedPath.Prefab.Prop-be39b60f-a2cb-4a55-985d-6345a4268dc3":	{
 				"$Position":	{
-					"$x":	-8244,
-					"$y":	-5358
+					"$x":	-11703,
+					"$y":	-4428
 				}
 			},
 			"Random.Directionality-79d1363a-de52-464a-a921-43de58354ba8":	{
 				"$Position":	{
-					"$x":	-8421,
-					"$y":	-5013
+					"$x":	-11688,
+					"$y":	-4188
 				}
 			},
 			"Ceiling.Pattern-dd8ee5c4-9a2c-48cd-ab03-b43709dd6df9":	{
 				"$Position":	{
-					"$x":	-7791,
-					"$y":	-4894
+					"$x":	-11058,
+					"$y":	-4069
 				}
 			},
 			"BlockType.Pattern-a62bf890-d011-4879-8870-ac5fb342a339":	{
 				"$Position":	{
-					"$x":	-7166,
-					"$y":	-4990
+					"$x":	-10433,
+					"$y":	-4165
 				}
 			},
 			"Material-c29aed09-aabf-4c74-a4c5-62a04c9e88ce":	{
 				"$Position":	{
-					"$x":	-6510,
-					"$y":	-4978
+					"$x":	-9777,
+					"$y":	-4153
 				}
 			},
 			"BlockType.Pattern-07369a18-60f4-47ba-8827-9378b037970e":	{
 				"$Position":	{
-					"$x":	-7175,
-					"$y":	-4737
+					"$x":	-10442,
+					"$y":	-3912
 				}
 			},
 			"Material-c7cbbf63-eed6-4209-8646-d771ca2d78f7":	{
 				"$Position":	{
-					"$x":	-6487,
-					"$y":	-4713
+					"$x":	-9754,
+					"$y":	-3888
 				}
 			},
 			"ColumnLinear.Scanner-5463820e-3102-49a4-a823-1f4acc94a06c":	{
 				"$Position":	{
-					"$x":	-8438,
-					"$y":	-4799
+					"$x":	-11705,
+					"$y":	-3974
 				}
 			},
 			"BlockMask-b86dcee0-abc3-4678-86c7-83d4092b337c":	{
 				"$Position":	{
-					"$x":	-8525,
-					"$y":	-4398
+					"$x":	-11792,
+					"$y":	-3573
 				}
 			},
 			"Runtime-5bb75498-b802-417e-babe-47c2f43a92cf":	{
@@ -3373,8 +3391,8 @@
 			},
 			"WeightedPath.Prefab.Prop-91534e89-27b5-4acb-b04c-fda57eceaa4d":	{
 				"$Position":	{
-					"$x":	5897,
-					"$y":	4495
+					"$x":	5833,
+					"$y":	5131
 				}
 			},
 			"Random.Directionality-364f688e-25c6-4fd5-b902-3c63b319142e":	{
@@ -3859,10 +3877,22 @@
 					"$y":	748724
 				}
 			},
-			"GreaterThanConditionSADMP-684c0a15-3e3b-498e-bd2e-53046200cfcf":	{
+			"WeightedPath.Prefab.Prop-55d7f40a-8bc1-478e-905f-ac9792630667":	{
 				"$Position":	{
-					"$x":	188,
-					"$y":	-4491
+					"$x":	-11737,
+					"$y":	-4623
+				}
+			},
+			"WeightedPath.Prefab.Prop-1a2699fa-b0bf-4352-8ae6-cf7c86387335":	{
+				"$Position":	{
+					"$x":	-11752,
+					"$y":	-4844
+				}
+			},
+			"WeightedPath.Prefab.Prop-6e86b676-d715-474d-98fd-42b9135fab0c":	{
+				"$Position":	{
+					"$x":	-11744,
+					"$y":	-5014
 				}
 			}
 		},

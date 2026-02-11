@@ -53,7 +53,7 @@
     },
     "Gathering": {
       "Breaking": {
-        "GatherType": "Unbreakable"
+        "GatherType": "Benches"
       }
     },
     "Light": {
@@ -75,8 +75,9 @@
         "Interactions": [
           {
             "Type": "HubPortal",
-            "WorldName": "Fullmetal_World",
-            "InstanceTemplate": "Basic",
+            "WorldName": "Fullmetal_Labyrinth",
+            "DisplayName": "Fullmetal Labyrinth ",
+            "InstanceTemplate": "Fullmetal_Labyrinth",
             "Next": {
               "Type": "Simple",
               "Effects": {

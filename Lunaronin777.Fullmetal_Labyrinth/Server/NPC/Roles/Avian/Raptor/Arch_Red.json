@@ -8,7 +8,7 @@
     ],
     "DropList": "Drop_Arch_Red",
     "MaxHealth": 220,
-    "WanderRadius": 35,
+    "WanderRadius": 10,
     "IsMemory": true,
     "MemoriesCategory": "Avian",
     "NameTranslationKey": {
