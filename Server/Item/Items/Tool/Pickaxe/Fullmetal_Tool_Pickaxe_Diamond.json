@@ -1,0 +1,113 @@
+{
+  "TranslationProperties": {
+    "Name": "server.items.Magic_Crystal_Pickaxe.name"
+  },
+  "Parent": "Tool_Pickaxe_Crude",
+  "Icon": "Icons/ItemsGenerated/Fullmetal_Tool_Pickaxe_Diamond.png",
+  "Model": "Items/Tools/Pickaxe/Onyxium.blockymodel",
+  "Texture": "Items/Tools/Pickaxe/Diamond_Texture.png",
+  "Tool": {
+    "Specs": [
+      {
+        "Power": 1,
+        "GatherType": "SoftBlocks"
+      },
+      {
+        "Power": 0.5,
+        "GatherType": "Soils"
+      },
+      {
+        "Power": 0.05,
+        "GatherType": "Woods"
+      },
+      {
+        "Power": 1,
+        "GatherType": "Rocks",
+        "Quality": 6
+      },
+      {
+        "Power": 0.5,
+        "GatherType": "Benches"
+      },
+      {
+        "Power": 0.34,
+        "GatherType": "VolcanicRocks"
+      },
+      {
+        "Power": 1.0,
+        "GatherType": "OreCopper"
+      },
+      {
+        "Power": 1.0,
+        "GatherType": "OreIron"
+      },
+      {
+        "Power": 1.0,
+        "GatherType": "OreSilver"
+      },
+      {
+        "Power": 1.0,
+        "GatherType": "OreGold"
+      },
+      {
+        "Power": 0.5,
+        "GatherType": "OreThorium"
+      },
+      {
+        "Power": 0.5,
+        "GatherType": "OreCobalt"
+      },
+      {
+        "Power": 0.5,
+        "GatherType": "OreAdamantite",
+        "Quality": 4
+      },
+      {
+        "Power": 0.25,
+        "GatherType": "OreMithril"
+      }
+    ],
+    "DurabilityLossBlockTypes": [
+      {
+        "BlockSets": [
+          "Stone",
+          "Rock",
+          "Ores",
+          "Soil"
+        ],
+        "DurabilityLossOnHit": 0.15
+      }
+    ]
+  },
+  "MaxDurability": 375,
+  "Quality": "Legendary",
+  "Light": {
+    "Radius": 5,
+    "Color": "#296"
+  },
+  "Particles": [
+    {
+      "SystemId": "Candle_Fire",
+      "Scale": 1,
+      "TargetEntityPart": "PrimaryItem",
+      "PositionOffset": {
+        "X": 0,
+        "Y": 0.8,
+        "Z": 0
+      },
+      "Color": "#22c495"
+    }
+  ],
+  "IconProperties": {
+    "Scale": 0.42,
+    "Rotation": [
+      45,
+      270,
+      0
+    ],
+    "Translation": [
+      27,
+      -27
+    ]
+  }
+}

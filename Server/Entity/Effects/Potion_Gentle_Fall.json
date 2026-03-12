@@ -1,0 +1,13 @@
+{
+  "DamageResistance": {
+    "Fall": [
+      {
+        "Amount": 1.0,
+        "CalculationType": "Multiplicative"
+      }
+    ]
+  },
+  "Duration": 120,
+  "StatusEffectIcon": "Icons/ItemsGenerated/Potion_Regen_Mana.png",
+  "RemovalBehavior": "Duration"
+}

@@ -1,0 +1,22 @@
+{
+  "Parent": "Bat",
+  "Texture": "NPC/Flying_Beast/Bat/Crystal_Texture.png",
+  "Particles": [
+    {
+      "SystemId": "Kweebec_Lantern",
+      "TargetNodeName": "Tail",
+      "TargetEntityPart": "Entity",
+      "Scale": 2,
+      "PositionOffset": {
+        "Y": 0.5
+      },
+      "Color": "#edcc1c"
+    }
+  ],
+  "MinScale": 0.7,
+  "MaxScale": 0.71,
+  "Light": {
+    "Radius": 1,
+    "Color": "#662"
+  }
+}

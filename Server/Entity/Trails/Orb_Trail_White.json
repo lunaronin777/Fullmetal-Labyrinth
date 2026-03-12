@@ -1,0 +1,25 @@
+{
+  "TexturePath": "Trails/Basic.png",
+  "LifeSpan": 10,
+  "Start": {
+    "Width": 0.4,
+    "Color": "#ffffffff"
+  },
+  "End": {
+    "Width": 0.0,
+    "Color": "#ffffffc0"
+  },
+  "LightInfluence": 0.0,
+  "Smooth": true,
+  "RenderMode": "BlendLinear",
+  "Animation": {
+    "FrameRange": {
+      "Min": 0,
+      "Max": 0
+    },
+    "FrameSize": {
+      "X": 128,
+      "Y": 64
+    }
+  }
+}

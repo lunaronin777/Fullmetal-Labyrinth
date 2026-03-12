@@ -1,0 +1,14 @@
+{
+  "Parent": "Skeleton",
+  "Texture": "NPC/Automaton/Fullmetal_Assasin.png",
+  "EyeHeight": 1.7,
+  "GradientSet": "Faded_Leather",
+  "MinScale": 1.2,
+  "MaxScale": 1.21,
+  "DefaultAttachments": [
+    {
+      "Model": "Cosmetics/Face_Accessories/Goggles_Wasteland_Marauder.blockymodel",
+      "Texture": "Cosmetics/Face_Accessories/Goggles_Wasteland_Marauder_Texture.png"
+    }
+  ]
+}

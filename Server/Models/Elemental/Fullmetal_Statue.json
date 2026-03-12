@@ -1,0 +1,49 @@
+{
+  "Parent": "Player",
+  "Model": "NPC/Intelligent/Slothian/Models/Model.blockymodel",
+  "Texture": "NPC/Intelligent/Elemental/volcanic.png",
+  "EyeHeight": 1.75,
+  "HitBox": {
+    "Max": {
+      "X": 0.35,
+      "Y": 1.9,
+      "Z": 0.35
+    },
+    "Min": {
+      "X": -0.35,
+      "Y": 0,
+      "Z": -0.35
+    }
+  },
+  "DefaultAttachments": [
+    {
+      "Model": "NPC/Intelligent/Slothian/Models/Attachments/Eyes.blockymodel",
+      "Texture": "NPC/Intelligent/Slothian/Models/Attachments/Eyes_Brown.png"
+    }
+  ],
+  "AnimationSets": {
+    "Idle": {
+      "Animations": [
+        {
+          "Animation": "Characters/Animations/Poses/Outlander_Marauder_Pose.blockyanim"
+        }
+      ]
+    },
+    "Run": {
+      "Animations": [
+        {
+          "Animation": "Characters/Animations/Roll/Roll.blockyanim",
+          "Speed": 1.6
+        }
+      ]
+    },
+    "Crouch": {
+      "Animations": [
+        {
+          "Animation": "NPC/Statues/Statue_1_Attachments/Statue_Hero_Pose.blockyanim"
+        }
+      ]
+    }
+  },
+  "Phobia": "Arachnophobia"
+}

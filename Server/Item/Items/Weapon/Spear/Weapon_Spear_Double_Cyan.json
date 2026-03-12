@@ -1,0 +1,156 @@
+{
+  "TranslationProperties": {
+    "Name": "server.items.Cyan_Crystal_Double_Blade.name"
+  },
+  "Categories": [
+    "Items.Weapons"
+  ],
+  "Quality": "Rare",
+  "ItemLevel": 30,
+  "Model": "Items/Weapons/Spear/Double_Incandescent.blockymodel",
+  "Texture": "Items/Weapons/Spear/Double_Incandescent_Texture_Cyan.png",
+  "PlayerAnimationsId": "Spear",
+  "MaxStack": 30,
+  "Interactions": {
+    "Primary": "Spear_Double_Incandescent_Attack",
+    "Secondary": "Spear_Block"
+  },
+  "InteractionVars": {
+    "Spear_Block_Damage": "Spear_Block_Damage",
+    "Spear_Spin_Swing_Left_Effect": {
+      "Interactions": [
+        {
+          "Parent": "Spear_Spin_Swing_Left_Effect",
+          "Effects": {
+            "Trails": []
+          }
+        }
+      ]
+    },
+    "Spear_Spin_Swing_Left_Damage": {
+      "Interactions": [
+        {
+          "Parent": "Spear_Spin_Swing_Left_Damage",
+          "DamageCalculator": {
+            "BaseDamage": {
+              "Physical": 15
+            },
+            "RandomPercentageModifier": 0.2,
+            "Type": "Absolute"
+          },
+          "DamageEffects": {
+            "WorldSoundEventId": "SFX_Axe_Special_Impact"
+          }
+        }
+      ]
+    },
+    "Spear_Spin_Swing_Right_Effect": {
+      "Interactions": [
+        {
+          "Parent": "Spear_Spin_Swing_Right_Effect",
+          "Effects": {
+            "Trails": []
+          }
+        }
+      ]
+    },
+    "Spear_Spin_Swing_Right_Damage": {
+      "Interactions": [
+        {
+          "Parent": "Spear_Spin_Swing_Right_Damage",
+          "DamageCalculator": {
+            "BaseDamage": {
+              "Physical": 15
+            },
+            "RandomPercentageModifier": 0.2,
+            "Type": "Absolute"
+          },
+          "DamageEffects": {
+            "WorldSoundEventId": "SFX_Axe_Special_Impact"
+          }
+        }
+      ]
+    },
+    "Spear_Throw_Charged_Projectile": {
+      "Interactions": [
+        {
+          "Parent": "Spear_Throw_Charged_Projectile",
+          "ProjectileId": "Spear_Double_Cyan"
+        }
+      ]
+    },
+    "Spear_Stab_Damage": {
+      "Interactions": [
+        {
+          "Parent": "Spear_Stab_Damage",
+          "DamageCalculator": {
+            "BaseDamage": {
+              "Physical": 15
+            }
+          },
+          "DamageEffects": {
+            "WorldSoundEventId": "SFX_Axe_Special_Impact"
+          }
+        }
+      ]
+    }
+  },
+  "DroppedItemAnimation": "Items/Animations/Dropped/Dropped_Diagonal_Left.blockyanim",
+  "IconProperties": {
+    "Scale": 0.22,
+    "Rotation": [
+      45,
+      90,
+      0
+    ],
+    "Translation": [
+      -64,
+      -64
+    ]
+  },
+  "Icon": "Icons/ItemsGenerated/Weapon_Spear_Double_Cyan.png",
+  "Tags": {
+    "Type": [
+      "Weapon"
+    ],
+    "Family": [
+      "Spear"
+    ]
+  },
+  "Weapon": {},
+  "ItemSoundSetId": "ISS_Weapons_Wood",
+  "Light": {
+    "Color": "#155",
+    "Radius": 1
+  },
+  "Trails": [
+    {
+      "TrailId": "Orb_Trail_Cyan",
+      "PositionOffset": {
+        "X": 1.1,
+        "Y": 0,
+        "Z": 0
+      },
+      "TargetNodeName": "Handle",
+      "RotationOffset": {
+        "Yaw": 0,
+        "Pitch": 0,
+        "Roll": 90
+      }
+    },
+    {
+      "TrailId": "Orb_Trail_Cyan",
+      "PositionOffset": {
+        "X": -1.1,
+        "Y": 0,
+        "Z": 0
+      },
+      "RotationOffset": {
+        "Yaw": 0,
+        "Pitch": 0,
+        "Roll": 270
+      },
+      "TargetNodeName": "Handle"
+    }
+  ]
+}

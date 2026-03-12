@@ -1,0 +1,21 @@
+{
+  "Group": "Lunaronin777",
+  "Name": "Fullmetal Labyrinth",
+  "Version": "1.3.12",
+  "Description": "The Labyrinth Remembers, and the Gears Turn",
+  "Authors": [
+    {
+      "Name": "Lunaronin777",
+      "Email": "lunaronin777@gmail.com",
+      "Url": "https://www.curseforge.com/hytale/mods/fullmetal-labyrinth"
+    }
+  ],
+  "Website": "https://www.curseforge.com/hytale/mods/fullmetal-labyrinth",
+  "ServerVersion": "2026.02.19-1a311a592",
+  "Dependencies": {},
+  "OptionalDependencies": {},
+  "LoadBefore": {},
+  "DisabledByDefault": false,
+  "IncludesAssetPack": false,
+  "SubPlugins": []
+}

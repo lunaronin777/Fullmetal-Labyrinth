@@ -1,0 +1,17 @@
+items.Elven_Bread.name = Elven Bread
+items.Elven_Bread.decription = Fills you up for an entire day!
+items.Cyan_Crystal_Double_Blade.name = Cyan Crystal Double Blade
+items.Orange_Crystal_Double_Blade.name = Orange Crystal Double Blade
+items.Red_Crystal_Double_Blade.name = Red Crystal Double Blade
+items.Emerald_Double_Blade.name = Emerald Double Blade
+items.Potion_Of_Gentle_Fall.name = Potion Of Gentle Fall
+items.Potion_Of_Gentle_Fall.description = Potion that allows you to negate all fall damage!
+items.Fullmetal_Portal.name = Fullmetal Portal
+items.Fullmetal_Comeback_Portal.name = Portal Back To Default World
+items.White_Crystal_Double_Blade.name = White Crystal Double Blade
+items.Purple_Crystal_Double_Blade.name = Purple Crystal Double Blade
+items.Yellow_Crystal_Double_Blade.name = Yellow Crystal Double Blade
+items.Magic_Crystal_Pickaxe.name = Magic Crystal Pickaxe
+
+items.Fullmetal_Repair_Kit_Iron.name = Fullmetal Repair Kit
+items.Fullmetal_Repair_Kit_Iron.description = Used to repair tools, weapons and armor. Repaired tools will lose up to 4% of their maximum durability.

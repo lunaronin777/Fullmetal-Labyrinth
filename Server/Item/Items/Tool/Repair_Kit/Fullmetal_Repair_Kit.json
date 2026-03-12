@@ -1,0 +1,60 @@
+{
+  "TranslationProperties": {
+    "Name": "server.items.Fullmetal_Repair_Kit_Iron.name",
+    "Description": "server.items.Fullmetal_Repair_Kit_Iron.description"
+  },
+  "Icon": "Icons/ItemsGenerated/Fullmetal_Repair_Kit.png",
+  "Parent": "Tool_Repair_Kit_Crude",
+  "ItemLevel": 1,
+  "Model": "Items/Tools/Repair_Kit/Repair_Kit_Fullmetal.blockymodel",
+  "Texture": "Items/Tools/Repair_Kit/Repair_Kit_Fullmetal_Texture.png",
+  "Interactions": {
+    "Primary": {
+      "Interactions": [
+        {
+          "Type": "OpenCustomUI",
+          "Page": {
+            "Id": "ItemRepair",
+            "RepairPenalty": 0.04
+          }
+        }
+      ]
+    },
+    "Secondary": {
+      "Interactions": [
+        {
+          "Type": "OpenCustomUI",
+          "Page": {
+            "Id": "ItemRepair",
+            "RepairPenalty": 0.04
+          }
+        }
+      ]
+    }
+  },
+  "Quality": "Epic",
+  "IconProperties": {
+    "Scale": 0.7,
+    "Rotation": [
+      352,
+      155,
+      10
+    ],
+    "Translation": [
+      -2,
+      -13.5
+    ]
+  },
+  "Particles": [
+    {
+      "SystemId": "Temple_Light_Lantern",
+      "Color": "#d569ea",
+      "Scale": 0.4,
+      "PositionOffset": {
+        "Y": 0.3,
+        "Z": 0,
+        "X": 0
+      }
+    }
+  ]
+}
