@@ -1,8 +1,10 @@
 {
-  "SpawnDensity": 0.001,
+  "SpawnDensity": 0.01,
   "Tags": {
     "Zone4": [
-      "Caves"
+      "Caves",
+      "Dungeons",
+      "Sewers"
     ]
   },
   "WeatherForecasts": {

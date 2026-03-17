@@ -1,0 +1,2885 @@
+{
+  "version": 8,
+  "blockIdVersion": 11,
+  "anchorX": 0,
+  "anchorY": 0,
+  "anchorZ": 0,
+  "blocks": [
+    {
+      "x": -6,
+      "y": 9,
+      "z": -3,
+      "name": "Plant_Coral_Bush_Purple"
+    },
+    {
+      "x": -6,
+      "y": 10,
+      "z": -3,
+      "name": "Plant_Coral_Bush_Purple"
+    },
+    {
+      "x": -6,
+      "y": 8,
+      "z": -2,
+      "name": "Plant_Coral_Bush_Purple"
+    },
+    {
+      "x": -6,
+      "y": 9,
+      "z": -2,
+      "name": "Plant_Coral_Block_Purple"
+    },
+    {
+      "x": -6,
+      "y": 10,
+      "z": -2,
+      "name": "Plant_Coral_Block_Purple"
+    },
+    {
+      "x": -6,
+      "y": 11,
+      "z": -2,
+      "name": "Plant_Coral_Bush_Purple"
+    },
+    {
+      "x": -5,
+      "y": 9,
+      "z": -4,
+      "name": "Plant_Coral_Bush_Poisoned"
+    },
+    {
+      "x": -5,
+      "y": 10,
+      "z": -4,
+      "name": "Plant_Coral_Bush_Poisoned"
+    },
+    {
+      "x": -5,
+      "y": 9,
+      "z": -3,
+      "name": "Plant_Coral_Bush_Purple"
+    },
+    {
+      "x": -5,
+      "y": 8,
+      "z": -2,
+      "name": "Plant_Coral_Block_Purple"
+    },
+    {
+      "x": -5,
+      "y": 9,
+      "z": -2,
+      "name": "Plant_Coral_Block_Purple"
+    },
+    {
+      "x": -5,
+      "y": 10,
+      "z": -2,
+      "name": "Plant_Coral_Bush_Purple"
+    },
+    {
+      "x": -5,
+      "y": 8,
+      "z": -1,
+      "name": "Plant_Coral_Bush_Purple"
+    },
+    {
+      "x": -5,
+      "y": 9,
+      "z": 1,
+      "name": "Plant_Coral_Bush_Poisoned"
+    },
+    {
+      "x": -5,
+      "y": 10,
+      "z": 1,
+      "name": "Plant_Coral_Bush_Poisoned"
+    },
+    {
+      "x": -4,
+      "y": 9,
+      "z": -5,
+      "name": "Plant_Coral_Bush_Poisoned"
+    },
+    {
+      "x": -4,
+      "y": 10,
+      "z": -5,
+      "name": "Plant_Coral_Bush_Poisoned"
+    },
+    {
+      "x": -4,
+      "y": 9,
+      "z": -4,
+      "name": "Plant_Coral_Block_Poison"
+    },
+    {
+      "x": -4,
+      "y": 10,
+      "z": -4,
+      "name": "Plant_Coral_Block_Poison"
+    },
+    {
+      "x": -4,
+      "y": 11,
+      "z": -4,
+      "name": "Plant_Coral_Bush_Poisoned"
+    },
+    {
+      "x": -4,
+      "y": 8,
+      "z": -3,
+      "name": "Plant_Coral_Bush_Poisoned"
+    },
+    {
+      "x": -4,
+      "y": 8,
+      "z": -2,
+      "name": "Plant_Coral_Block_Purple"
+    },
+    {
+      "x": -4,
+      "y": 8,
+      "z": -1,
+      "name": "Plant_Coral_Block_Purple"
+    },
+    {
+      "x": -4,
+      "y": 10,
+      "z": 0,
+      "name": "Plant_Coral_Bush_Poisoned"
+    },
+    {
+      "x": -4,
+      "y": 9,
+      "z": 1,
+      "name": "Plant_Coral_Block_Poison"
+    },
+    {
+      "x": -4,
+      "y": 10,
+      "z": 1,
+      "name": "Plant_Coral_Block_Poison"
+    },
+    {
+      "x": -4,
+      "y": 11,
+      "z": 1,
+      "name": "Plant_Coral_Bush_Poisoned"
+    },
+    {
+      "x": -4,
+      "y": 9,
+      "z": 2,
+      "name": "Plant_Coral_Bush_Poisoned"
+    },
+    {
+      "x": -4,
+      "y": 10,
+      "z": 2,
+      "name": "Plant_Coral_Bush_Poisoned"
+    },
+    {
+      "x": -3,
+      "y": 9,
+      "z": -5,
+      "name": "Plant_Coral_Bush_Poisoned"
+    },
+    {
+      "x": -3,
+      "y": 8,
+      "z": -4,
+      "name": "Plant_Coral_Bush_Poisoned"
+    },
+    {
+      "x": -3,
+      "y": 9,
+      "z": -4,
+      "name": "Plant_Coral_Block_Poison"
+    },
+    {
+      "x": -3,
+      "y": 10,
+      "z": -4,
+      "name": "Plant_Coral_Bush_Poisoned"
+    },
+    {
+      "x": -3,
+      "y": 8,
+      "z": -3,
+      "name": "Plant_Coral_Block_Poison"
+    },
+    {
+      "x": -3,
+      "y": 9,
+      "z": -3,
+      "name": "Plant_Coral_Block_Poison"
+    },
+    {
+      "x": -3,
+      "y": 8,
+      "z": -2,
+      "name": "Plant_Coral_Bush_Poisoned"
+    },
+    {
+      "x": -3,
+      "y": 6,
+      "z": -1,
+      "name": "Plant_Coral_Bush_Purple"
+    },
+    {
+      "x": -3,
+      "y": 7,
+      "z": -1,
+      "name": "Plant_Coral_Bush_Purple"
+    },
+    {
+      "x": -3,
+      "y": 8,
+      "z": -1,
+      "name": "Plant_Coral_Block_Purple"
+    },
+    {
+      "x": -3,
+      "y": 9,
+      "z": -1,
+      "name": "Plant_Coral_Bush_Violet"
+    },
+    {
+      "x": -3,
+      "y": 7,
+      "z": 0,
+      "name": "Plant_Coral_Bush_Purple"
+    },
+    {
+      "x": -3,
+      "y": 8,
+      "z": 0,
+      "name": "Plant_Coral_Block_Poison"
+    },
+    {
+      "x": -3,
+      "y": 9,
+      "z": 0,
+      "name": "Plant_Coral_Block_Poison"
+    },
+    {
+      "x": -3,
+      "y": 8,
+      "z": 1,
+      "name": "Plant_Coral_Bush_Poisoned"
+    },
+    {
+      "x": -3,
+      "y": 9,
+      "z": 1,
+      "name": "Plant_Coral_Block_Poison"
+    },
+    {
+      "x": -3,
+      "y": 10,
+      "z": 1,
+      "name": "Plant_Coral_Bush_Poisoned"
+    },
+    {
+      "x": -3,
+      "y": 9,
+      "z": 2,
+      "name": "Plant_Coral_Bush_Poisoned"
+    },
+    {
+      "x": -2,
+      "y": 4,
+      "z": -4,
+      "name": "Plant_Coral_Block_Purple"
+    },
+    {
+      "x": -2,
+      "y": 5,
+      "z": -4,
+      "name": "Plant_Coral_Model_Pink"
+    },
+    {
+      "x": -2,
+      "y": 3,
+      "z": -3,
+      "name": "Plant_Coral_Block_Purple"
+    },
+    {
+      "x": -2,
+      "y": 4,
+      "z": -3,
+      "name": "Plant_Coral_Block_Purple"
+    },
+    {
+      "x": -2,
+      "y": 5,
+      "z": -3,
+      "name": "Plant_Coral_Bush_Purple"
+    },
+    {
+      "x": -2,
+      "y": 7,
+      "z": -3,
+      "name": "Plant_Coral_Bush_Poisoned"
+    },
+    {
+      "x": -2,
+      "y": 8,
+      "z": -3,
+      "name": "Plant_Coral_Block_Poison"
+    },
+    {
+      "x": -2,
+      "y": 9,
+      "z": -3,
+      "name": "Plant_Coral_Model_Pink"
+    },
+    {
+      "x": -2,
+      "y": 10,
+      "z": -3,
+      "name": "Plant_Coral_Bush_Yellow"
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": -2,
+      "name": "Plant_Coral_Block_Purple"
+    },
+    {
+      "x": -2,
+      "y": 1,
+      "z": -2,
+      "name": "Plant_Coral_Block_Purple"
+    },
+    {
+      "x": -2,
+      "y": 2,
+      "z": -2,
+      "name": "Plant_Coral_Block_Purple"
+    },
+    {
+      "x": -2,
+      "y": 3,
+      "z": -2,
+      "name": "Plant_Coral_Block_Purple"
+    },
+    {
+      "x": -2,
+      "y": 4,
+      "z": -2,
+      "name": "Plant_Coral_Bush_Purple"
+    },
+    {
+      "x": -2,
+      "y": 7,
+      "z": -2,
+      "name": "Plant_Coral_Bush_Poisoned"
+    },
+    {
+      "x": -2,
+      "y": 8,
+      "z": -2,
+      "name": "Plant_Coral_Block_Poison"
+    },
+    {
+      "x": -2,
+      "y": 9,
+      "z": -2,
+      "name": "Plant_Coral_Bush_Yellow"
+    },
+    {
+      "x": -2,
+      "y": 10,
+      "z": -2,
+      "name": "Plant_Coral_Bush_Orange"
+    },
+    {
+      "x": -2,
+      "y": 11,
+      "z": -2,
+      "name": "Plant_Coral_Bush_Orange"
+    },
+    {
+      "x": -2,
+      "y": 6,
+      "z": -1,
+      "name": "Plant_Coral_Block_Poison"
+    },
+    {
+      "x": -2,
+      "y": 7,
+      "z": -1,
+      "name": "Plant_Coral_Block_Poison"
+    },
+    {
+      "x": -2,
+      "y": 9,
+      "z": -1,
+      "name": "Plant_Coral_Bush_Orange"
+    },
+    {
+      "x": -2,
+      "y": 7,
+      "z": 0,
+      "name": "Plant_Coral_Block_Poison"
+    },
+    {
+      "x": -2,
+      "y": 8,
+      "z": 0,
+      "name": "Plant_Coral_Block_Poison"
+    },
+    {
+      "x": -1,
+      "y": 4,
+      "z": -5,
+      "name": "Plant_Coral_Bush_Purple"
+    },
+    {
+      "x": -1,
+      "y": 4,
+      "z": -4,
+      "name": "Plant_Coral_Block_Purple"
+    },
+    {
+      "x": -1,
+      "y": 5,
+      "z": -4,
+      "name": "Plant_Coral_Bush_Purple"
+    },
+    {
+      "x": -1,
+      "y": 8,
+      "z": -4,
+      "name": "Plant_Coral_Bush_Yellow"
+    },
+    {
+      "x": -1,
+      "y": 9,
+      "z": -4,
+      "name": "Plant_Coral_Bush_Yellow"
+    },
+    {
+      "x": -1,
+      "y": 10,
+      "z": -4,
+      "name": "Plant_Coral_Bush_Yellow"
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -3,
+      "name": "Plant_Coral_Block_Poison"
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": -3,
+      "name": "Plant_Coral_Block_Poison"
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": -3,
+      "name": "Plant_Coral_Block_Poison"
+    },
+    {
+      "x": -1,
+      "y": 3,
+      "z": -3,
+      "name": "Plant_Coral_Block_Poison"
+    },
+    {
+      "x": -1,
+      "y": 4,
+      "z": -3,
+      "name": "Plant_Coral_Block_Poison"
+    },
+    {
+      "x": -1,
+      "y": 5,
+      "z": -3,
+      "name": "Plant_Coral_Block_Poison"
+    },
+    {
+      "x": -1,
+      "y": 6,
+      "z": -3,
+      "name": "Plant_Coral_Block_Poison"
+    },
+    {
+      "x": -1,
+      "y": 7,
+      "z": -3,
+      "name": "Plant_Coral_Block_Poison"
+    },
+    {
+      "x": -1,
+      "y": 8,
+      "z": -3,
+      "name": "Plant_Coral_Block_Yellow"
+    },
+    {
+      "x": -1,
+      "y": 9,
+      "z": -3,
+      "name": "Plant_Coral_Block_Yellow"
+    },
+    {
+      "x": -1,
+      "y": 10,
+      "z": -3,
+      "name": "Plant_Coral_Block_Yellow"
+    },
+    {
+      "x": -1,
+      "y": 11,
+      "z": -3,
+      "name": "Plant_Coral_Bush_Yellow"
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -2,
+      "name": "Plant_Coral_Block_Poison"
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": -2,
+      "name": "Plant_Coral_Block_Poison"
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": -2,
+      "name": "Plant_Coral_Block_Poison"
+    },
+    {
+      "x": -1,
+      "y": 3,
+      "z": -2,
+      "name": "Plant_Coral_Block_Poison"
+    },
+    {
+      "x": -1,
+      "y": 4,
+      "z": -2,
+      "name": "Plant_Coral_Block_Poison"
+    },
+    {
+      "x": -1,
+      "y": 5,
+      "z": -2,
+      "name": "Plant_Coral_Block_Poison"
+    },
+    {
+      "x": -1,
+      "y": 6,
+      "z": -2,
+      "name": "Plant_Coral_Block_Poison"
+    },
+    {
+      "x": -1,
+      "y": 7,
+      "z": -2,
+      "name": "Plant_Coral_Block_Poison"
+    },
+    {
+      "x": -1,
+      "y": 8,
+      "z": -2,
+      "name": "Plant_Coral_Block_Yellow"
+    },
+    {
+      "x": -1,
+      "y": 9,
+      "z": -2,
+      "name": "Plant_Coral_Block_Yellow"
+    },
+    {
+      "x": -1,
+      "y": 10,
+      "z": -2,
+      "name": "Plant_Coral_Block_Orange"
+    },
+    {
+      "x": -1,
+      "y": 11,
+      "z": -2,
+      "name": "Plant_Coral_Block_Orange"
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -1,
+      "name": "Plant_Coral_Block_Poison"
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": -1,
+      "name": "Plant_Coral_Block_Poison"
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": -1,
+      "name": "Plant_Coral_Block_Poison"
+    },
+    {
+      "x": -1,
+      "y": 3,
+      "z": -1,
+      "name": "Plant_Coral_Block_Poison"
+    },
+    {
+      "x": -1,
+      "y": 4,
+      "z": -1,
+      "name": "Plant_Coral_Block_Poison"
+    },
+    {
+      "x": -1,
+      "y": 5,
+      "z": -1,
+      "name": "Plant_Coral_Block_Poison"
+    },
+    {
+      "x": -1,
+      "y": 6,
+      "z": -1,
+      "name": "Plant_Coral_Block_Poison"
+    },
+    {
+      "x": -1,
+      "y": 7,
+      "z": -1,
+      "name": "Plant_Coral_Block_Purple"
+    },
+    {
+      "x": -1,
+      "y": 8,
+      "z": -1,
+      "name": "Plant_Coral_Block_Yellow"
+    },
+    {
+      "x": -1,
+      "y": 9,
+      "z": -1,
+      "name": "Plant_Coral_Block_Orange"
+    },
+    {
+      "x": -1,
+      "y": 10,
+      "z": -1,
+      "name": "Plant_Coral_Bush_Orange"
+    },
+    {
+      "x": -1,
+      "y": 11,
+      "z": -1,
+      "name": "Plant_Coral_Bush_Orange"
+    },
+    {
+      "x": -1,
+      "y": 5,
+      "z": 0,
+      "name": "Plant_Coral_Block_Poison"
+    },
+    {
+      "x": -1,
+      "y": 6,
+      "z": 0,
+      "name": "Plant_Coral_Model_Pink"
+    },
+    {
+      "x": -1,
+      "y": 7,
+      "z": 0,
+      "name": "Plant_Coral_Bush_Violet"
+    },
+    {
+      "x": -1,
+      "y": 8,
+      "z": 0,
+      "name": "Plant_Coral_Bush_Orange"
+    },
+    {
+      "x": -1,
+      "y": 9,
+      "z": 0,
+      "name": "Plant_Coral_Bush_Orange"
+    },
+    {
+      "x": 0,
+      "y": 4,
+      "z": -5,
+      "name": "Plant_Coral_Bush_Purple"
+    },
+    {
+      "x": 0,
+      "y": 9,
+      "z": -5,
+      "name": "Plant_Coral_Bush_Poisoned"
+    },
+    {
+      "x": 0,
+      "y": 4,
+      "z": -4,
+      "name": "Plant_Coral_Block_Purple"
+    },
+    {
+      "x": 0,
+      "y": 5,
+      "z": -4,
+      "name": "Plant_Coral_Bush_Purple"
+    },
+    {
+      "x": 0,
+      "y": 7,
+      "z": -4,
+      "name": "Plant_Coral_Block_Poison"
+    },
+    {
+      "x": 0,
+      "y": 8,
+      "z": -4,
+      "name": "Plant_Coral_Block_Poison"
+    },
+    {
+      "x": 0,
+      "y": 9,
+      "z": -4,
+      "name": "Plant_Coral_Model_Pink"
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "z": -3,
+      "name": "Rock_Gem_Voidstone",
+      "rotation": 5
+    },
+    {
+      "x": 0,
+      "y": 4,
+      "z": -3,
+      "name": "Plant_Coral_Block_Purple"
+    },
+    {
+      "x": 0,
+      "y": 5,
+      "z": -3,
+      "name": "Plant_Coral_Block_Purple"
+    },
+    {
+      "x": 0,
+      "y": 6,
+      "z": -3,
+      "name": "Plant_Coral_Bush_Purple"
+    },
+    {
+      "x": 0,
+      "y": 7,
+      "z": -3,
+      "name": "Plant_Coral_Block_Poison"
+    },
+    {
+      "x": 0,
+      "y": 8,
+      "z": -3,
+      "name": "Rock_Gem_Voidstone"
+    },
+    {
+      "x": 0,
+      "y": 9,
+      "z": -3,
+      "name": "Plant_Coral_Bush_Yellow"
+    },
+    {
+      "x": 0,
+      "y": 10,
+      "z": -3,
+      "name": "Plant_Coral_Bush_Yellow"
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": -2,
+      "name": "Plant_Coral_Block_Poison"
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": -2,
+      "name": "Plant_Coral_Block_Poison"
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": -2,
+      "name": "Plant_Coral_Block_Poison"
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "z": -2,
+      "name": "Plant_Coral_Block_Poison"
+    },
+    {
+      "x": 0,
+      "y": 4,
+      "z": -2,
+      "name": "Plant_Coral_Block_Poison"
+    },
+    {
+      "x": 0,
+      "y": 5,
+      "z": -2,
+      "name": "Plant_Coral_Block_Purple"
+    },
+    {
+      "x": 0,
+      "y": 6,
+      "z": -2,
+      "name": "Plant_Coral_Block_Purple"
+    },
+    {
+      "x": 0,
+      "y": 7,
+      "z": -2,
+      "name": "Plant_Coral_Block_Yellow"
+    },
+    {
+      "x": 0,
+      "y": 8,
+      "z": -2,
+      "name": "Plant_Coral_Block_Yellow"
+    },
+    {
+      "x": 0,
+      "y": 9,
+      "z": -2,
+      "name": "Plant_Coral_Bush_Yellow"
+    },
+    {
+      "x": 0,
+      "y": 11,
+      "z": -2,
+      "name": "Plant_Coral_Bush_Orange"
+    },
+    {
+      "x": 0,
+      "y": 6,
+      "z": -1,
+      "name": "Plant_Coral_Block_Purple"
+    },
+    {
+      "x": 0,
+      "y": 7,
+      "z": -1,
+      "name": "Plant_Coral_Block_Yellow"
+    },
+    {
+      "x": 0,
+      "y": 8,
+      "z": -1,
+      "name": "Plant_Coral_Bush_Yellow"
+    },
+    {
+      "x": 0,
+      "y": 9,
+      "z": -1,
+      "name": "Plant_Coral_Bush_Orange"
+    },
+    {
+      "x": 0,
+      "y": 5,
+      "z": 0,
+      "name": "Plant_Coral_Block_Poison"
+    },
+    {
+      "x": 0,
+      "y": 6,
+      "z": 0,
+      "name": "Plant_Coral_Bush_Poisoned"
+    },
+    {
+      "x": 0,
+      "y": 5,
+      "z": 1,
+      "name": "Plant_Coral_Block_Poison"
+    },
+    {
+      "x": 0,
+      "y": 6,
+      "z": 1,
+      "name": "Plant_Coral_Block_Poison"
+    },
+    {
+      "x": 1,
+      "y": 8,
+      "z": -6,
+      "name": "Plant_Coral_Bush_Poisoned"
+    },
+    {
+      "x": 1,
+      "y": 9,
+      "z": -6,
+      "name": "Plant_Coral_Bush_Poisoned"
+    },
+    {
+      "x": 1,
+      "y": 8,
+      "z": -5,
+      "name": "Plant_Coral_Block_Poison"
+    },
+    {
+      "x": 1,
+      "y": 9,
+      "z": -5,
+      "name": "Plant_Coral_Block_Poison"
+    },
+    {
+      "x": 1,
+      "y": 10,
+      "z": -5,
+      "name": "Plant_Coral_Bush_Poisoned"
+    },
+    {
+      "x": 1,
+      "y": 4,
+      "z": -4,
+      "name": "Plant_Coral_Bush_Purple"
+    },
+    {
+      "x": 1,
+      "y": 8,
+      "z": -4,
+      "name": "Plant_Coral_Block_Poison"
+    },
+    {
+      "x": 1,
+      "y": 9,
+      "z": -4,
+      "name": "Plant_Coral_Bush_Poisoned"
+    },
+    {
+      "x": 1,
+      "y": 5,
+      "z": -2,
+      "name": "Plant_Coral_Bush_Purple"
+    },
+    {
+      "x": 1,
+      "y": 7,
+      "z": -2,
+      "name": "Plant_Coral_Bush_Orange"
+    },
+    {
+      "x": 1,
+      "y": 8,
+      "z": -2,
+      "name": "Plant_Coral_Bush_Orange"
+    },
+    {
+      "x": 1,
+      "y": 7,
+      "z": -1,
+      "name": "Plant_Coral_Block_Purple"
+    },
+    {
+      "x": 1,
+      "y": 5,
+      "z": 1,
+      "name": "Plant_Coral_Bush_Poisoned"
+    },
+    {
+      "x": 1,
+      "y": 6,
+      "z": 1,
+      "name": "Plant_Coral_Block_Poison"
+    },
+    {
+      "x": 1,
+      "y": 7,
+      "z": 1,
+      "name": "Plant_Coral_Bush_Poisoned"
+    },
+    {
+      "x": 1,
+      "y": 6,
+      "z": 2,
+      "name": "Plant_Coral_Block_Poison"
+    },
+    {
+      "x": 1,
+      "y": 7,
+      "z": 2,
+      "name": "Plant_Coral_Block_Poison"
+    },
+    {
+      "x": 1,
+      "y": 8,
+      "z": 2,
+      "name": "Plant_Coral_Bush_Poisoned"
+    },
+    {
+      "x": 1,
+      "y": 7,
+      "z": 3,
+      "name": "Plant_Coral_Bush_Poisoned"
+    },
+    {
+      "x": 2,
+      "y": 8,
+      "z": -5,
+      "name": "Plant_Coral_Bush_Poisoned"
+    },
+    {
+      "x": 2,
+      "y": 9,
+      "z": -5,
+      "name": "Plant_Coral_Bush_Poisoned"
+    },
+    {
+      "x": 2,
+      "y": 7,
+      "z": -1,
+      "name": "Plant_Coral_Block_Purple"
+    },
+    {
+      "x": 2,
+      "y": 8,
+      "z": -1,
+      "name": "Plant_Coral_Block_Purple"
+    },
+    {
+      "x": 2,
+      "y": 9,
+      "z": -1,
+      "name": "Plant_Coral_Model_Pink"
+    },
+    {
+      "x": 2,
+      "y": 6,
+      "z": 1,
+      "name": "Plant_Coral_Bush_Poisoned"
+    },
+    {
+      "x": 2,
+      "y": 7,
+      "z": 1,
+      "name": "Plant_Coral_Bush_Poisoned"
+    },
+    {
+      "x": 2,
+      "y": 6,
+      "z": 2,
+      "name": "Plant_Coral_Bush_Poisoned"
+    },
+    {
+      "x": 2,
+      "y": 7,
+      "z": 2,
+      "name": "Plant_Coral_Block_Poison"
+    },
+    {
+      "x": 2,
+      "y": 8,
+      "z": 2,
+      "name": "Plant_Coral_Bush_Poisoned"
+    },
+    {
+      "x": 2,
+      "y": 7,
+      "z": 3,
+      "name": "Plant_Coral_Bush_Poisoned"
+    },
+    {
+      "x": 3,
+      "y": 8,
+      "z": -2,
+      "name": "Plant_Coral_Bush_Purple"
+    },
+    {
+      "x": 3,
+      "y": 9,
+      "z": -2,
+      "name": "Plant_Coral_Bush_Purple"
+    },
+    {
+      "x": 3,
+      "y": 8,
+      "z": -1,
+      "name": "Plant_Coral_Block_Purple"
+    },
+    {
+      "x": 3,
+      "y": 9,
+      "z": -1,
+      "name": "Plant_Coral_Block_Purple"
+    },
+    {
+      "x": 3,
+      "y": 10,
+      "z": -1,
+      "name": "Plant_Coral_Bush_Purple"
+    },
+    {
+      "x": 3,
+      "y": 8,
+      "z": 0,
+      "name": "Plant_Coral_Bush_Purple"
+    },
+    {
+      "x": 3,
+      "y": 9,
+      "z": 0,
+      "name": "Plant_Coral_Block_Purple"
+    },
+    {
+      "x": 3,
+      "y": 10,
+      "z": 0,
+      "name": "Plant_Coral_Bush_Purple"
+    },
+    {
+      "x": 3,
+      "y": 9,
+      "z": 1,
+      "name": "Plant_Coral_Bush_Purple"
+    },
+    {
+      "x": 3,
+      "y": 7,
+      "z": 2,
+      "name": "Plant_Coral_Bush_Poisoned"
+    },
+    {
+      "x": 4,
+      "y": 8,
+      "z": -1,
+      "name": "Plant_Coral_Bush_Purple"
+    },
+    {
+      "x": 4,
+      "y": 9,
+      "z": -1,
+      "name": "Plant_Coral_Bush_Purple"
+    },
+    {
+      "x": 4,
+      "y": 9,
+      "z": 0,
+      "name": "Plant_Coral_Block_Purple"
+    },
+    {
+      "x": 4,
+      "y": 10,
+      "z": 0,
+      "name": "Plant_Coral_Block_Purple"
+    },
+    {
+      "x": 4,
+      "y": 11,
+      "z": 0,
+      "name": "Plant_Coral_Bush_Purple"
+    },
+    {
+      "x": 4,
+      "y": 9,
+      "z": 1,
+      "name": "Plant_Coral_Bush_Purple"
+    },
+    {
+      "x": 4,
+      "y": 10,
+      "z": 1,
+      "name": "Plant_Coral_Bush_Purple"
+    },
+    {
+      "x": 5,
+      "y": 9,
+      "z": 0,
+      "name": "Plant_Coral_Bush_Purple"
+    },
+    {
+      "x": 5,
+      "y": 10,
+      "z": 0,
+      "name": "Plant_Coral_Bush_Purple"
+    }
+  ],
+  "fluids": [
+    {
+      "x": -6,
+      "y": 9,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -6,
+      "y": 10,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -6,
+      "y": 8,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -6,
+      "y": 9,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -6,
+      "y": 10,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -6,
+      "y": 11,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -5,
+      "y": 9,
+      "z": -4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -5,
+      "y": 10,
+      "z": -4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -5,
+      "y": 9,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -5,
+      "y": 8,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -5,
+      "y": 9,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -5,
+      "y": 10,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -5,
+      "y": 8,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -5,
+      "y": 9,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -5,
+      "y": 10,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -4,
+      "y": 9,
+      "z": -5,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -4,
+      "y": 10,
+      "z": -5,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -4,
+      "y": 9,
+      "z": -4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -4,
+      "y": 10,
+      "z": -4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -4,
+      "y": 11,
+      "z": -4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -4,
+      "y": 8,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -4,
+      "y": 8,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -4,
+      "y": 8,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -4,
+      "y": 10,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -4,
+      "y": 9,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -4,
+      "y": 10,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -4,
+      "y": 11,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -4,
+      "y": 9,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -4,
+      "y": 10,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 9,
+      "z": -5,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 8,
+      "z": -4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 9,
+      "z": -4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 10,
+      "z": -4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 8,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 9,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 8,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 6,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 7,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 8,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 9,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 7,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 8,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 9,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 8,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 9,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 10,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 9,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 4,
+      "z": -4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 5,
+      "z": -4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 3,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 4,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 5,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 7,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 8,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 9,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 10,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 1,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 2,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 3,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 4,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 7,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 8,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 9,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 10,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 11,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 6,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 7,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 9,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 7,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 8,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 4,
+      "z": -5,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 4,
+      "z": -4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 5,
+      "z": -4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 8,
+      "z": -4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 9,
+      "z": -4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 10,
+      "z": -4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 3,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 4,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 5,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 6,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 7,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 8,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 9,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 10,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 11,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 3,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 4,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 5,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 6,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 7,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 8,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 9,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 10,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 11,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 3,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 4,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 5,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 6,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 7,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 8,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 9,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 10,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 11,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 5,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 6,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 7,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 8,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 9,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 4,
+      "z": -5,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 9,
+      "z": -5,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 4,
+      "z": -4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 5,
+      "z": -4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 7,
+      "z": -4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 8,
+      "z": -4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 9,
+      "z": -4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 4,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 5,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 6,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 7,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 8,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 9,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 10,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 4,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 5,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 6,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 7,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 8,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 9,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 11,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 6,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 7,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 8,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 9,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 5,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 6,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 5,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 6,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 8,
+      "z": -6,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 9,
+      "z": -6,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 8,
+      "z": -5,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 9,
+      "z": -5,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 10,
+      "z": -5,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 4,
+      "z": -4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 8,
+      "z": -4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 9,
+      "z": -4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 5,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 7,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 8,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 7,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 5,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 6,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 7,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 6,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 7,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 8,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 7,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 8,
+      "z": -5,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 9,
+      "z": -5,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 7,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 8,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 9,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 6,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 7,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 6,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 7,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 8,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 7,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 8,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 9,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 8,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 9,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 10,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 8,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 9,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 10,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 9,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 7,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 4,
+      "y": 8,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 4,
+      "y": 9,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 4,
+      "y": 9,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 4,
+      "y": 10,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 4,
+      "y": 11,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 4,
+      "y": 9,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 4,
+      "y": 10,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 5,
+      "y": 9,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 5,
+      "y": 10,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    }
+  ],
+  "entities": [
+    {
+      "Components": {
+        "Nameplate": {
+          "Text": "Fullmetal_Whale_Yellow"
+        },
+        "HiddenFromAdventurePlayer": {},
+        "RefId": {
+          "Count": 2
+        },
+        "SpawnMarkerComponent": {
+          "SpawnMarker": "Fullmetal_Whale_Yellow",
+          "RespawnTime": 0.0,
+          "SpawnCount": 1,
+          "GameTimeRespawn": "PT24H",
+          "NPCReferences": [
+            {
+              "UUID": {
+                "$binary": "vEv0lNNcOaKGrrUc8cKbRw==",
+                "$type": "04"
+              },
+              "RefCount": 0
+            }
+          ],
+          "PersistedFlock": {},
+          "SpawnPosition": {
+            "X": -183.5,
+            "Y": 94.0,
+            "Z": -82.5
+          }
+        },
+        "Transform": {
+          "Position": {
+            "X": -0.4676666259765625,
+            "Y": 13.445320129394531,
+            "Z": -1.5270538330078125
+          },
+          "Rotation": {
+            "Pitch": 0.0,
+            "Yaw": 1.2079639434814453,
+            "Roll": 0.0
+          }
+        },
+        "Intangible": {},
+        "PrefabCopyable": {},
+        "Model": {
+          "Model": {
+            "Id": "NPC_Spawn_Marker",
+            "Scale": 1.0,
+            "Static": false
+          }
+        },
+        "UUID": {
+          "UUID": {
+            "$binary": "cSs9+1O/N5ysoCaTumCPrw==",
+            "$type": "04"
+          }
+        },
+        "WorldGenId": {
+          "WorldGenId": 0
+        },
+        "HeadRotation": {
+          "Rotation": {
+            "Pitch": 0.0,
+            "Yaw": 1.2079639434814453,
+            "Roll": 0.0
+          }
+        }
+      }
+    },
+    {
+      "Components": {
+        "EffectController": {},
+        "DisplayName": {
+          "DisplayName": {
+            "MessageId": "server.npcRoles.Bat.name",
+            "Bold": null,
+            "Italic": null,
+            "Monospace": null,
+            "Underline": null
+          }
+        },
+        "RefId": {
+          "Count": 0
+        },
+        "UIComponentList": {},
+        "Transform": {
+          "Position": {
+            "X": -0.5,
+            "Y": 14.0,
+            "Z": -1.5
+          },
+          "Rotation": {
+            "Pitch": 0.0,
+            "Yaw": 1.2079639434814453,
+            "Roll": 0.0
+          }
+        },
+        "Velocity": {
+          "Velocity": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          }
+        },
+        "PrefabCopyable": {},
+        "Interactions": {
+          "Interactions": {
+            "Use": "*UseNPC"
+          }
+        },
+        "Model": {
+          "Model": {
+            "Id": "Fullmetal_Whale_Yellow",
+            "Scale": 2.756263017654419,
+            "Static": false
+          }
+        },
+        "UUID": {
+          "UUID": {
+            "$binary": "vEv0lNNcOaKGrrUc8cKbRw==",
+            "$type": "04"
+          }
+        },
+        "EntityStats": {
+          "Version": 5,
+          "Stats": {
+            "Oxygen": {
+              "Id": "Oxygen",
+              "Value": 100.0
+            },
+            "Mana": {
+              "Id": "Mana",
+              "Value": 0.0
+            },
+            "Health": {
+              "Id": "Health",
+              "Value": 100.0,
+              "Modifiers": {
+                "NPC_Max": {
+                  "Id": "Static",
+                  "CalculationType": "Additive",
+                  "Amount": 2400.0
+                }
+              }
+            },
+            "GlidingActive": {
+              "Id": "GlidingActive",
+              "Value": 0.0
+            },
+            "Immunity": {
+              "Id": "Immunity",
+              "Value": 0.0
+            },
+            "SignatureCharges": {
+              "Id": "SignatureCharges",
+              "Value": 0.0
+            },
+            "Stamina": {
+              "Id": "Stamina",
+              "Value": 10.0
+            },
+            "Ammo": {
+              "Id": "Ammo",
+              "Value": 0.0
+            },
+            "Unknown": {
+              "Id": "Unknown",
+              "Value": 0.0
+            },
+            "SignatureEnergy": {
+              "Id": "SignatureEnergy",
+              "Value": 0.0
+            },
+            "DeployablePreview": {
+              "Id": "DeployablePreview",
+              "Value": 0.0
+            },
+            "StaminaRegenDelay": {
+              "Id": "StaminaRegenDelay",
+              "Value": 0.0
+            },
+            "MagicCharges": {
+              "Id": "MagicCharges",
+              "Value": 0.0
+            }
+          }
+        },
+        "SpawnMarkerReference": {
+          "SpawnMarker": {
+            "UUID": {
+              "$binary": "cSs9+1O/N5ysoCaTumCPrw==",
+              "$type": "04"
+            },
+            "RefCount": 2
+          }
+        },
+        "WorldGenId": {
+          "WorldGenId": 0
+        },
+        "NPC": {
+          "Version": 5,
+          "UUID": {
+            "$binary": "vEv0lNNcOaKGrrUc8cKbRw==",
+            "$type": "04"
+          },
+          "Inventory": {
+            "Version": 4,
+            "Storage": {
+              "Id": "Empty"
+            },
+            "Armor": {
+              "Id": "Simple",
+              "Capacity": 4,
+              "Items": {}
+            },
+            "HotBar": {
+              "Id": "Simple",
+              "Capacity": 3,
+              "Items": {}
+            },
+            "Utility": {
+              "Id": "Empty"
+            },
+            "Backpack": {
+              "Id": "Empty"
+            },
+            "ActiveHotbarSlot": 0,
+            "Tool": {
+              "Id": "Empty"
+            },
+            "ActiveToolsSlot": -1,
+            "ActiveUtilitySlot": -1,
+            "SortType": "Name"
+          },
+          "HvrPhs": 0.0,
+          "HvrHght": 0.0,
+          "MdlScl": 2.756263017654419,
+          "SpawnInstant": "0001-01-03T12:01:16.000148352Z",
+          "WorldgenId": 0,
+          "PathManager": {},
+          "LeashPos": {
+            "X": -183.5,
+            "Y": 94.0,
+            "Z": -82.5
+          },
+          "LeashHdg": 1.2079639434814453,
+          "LeashPtch": 0.0,
+          "RoleName": "Fullmetal_Whale_Yellow"
+        },
+        "HeadRotation": {
+          "Rotation": {
+            "Pitch": 0.0,
+            "Yaw": 1.2079639434814453,
+            "Roll": 0.0
+          }
+        }
+      }
+    }
+  ]
+}

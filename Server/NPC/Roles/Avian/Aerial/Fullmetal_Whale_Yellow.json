@@ -1,0 +1,24 @@
+{
+  "Type": "Variant",
+  "Reference": "Template_Birds_Passive",
+  "Modify": {
+    "Appearance": "Fullmetal_Whale_Yellow",
+    "FlockArray": [
+      "Bat"
+    ],
+    "DropList": "Drop_Fullmetal_Whale_Yellow",
+    "MaxHealth": 2500,
+    "WanderRadius": 50,
+    "IsMemory": true,
+    "MemoriesCategory": "Avian",
+    "NameTranslationKey": {
+      "Compute": "NameTranslationKey"
+    }
+  },
+  "Parameters": {
+    "NameTranslationKey": {
+      "Value": "server.npcRoles.Bat.name",
+      "Description": "Translation key for NPC name display"
+    }
+  }
+}

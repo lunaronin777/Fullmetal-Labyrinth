@@ -1,0 +1,121 @@
+{
+  "Type": "Variant",
+  "Reference": "Template_Predator",
+  "Modify": {
+    "Appearance": "Fullmetal_Rex_Cave",
+    "FlockArray": [
+      "Fullmetal_Rex_Cave"
+    ],
+    "AttitudeGroup": "PredatorsBig",
+    "WanderRadius": 8,
+    "ViewRange": 35,
+    "FleeRange": 15,
+    "HearingRange": 30,
+    "DropList": "Drop_Fullmetal_Rex_Cave",
+    "MaxSpeed": 17,
+    "Attack": "Root_NPC_Attack_Melee",
+    "AttackDistance": 3,
+    "TargetRange": 5,
+    "CombatBehaviorDistance": 15,
+    "CombatAlwaysMovingWeight": 1000,
+    "RunThreshold": 0.1,
+    "KnockbackScale": 0.1,
+    "ClimbHeight": 3,
+    "MinJumpHeight": 2.5,
+    "AscentAnimationType": "Walk",
+    "ClimbSpeedMult": 4,
+    "ClimbSpeedPow": 2,
+    "ClimbSpeedConst": 5,
+    "DescendSpeedCompensation": 1,
+    "DescendFlatness": 0.9,
+    "DescentSteepness": 0.9,
+    "DescentBlending": 1.5,
+    "LeashDistance": 160,
+    "HardLeashDistance": 200,
+    "LeashMinPlayerDistance": 15,
+    "LeashTimer": [
+      12,
+      16
+    ],
+    "AlwaysSleepAtNight": false,
+    "MaxHealth": 1400,
+    "IsMemory": true,
+    "MemoriesCategory": "Reptile",
+    "_InteractionVars": {
+      "Melee_Start": {
+        "Interactions": [
+          {
+            "Parent": "NPC_Attack_Melee_Simple",
+            "$Comment": "Sets animations and delay before hit",
+            "Effects": {
+              "ItemPlayerAnimationsId": "Hyena_Default",
+              "ItemAnimationId": "Bite",
+              "WorldSoundEventId": "SFX_Rex_Bite"
+            },
+            "RunTime": 0.111
+          }
+        ]
+      },
+      "Melee_Damage": {
+        "Interactions": [
+          {
+            "Parent": "NPC_Attack_Melee_Damage",
+            "$Comment": "Sets damage and onhit effects",
+            "DamageCalculator": {
+              "Type": "Absolute",
+              "BaseDamage": {
+                "Physical": 88
+              },
+              "RandomPercentageModifier": 0.1
+            },
+            "Effects": {
+              "WorldSoundEventId": "SFX_Bone_Hit"
+            },
+            "DamageEffects": {
+              "Knockback": {
+                "Force": 0.2,
+                "RelativeX": 0,
+                "RelativeZ": 1.8,
+                "VelocityY": 12,
+                "VelocityType": "Set"
+              }
+            }
+          }
+        ]
+      },
+      "Melee_Selector": {
+        "Interactions": [
+          {
+            "Parent": "NPC_Attack_Selector_Left",
+            "$Comment": "Sets Hit shape and padding to allow effect to play and wait till animation is over",
+            "RunTime": 0.152,
+            "Selector": {
+              "Id": "Stab",
+              "TestLineOfSight": true,
+              "ExtendTop": 3,
+              "ExtendBottom": 3,
+              "ExtendLeft": 3,
+              "ExtendRight": 3,
+              "StartDistance": 1,
+              "EndDistance": 5
+            },
+            "Next": {
+              "Type": "Simple",
+              "$Comment": "Pad the interaction length",
+              "RunTime": 0.03
+            }
+          }
+        ]
+      }
+    },
+    "NameTranslationKey": {
+      "Compute": "NameTranslationKey"
+    }
+  },
+  "Parameters": {
+    "NameTranslationKey": {
+      "Value": "server.npcRoles.Rex_Cave.name",
+      "Description": "Translation key for NPC name display"
+    }
+  }
+}

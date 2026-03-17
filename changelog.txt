@@ -1,3 +1,27 @@
+version 1.3.17:
+-added couple of corridors (as always)
+-performance upgrade
+
+version 1.3.16:
+-added new floating island
+-new species of Trillodon on the surface!
+-added couple of corridors (as always)
+
+version 1.3.15:
+-added new floating island
+-new species of Cave Rex on the surface!
+-added couple of corridors (as always)
+
+version 1.3.14:
+-fixed sky
+-updated biomes
+-new species of whales now on the surface!
+-added couple of corridors (as always)
+
+version 1.3.13:
+-updated biomes
+-added couple of corridors (as always)
+
 version 1.3.12:
 -deleted some pillars that put too much load on the server
 -added new biome

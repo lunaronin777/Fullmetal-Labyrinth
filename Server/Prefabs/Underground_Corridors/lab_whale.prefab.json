@@ -99722,9 +99722,9 @@
         "Components": {
           "container": {
             "Position": {
-              "X": 18,
+              "X": 21,
               "Y": 83,
-              "Z": 8
+              "Z": 20
             },
             "Custom": false,
             "AllowViewing": true,
@@ -260112,6 +260112,144 @@
   "entities": [
     {
       "Components": {
+        "Nameplate": {
+          "Text": "Fullmetal_Whale"
+        },
+        "HiddenFromAdventurePlayer": {},
+        "RefId": {
+          "Count": 0
+        },
+        "SpawnMarkerComponent": {
+          "SpawnMarker": "Fullmetal_Whale",
+          "RespawnTime": 0.0,
+          "SpawnCount": 1,
+          "GameTimeRespawn": "PT24H",
+          "NPCReferences": [
+            {
+              "UUID": {
+                "$binary": "ur9gAR2UM0+y4vAfDcwd7Q==",
+                "$type": "04"
+              },
+              "RefCount": 0
+            }
+          ],
+          "PersistedFlock": {},
+          "SpawnPosition": {
+            "X": 80.5,
+            "Y": 104.0,
+            "Z": -85.5
+          }
+        },
+        "Transform": {
+          "Position": {
+            "X": 10.378753662109375,
+            "Y": 23.028343200683594,
+            "Z": 9.02606201171875
+          },
+          "Rotation": {
+            "Pitch": 0.0,
+            "Yaw": 1.2079639434814453,
+            "Roll": 0.0
+          }
+        },
+        "Intangible": {},
+        "PrefabCopyable": {},
+        "Model": {
+          "Model": {
+            "Id": "NPC_Spawn_Marker",
+            "Scale": 1.0,
+            "Static": false
+          }
+        },
+        "UUID": {
+          "UUID": {
+            "$binary": "s4CtLECENVGBfHwJnKIAmw==",
+            "$type": "04"
+          }
+        },
+        "WorldGenId": {
+          "WorldGenId": 0
+        },
+        "HeadRotation": {
+          "Rotation": {
+            "Pitch": 0.0,
+            "Yaw": 1.2079639434814453,
+            "Roll": 0.0
+          }
+        }
+      }
+    },
+    {
+      "Components": {
+        "Nameplate": {
+          "Text": "Fullmetal_Whale"
+        },
+        "HiddenFromAdventurePlayer": {},
+        "RefId": {
+          "Count": 0
+        },
+        "SpawnMarkerComponent": {
+          "SpawnMarker": "Fullmetal_Whale",
+          "RespawnTime": 0.0,
+          "SpawnCount": 1,
+          "GameTimeRespawn": "PT24H",
+          "NPCReferences": [
+            {
+              "UUID": {
+                "$binary": "wAZuWNCTOYS+3FUAv2SGIA==",
+                "$type": "04"
+              },
+              "RefCount": 0
+            }
+          ],
+          "PersistedFlock": {},
+          "SpawnPosition": {
+            "X": 83.5,
+            "Y": 104.0,
+            "Z": -88.5
+          }
+        },
+        "Transform": {
+          "Position": {
+            "X": 8.139503479003906,
+            "Y": 22.71588134765625,
+            "Z": -5.198272705078125
+          },
+          "Rotation": {
+            "Pitch": 0.0,
+            "Yaw": 1.2079639434814453,
+            "Roll": 0.0
+          }
+        },
+        "Intangible": {},
+        "PrefabCopyable": {},
+        "Model": {
+          "Model": {
+            "Id": "NPC_Spawn_Marker",
+            "Scale": 1.0,
+            "Static": false
+          }
+        },
+        "UUID": {
+          "UUID": {
+            "$binary": "U1j48l/zPSmA4v7WdZ7Prw==",
+            "$type": "04"
+          }
+        },
+        "WorldGenId": {
+          "WorldGenId": 0
+        },
+        "HeadRotation": {
+          "Rotation": {
+            "Pitch": 0.0,
+            "Yaw": 1.2079639434814453,
+            "Roll": 0.0
+          }
+        }
+      }
+    },
+    {
+      "Components": {
         "EffectController": {},
         "DisplayName": {
           "DisplayName": {
@@ -260128,21 +260266,21 @@
         "UIComponentList": {},
         "Transform": {
           "Position": {
-            "X": 5.5,
-            "Y": 84.0,
-            "Z": -2.5
+            "X": 4.089897155761719,
+            "Y": 33.09368133544922,
+            "Z": 0.02225494384765625
           },
           "Rotation": {
-            "Pitch": 0.0,
-            "Yaw": 1.2079639434814453,
-            "Roll": 0.0
+            "Pitch": -0.41730165481567383,
+            "Yaw": -0.19022178649902344,
+            "Roll": -0.019490480422973633
           }
         },
         "Velocity": {
           "Velocity": {
-            "X": 0.0,
-            "Y": 0.0,
-            "Z": 0.0
+            "X": 0.7955288897395343,
+            "Y": -1.8538671835387774,
+            "Z": -4.114736084430475
           }
         },
         "PrefabCopyable": {},
@@ -260154,13 +260292,13 @@
         "Model": {
           "Model": {
             "Id": "Fullmetal_Whale",
-            "Scale": 3.0176663398742676,
+            "Scale": 3.1617660522460938,
             "Static": false
           }
         },
         "UUID": {
           "UUID": {
-            "$binary": "0nC4ZqD/MEaWF6EFxejtJA==",
+            "$binary": "ur9gAR2UM0+y4vAfDcwd7Q==",
             "$type": "04"
           }
         },
@@ -260182,7 +260320,7 @@
                 "NPC_Max": {
                   "Id": "Static",
                   "CalculationType": "Additive",
-                  "Amount": 1400.0
+                  "Amount": 2400.0
                 }
               }
             },
@@ -260231,7 +260369,7 @@
         "SpawnMarkerReference": {
           "SpawnMarker": {
             "UUID": {
-              "$binary": "i+xg20u4MdKqU8kI8bZvoQ==",
+              "$binary": "s4CtLECENVGBfHwJnKIAmw==",
               "$type": "04"
             },
             "RefCount": 0
@@ -260243,7 +260381,7 @@
         "NPC": {
           "Version": 5,
           "UUID": {
-            "$binary": "0nC4ZqD/MEaWF6EFxejtJA==",
+            "$binary": "ur9gAR2UM0+y4vAfDcwd7Q==",
             "$type": "04"
           },
           "Inventory": {
@@ -260277,14 +260415,14 @@
           },
           "HvrPhs": 0.0,
           "HvrHght": 0.0,
-          "MdlScl": 3.0176663398742676,
-          "SpawnInstant": "0001-01-20T12:00:00Z",
+          "MdlScl": 3.1617660522460938,
+          "SpawnInstant": "0001-01-01T09:03:00.603494742Z",
           "WorldgenId": 0,
           "PathManager": {},
           "LeashPos": {
-            "X": -18.5,
-            "Y": 164.0,
-            "Z": -737.5
+            "X": 80.5,
+            "Y": 104.0,
+            "Z": -85.5
           },
           "LeashHdg": 1.2079639434814453,
           "LeashPtch": 0.0,
@@ -260292,48 +260430,34 @@
         },
         "HeadRotation": {
           "Rotation": {
-            "Pitch": 0.0,
-            "Yaw": 1.2079639434814453,
-            "Roll": 0.0
+            "Pitch": -0.41730165481567383,
+            "Yaw": -0.19022178649902344,
+            "Roll": 1.6779760735415867E-17
           }
         }
       }
     },
     {
       "Components": {
-        "Nameplate": {
-          "Text": "Fullmetal_Whale"
+        "EffectController": {},
+        "DisplayName": {
+          "DisplayName": {
+            "MessageId": "server.npcRoles.Bat.name",
+            "Bold": null,
+            "Italic": null,
+            "Monospace": null,
+            "Underline": null
+          }
         },
-        "HiddenFromAdventurePlayer": {},
         "RefId": {
           "Count": 0
         },
-        "SpawnMarkerComponent": {
-          "SpawnMarker": "Fullmetal_Whale",
-          "RespawnTime": 0.0,
-          "SpawnCount": 1,
-          "GameTimeRespawn": "PT24H",
-          "NPCReferences": [
-            {
-              "UUID": {
-                "$binary": "0nC4ZqD/MEaWF6EFxejtJA==",
-                "$type": "04"
-              },
-              "RefCount": 0
-            }
-          ],
-          "PersistedFlock": {},
-          "SpawnPosition": {
-            "X": -18.5,
-            "Y": 164.0,
-            "Z": -737.5
-          }
-        },
+        "UIComponentList": {},
         "Transform": {
           "Position": {
-            "X": 5.0448150634765625,
-            "Y": 82.09868621826172,
-            "Z": -2.912811279296875
+            "X": 8.5,
+            "Y": 24.0,
+            "Z": -5.5
           },
           "Rotation": {
             "Pitch": 0.0,
@@ -260341,23 +260465,157 @@
             "Roll": 0.0
           }
         },
-        "Intangible": {},
+        "Velocity": {
+          "Velocity": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          }
+        },
         "PrefabCopyable": {},
+        "Interactions": {
+          "Interactions": {
+            "Use": "*UseNPC"
+          }
+        },
         "Model": {
           "Model": {
-            "Id": "NPC_Spawn_Marker",
-            "Scale": 1.0,
+            "Id": "Fullmetal_Whale",
+            "Scale": 2.895679473876953,
             "Static": false
           }
         },
         "UUID": {
           "UUID": {
-            "$binary": "i+xg20u4MdKqU8kI8bZvoQ==",
+            "$binary": "wAZuWNCTOYS+3FUAv2SGIA==",
             "$type": "04"
+          }
+        },
+        "EntityStats": {
+          "Version": 5,
+          "Stats": {
+            "Oxygen": {
+              "Id": "Oxygen",
+              "Value": 100.0
+            },
+            "Mana": {
+              "Id": "Mana",
+              "Value": 0.0
+            },
+            "Health": {
+              "Id": "Health",
+              "Value": 100.0,
+              "Modifiers": {
+                "NPC_Max": {
+                  "Id": "Static",
+                  "CalculationType": "Additive",
+                  "Amount": 2400.0
+                }
+              }
+            },
+            "GlidingActive": {
+              "Id": "GlidingActive",
+              "Value": 0.0
+            },
+            "Immunity": {
+              "Id": "Immunity",
+              "Value": 0.0
+            },
+            "SignatureCharges": {
+              "Id": "SignatureCharges",
+              "Value": 0.0
+            },
+            "Stamina": {
+              "Id": "Stamina",
+              "Value": 10.0
+            },
+            "Ammo": {
+              "Id": "Ammo",
+              "Value": 0.0
+            },
+            "Unknown": {
+              "Id": "Unknown",
+              "Value": 0.0
+            },
+            "SignatureEnergy": {
+              "Id": "SignatureEnergy",
+              "Value": 0.0
+            },
+            "DeployablePreview": {
+              "Id": "DeployablePreview",
+              "Value": 0.0
+            },
+            "StaminaRegenDelay": {
+              "Id": "StaminaRegenDelay",
+              "Value": 0.0
+            },
+            "MagicCharges": {
+              "Id": "MagicCharges",
+              "Value": 0.0
+            }
+          }
+        },
+        "SpawnMarkerReference": {
+          "SpawnMarker": {
+            "UUID": {
+              "$binary": "U1j48l/zPSmA4v7WdZ7Prw==",
+              "$type": "04"
+            },
+            "RefCount": 0
           }
         },
         "WorldGenId": {
           "WorldGenId": 0
+        },
+        "NPC": {
+          "Version": 5,
+          "UUID": {
+            "$binary": "wAZuWNCTOYS+3FUAv2SGIA==",
+            "$type": "04"
+          },
+          "Inventory": {
+            "Version": 4,
+            "Storage": {
+              "Id": "Empty"
+            },
+            "Armor": {
+              "Id": "Simple",
+              "Capacity": 4,
+              "Items": {}
+            },
+            "HotBar": {
+              "Id": "Simple",
+              "Capacity": 3,
+              "Items": {}
+            },
+            "Utility": {
+              "Id": "Empty"
+            },
+            "Backpack": {
+              "Id": "Empty"
+            },
+            "ActiveHotbarSlot": 0,
+            "Tool": {
+              "Id": "Empty"
+            },
+            "ActiveToolsSlot": -1,
+            "ActiveUtilitySlot": -1,
+            "SortType": "Name"
+          },
+          "HvrPhs": 0.0,
+          "HvrHght": 0.0,
+          "MdlScl": 2.895679473876953,
+          "SpawnInstant": "0001-01-01T11:53:24.618585103Z",
+          "WorldgenId": 0,
+          "PathManager": {},
+          "LeashPos": {
+            "X": 83.5,
+            "Y": 104.0,
+            "Z": -88.5
+          },
+          "LeashHdg": 1.2079639434814453,
+          "LeashPtch": 0.0,
+          "RoleName": "Fullmetal_Whale"
         },
         "HeadRotation": {
           "Rotation": {
