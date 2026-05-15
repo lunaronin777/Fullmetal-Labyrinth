@@ -1,0 +1,81 @@
+{
+  "Container": {
+    "Type": "Multiple",
+    "Containers": [
+      {
+        "Type": "Choice",
+        "Weight": 100,
+        "Containers": [
+          {
+            "Type": "Single",
+            "Item": {
+              "ItemId": "Ingredient_Bar_Iron",
+              "QuantityMin": 2,
+              "QuantityMax": 3
+            }
+          }
+        ]
+      },
+      {
+        "Type": "Choice",
+        "Weight": 100,
+        "Containers": [
+          {
+            "Type": "Single",
+            "Item": {
+              "ItemId": "Fullmetal_Repair_Kit",
+              "QuantityMin": 0,
+              "QuantityMax": 1
+            }
+          },
+          {
+            "Type": "Single",
+            "Item": {
+              "ItemId": "Ingredient_Bar_Adamantite",
+              "QuantityMin": 2,
+              "QuantityMax": 3
+            }
+          },
+          {
+            "Type": "Single",
+            "Item": {
+              "ItemId": "Ingredient_Bar_Iron",
+              "QuantityMin": 2,
+              "QuantityMax": 3
+            }
+          },
+          {
+            "Type": "Single",
+            "Item": {
+              "ItemId": "Ingredient_Bar_Iron",
+              "QuantityMin": 2,
+              "QuantityMax": 3
+            }
+          },
+          {
+            "Type": "Single",
+            "Item": {
+              "ItemId": "Weapon_Fullmetal_Daggers_Yellow",
+              "QuantityMin": 0,
+              "QuantityMax": 1
+            }
+          }
+        ]
+      },
+      {
+        "Type": "Choice",
+        "Weight": 100,
+        "Containers": [
+          {
+            "Type": "Single",
+            "Item": {
+              "ItemId": "Deco_Iron_Chain_Small",
+              "QuantityMin": 1,
+              "QuantityMax": 2
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

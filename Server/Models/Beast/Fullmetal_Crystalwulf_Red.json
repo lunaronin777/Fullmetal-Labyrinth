@@ -246,5 +246,18 @@
   ],
   "Light": {
     "Color": "#711"
+  },
+  "Icon": "Icons/ModelsGenerated/Fullmetal_Crystalwulf_Red.png",
+  "IconProperties": {
+    "Scale": 0.2,
+    "Rotation": [
+      0,
+      -45,
+      0
+    ],
+    "Translation": [
+      0,
+      -75
+    ]
   }
 }

@@ -47,5 +47,18 @@
   },
   "Phobia": "Arachnophobia",
   "MinScale": 0.65,
-  "MaxScale": 0.66
+  "MaxScale": 0.66,
+  "Icon": "Icons/ModelsGenerated/Fullmetal_Statue_Brown_Mushroom.png",
+  "IconProperties": {
+    "Scale": 0.2,
+    "Rotation": [
+      0,
+      -45,
+      0
+    ],
+    "Translation": [
+      0,
+      -75
+    ]
+  }
 }

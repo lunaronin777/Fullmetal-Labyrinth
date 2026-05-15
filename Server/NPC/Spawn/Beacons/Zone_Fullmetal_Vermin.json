@@ -1,0 +1,90 @@
+{
+  "Environments": [
+    "Env_Fullmetal_Ash_Biome",
+    "Env_Fullmetal_Mid_Biome",
+    "Env_Fullmetal_Top_Biome"
+  ],
+  "MinDistanceFromPlayer": 25,
+  "MaxSpawnedNPCs": 2,
+  "ConcurrentSpawnsRange": [
+    1,
+    2
+  ],
+  "NPCIdleDespawnTime": 600,
+  "BeaconVacantDespawnGameTime": "PT2H",
+  "BeaconRadius": 70,
+  "SpawnRadius": 40,
+  "TargetDistanceFromPlayer": 20,
+  "NPCs": [
+    {
+      "Weight": 15,
+      "Id": "Rat"
+    },
+    {
+      "Weight": 5,
+      "Id": "Spectre_Void"
+    },
+    {
+      "Weight": 7,
+      "Id": "Fullmetal_Scarak_Fighter"
+    },
+    {
+      "Weight": 7,
+      "Id": "Fullmetal_Scarak_Seeker"
+    },
+    {
+      "Weight": 5,
+      "Id": "Fullmetal_Statue"
+    },
+    {
+      "Weight": 14,
+      "Id": "Zombie_Burnt"
+    },
+    {
+      "Weight": 10,
+      "Id": "Crawler_Void"
+    },
+    {
+      "Weight": 5,
+      "Id": "Bat"
+    },
+    {
+      "Id": "Fullmetal_Micro_Spider",
+      "Weight": 10
+    },
+    {
+      "Id": "Fullmetal_Toad_Rhino_Green_Crystal",
+      "Weight": 2
+    },
+    {
+      "Id": "Fullmetal_Toad_Rhino_Purple_Crystal",
+      "Weight": 2
+    },
+    {
+      "Id": "Fullmetal_Toad_Rhino_Red_Crystal",
+      "Weight": 2
+    },
+    {
+      "Id": "Spider_Cave",
+      "Weight": 5
+    },
+    {
+      "Id": "Larva_Void",
+      "Weight": 5
+    },
+    {
+      "Id": "Fullmetal_Cerberus",
+      "Weight": 2
+    },
+    {
+      "Id": "Hound_Bleached",
+      "Weight": 4
+    }
+  ],
+  "SpawnAfterRealTimeRange": [
+    "PT1S",
+    "PT2S"
+  ],
+  "NPCSpawnState": "Seek",
+  "TargetSlot": "LockedTarget"
+}

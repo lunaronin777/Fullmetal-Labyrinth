@@ -1,0 +1,18 @@
+{
+  "Parent": "Trork",
+  "Texture": "NPC/Intelligent/Fullmetal_Minotaur/Model_Textures/Minotaur.png",
+  "MinScale": 1.35,
+  "MaxScale": 1.35,
+  "DefaultAttachments": [
+    {
+      "Model": "NPC/Intelligent/Trork/Models/Attachments/Chieftain/Chest.blockymodel",
+      "Texture": "NPC/Intelligent/Trork/Models/Attachments/Chieftain/Chest_Texture.png"
+    },
+    {
+      "Model": "NPC/Intelligent/Trork/Models/Attachments/Warrior/Hands.blockymodel",
+      "Texture": "NPC/Intelligent/Trork/Models/Attachments/Warrior/Hands_Texture.png"
+    }
+  ],
+  "EyeHeight": 1.9,
+  "Model": "NPC/Intelligent/Fullmetal_Minotaur/Model.blockymodel"
+}

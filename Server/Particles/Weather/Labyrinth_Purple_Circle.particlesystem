@@ -1,0 +1,16 @@
+{
+  "Spawners": [
+    {
+      "SpawnerId": "Labyrinth_Purple_Circle",
+      "PositionOffset": {
+        "Z": 0.0,
+        "Y": 0
+      },
+      "RotationOffset": {
+        "Pitch": 0
+      }
+    }
+  ],
+  "IsImportant": false,
+  "CullDistance": 3000.0
+}

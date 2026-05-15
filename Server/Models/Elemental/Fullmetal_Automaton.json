@@ -4,5 +4,18 @@
   "EyeHeight": 1.7,
   "GradientSet": "Faded_Leather",
   "MinScale": 1.4,
-  "MaxScale": 1.41
+  "MaxScale": 1.41,
+  "Icon": "Icons/ModelsGenerated/Fullmetal_Automaton.png",
+  "IconProperties": {
+    "Scale": 0.2,
+    "Rotation": [
+      0,
+      -45,
+      0
+    ],
+    "Translation": [
+      0,
+      -75
+    ]
+  }
 }

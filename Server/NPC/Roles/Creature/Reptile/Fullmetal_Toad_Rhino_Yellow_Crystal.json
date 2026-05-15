@@ -1,0 +1,74 @@
+{
+  "Type": "Variant",
+  "Reference": "Template_Predator",
+  "Modify": {
+    "Appearance": "Fullmetal_Toad_Rhino_Yellow_Crystal",
+    "WanderRadius": 3,
+    "ViewRange": 50,
+    "FleeRange": 15,
+    "HearingRange": 15,
+    "DropList": "Drop_Fullmetal_Toad_Rhino_Yellow_Crystal",
+    "MaxSpeed": 8,
+    "Attack": "Root_NPC_Toad_Rhino_Attack",
+    "AttackDistance": 30,
+    "TargetRange": 30,
+    "CombatBehaviorDistance": 30,
+    "AlwaysSleepAtNight": false,
+    "MaxHealth": 424,
+    "IsMemory": true,
+    "MemoriesCategory": "Reptile",
+    "_InteractionVars": {
+      "Tongue_Damage": {
+        "Interactions": [
+          {
+            "Parent": "Toad_Rhino_Tongue_Damage",
+            "DamageCalculator": {
+              "Type": "Absolute",
+              "BaseDamage": {
+                "Physical": 38
+              },
+              "RandomPercentageModifier": 0.1
+            },
+            "DamageEffects": {
+              "Knockback": {
+                "Force": 1,
+                "RelativeX": 0,
+                "RelativeZ": 0.5,
+                "VelocityY": 2,
+                "VelocityType": "Set"
+              }
+            }
+          }
+        ]
+      },
+      "Headbutt_Damage": {
+        "Interactions": [
+          {
+            "Parent": "Toad_Rhino_Headbutt_Damage",
+            "DamageCalculator": {
+              "Type": "Absolute",
+              "BaseDamage": {
+                "Physical": 85
+              },
+              "RandomPercentageModifier": 0.1
+            },
+            "DamageEffects": {
+              "Knockback": {
+                "Force": -100
+              }
+            }
+          }
+        ]
+      }
+    },
+    "NameTranslationKey": {
+      "Compute": "NameTranslationKey"
+    }
+  },
+  "Parameters": {
+    "NameTranslationKey": {
+      "Value": "server.npcRoles.Toad_Rhino.name",
+      "Description": "Translation key for NPC name display"
+    }
+  }
+}

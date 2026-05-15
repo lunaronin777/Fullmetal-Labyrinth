@@ -424,5 +424,18 @@
         }
       ]
     }
+  },
+  "Icon": "Icons/ModelsGenerated/Fullmetal_Rex_Cave.png",
+  "IconProperties": {
+    "Scale": 0.1,
+    "Rotation": [
+      0,
+      -45,
+      0
+    ],
+    "Translation": [
+      -25,
+      -150
+    ]
   }
 }

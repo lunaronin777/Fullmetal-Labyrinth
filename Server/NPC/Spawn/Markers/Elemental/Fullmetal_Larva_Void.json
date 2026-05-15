@@ -1,0 +1,13 @@
+{
+  "Model": "NPC_Spawn_Marker",
+  "NPCs": [
+    {
+      "Name": "Larva_Void",
+      "Weight": 100,
+      "SpawnAfterGameTime": "P1D"
+    }
+  ],
+  "ExclusionRadius": 4,
+  "MaxDropHeight": 10,
+  "DeactivationDistance": 75
+}

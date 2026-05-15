@@ -7,7 +7,7 @@
       "SpawnAfterGameTime": "P1D"
     }
   ],
-  "ExclusionRadius": 40,
+  "ExclusionRadius": 4,
   "MaxDropHeight": 10,
-  "DeactivationDistance": 250
+  "DeactivationDistance": 100
 }

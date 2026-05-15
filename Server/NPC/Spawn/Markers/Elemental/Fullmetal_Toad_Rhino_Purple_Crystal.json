@@ -1,0 +1,13 @@
+{
+  "Model": "NPC_Spawn_Marker",
+  "NPCs": [
+    {
+      "Name": "Fullmetal_Toad_Rhino_Purple_Crystal",
+      "Weight": 100,
+      "SpawnAfterGameTime": "P1D"
+    }
+  ],
+  "ExclusionRadius": 4,
+  "MaxDropHeight": 4,
+  "DeactivationDistance": 100
+}

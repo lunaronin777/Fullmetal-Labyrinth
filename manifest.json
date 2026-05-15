@@ -1,8 +1,8 @@
 {
   "Group": "Lunaronin777",
   "Name": "Fullmetal Labyrinth",
-  "Version": "1.3.17",
-  "Description": "The Labyrinth Remembers, and the Gears Turn",
+  "Version": "1.5.15",
+  "Description": "Welcome to the gods personal warehouse!",
   "Authors": [
     {
       "Name": "Lunaronin777",
@@ -11,7 +11,7 @@
     }
   ],
   "Website": "https://www.curseforge.com/hytale/mods/fullmetal-labyrinth",
-  "ServerVersion": "2026.02.19-1a311a592",
+  "ServerVersion": "2026.03.26-89796e57b",
   "Dependencies": {},
   "OptionalDependencies": {},
   "LoadBefore": {},

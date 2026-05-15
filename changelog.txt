@@ -1,3 +1,369 @@
+version 1.5.15:
+-added bunch of new corridors (again)
+-now werewolfs may be found in labyrinth!
+
+version 1.5.14:
+-added bunch of new corridors (again)
+-added new hidden treasure room
+-airship can be found in the skies
+
+version 1.5.13:
+-added bunch of new corridors (again)
+
+version 1.5.12:
+-added subspecies of Living Spark
+-added bunch of new corridors (again)
+
+version 1.5.11:
+-added subspecies of Scarak Fighter
+-added subspecies of Scarak Seeker
+-enviromental spawns update
+-error about Flying Template resolved
+
+version 1.5.10:
+-now toads can be spawn randomly close to player
+-holes near caves filled
+-obelisks are now more rare
+
+version 1.5.9:
+-obelisk particles now more performance friendly
+-now some hostile creatures from vanilla and mod can randomly spawn near player
+
+version 1.5.8:
+-more prefabs in the caves
+-more monsters in the caves
+
+version 1.5.7:
+-caves are more populated
+-new subspiecies of cave raptor
+
+version 1.5.6:
+-added bunch of new corridors (again)
+-small performance update (again)
+
+version 1.5.5:
+-added new crystalwulf variant!
+-added bunch of new corridors!
+
+version 1.5.4:
+-added bunch of new floating islands
+
+version 1.5.3:
+-fixed Trillobites to be a bit more performance friendly
+-added bunch of new corridors (again)
+-small performance update (again)
+
+version 1.5.2:
+-added bunch of new corridors
+-small performance update (again)
+
+version 1.5.1:
+-added bunch of new floating islands
+-performance update (again)
+
+version 1.4.30:
+-added bunch of coral trees
+-performance update
+
+version 1.4.29:
+-added legacy islands
+-performance update
+
+version 1.4.28:
+-added cave ceiling vegetation
+-erosion update for both Top and Mid biome
+
+version 1.4.27:
+-Top Biome overhaul
+-added Minotaur!
+-added proper ore generation!
+-added icon
+
+version 1.4.26:
+-Ash biome vegetation and soil update!
+
+version 1.4.25:
+-added Cerberus mob
+-added multiple big mushroom types in the caves!
+
+version 1.4.24:
+-caves overhaul!
+
+version 1.4.23:
+-added bunch of floating islands on the surface! (again)
+-fixed top biome "floating" prefabs
+
+version 1.4.22:
+-added bunch of floating islands on the surface! (again)
+
+version 1.4.21:
+-added bunch of floating islands on the surface! (again)
+
+version 1.4.20:
+-added bunch of floating islands on the surface!
+
+version 1.4.19:
+-obelisks overhaul!
+
+version 1.4.18:
+-added new red crystal toad that can drop onyxium!
+-added new purple crystal toad that can drop andesite!
+-added new floating islands archipelagos!
+
+version 1.4.17:
+-added new yellow crystal toad that can drop mithril!
+-added new floating islands archipelagos!
+
+version 1.4.16:
+-added new green toad!
+-added new corridors
+
+version 1.4.15:
+-added new corrdiors
+-added 2 basalt columns
+-added Pink Crystal Double Blade
+-added new automaton variant
+
+version 1.4.14:
+-added cave system for top biome
+-added ore veins to the caves
+
+version 1.4.13:
+-added cave system for mid biome
+
+version 1.4.12:
+-ash biome flora update
+-added 2 basalt columns with loot!
+
+version 1.4.11:
+-mid biome new prefabs and vegetation
+
+version 1.4.10:
+-tob biome shows up much more often
+-multiple new prefabs on ash biome
+
+version 1.4.9:
+-top biome update
+
+version 1.4.8:
+-ash biome update
+-mid biome update
+
+version 1.4.7:
+-new weather types
+-new particles for obelisks
+-now you can escape obelisks if you spawn in them
+
+version 1.4.6:
+-sky update
+-rendering distance update
+
+version 1.4.5:
+-some new spikes on ash biome
+
+version 1.4.4:
+-fixed pickaxe texture
+-added multiple things to the ash biome
+
+version 1.4.3:
+-added 2 alien like trees on the ash biome
+-added 2 new types of trilobite
+
+version 1.4.2:
+-WHITE CHUNK NR.1
+	#1.WHITE CRYSTAL SWORD
+	#2.NEW AUTOMATON VARIANT HOLDING WHITE CRYSTAL SWORD
+	#3.NEW 4 PYRAMIDS STRUCTURE
+	#4.NEW FLOATING ISLAND
+	#5.NEW WHITE TOWER
+	#6.NEW HIDDEN TREASURE
+	#7.NEW UNIQUE ROOMS
+	#8.NEW CORRIDORS AT TOP AND BOTTOM
+-WHITE CHUNK NR.2
+	#9.WHITE CRYSTAL DAGGERS
+	#10.NEW AUTOMATON VARIANT HOLDING WHITE CRYSTAL DAGGERS
+	#11.NEW PYRAMID STRUCTURE
+	#12.NEW FLOATING RUBIK'S CUBE
+	#13.NEW MUSHROOM AT THE BOTTOM
+	#14.NEW HIDDEN TREASURE
+	#15.NEW UNIQUE ROOMS
+	#16.NEW CORRIDORS AT TOP AND BOTTOM
+-CYAN CHUNK NR.1
+	#17.CYAN CRYSTAL SWORD
+	#18.NEW AUTOMATON VARIANT HOLDING CYAN CRYSTAL SWORD
+	#19.NEW UPSIDE DOWN CYAN FORT STRUCTURE
+	#20.NEW FLOATING ISLAND
+	#21.NEW CYAN TOWER
+	#22.NEW HIDDEN TREASURE
+	#23.NEW UNIQUE ROOMS
+	#24.NEW CORRIDORS AT TOP AND BOTTOM
+-CYAN CHUNK NR.2
+	#25.CYAN CRYSTAL DAGGERS
+	#26.NEW AUTOMATON VARIANT HOLDING CYAN CRYSTAL DAGGERS
+	#27.NEW UPSIDE DOWN 4 PYRAMIDS STRUCTURE
+	#28.NEW FLOATING ISLAND
+	#29.NEW WATER RESERVOIR
+	#30.NEW HIDDEN TREASURE
+	#31.NEW UNIQUE ROOMS
+	#32.NEW CORRIDORS AT TOP AND BOTTOM
+-EMERALD CHUNK NR.1
+	#33.EMERALD CRYSTAL SWORD
+	#34.NEW AUTOMATON VARIANT HOLDING EMERALD CRYSTAL SWORD
+	#35.NEW UPSIDE DOWN PYRAMID STRUCTURE
+	#36.NEW RUBIK'S CUBE
+	#37.NEW HUGE MUSHROOMS AT THE BOTTOM
+	#38.NEW HIDDEN TREASURE
+	#39.NEW UNIQUE ROOMS
+	#40.NEW CORRIDORS AT TOP AND BOTTOM
+-EMERALD CHUNK NR.2
+	#41.EMERALD CRYSTAL DAGGERS
+	#42.NEW AUTOMATON VARIANT HOLDING EMERALD CRYSTAL DAGGERS
+	#43.NEW UPSIDE DOWN EMERALD FORT STRUCTURE
+	#44.NEW FLOATING ISLAND
+	#45.NEW HUGE MUSHROOMS AT THE BOTTOM
+	#46.NEW HIDDEN TREASURE
+	#47.NEW UNIQUE ROOMS
+	#48.NEW CORRIDORS AT TOP AND BOTTOM
+-YELLOW CHUNK NR.1
+	#49.YELLOW CRYSTAL SWORD
+	#50.NEW AUTOMATON VARIANT HOLDING YELLOW CRYSTAL SWORD
+	#51.NEW UPSIDE DOWN 4 PYRAMIDS STRUCTURE
+	#52.NEW FLOATING ISLAND
+	#53.NEW YELLOW TOWER
+	#54.NEW HIDDEN TREASURE
+	#55.NEW UNIQUE ROOMS
+	#56.NEW CORRIDORS AT TOP AND BOTTOM
+-YELLOW CHUNK NR.2
+	#57.YELLOW CRYSTAL DAGGERS
+	#58.NEW AUTOMATON VARIANT HOLDING YELLOW CRYSTAL DAGGERS
+	#59.NEW UPSIDE DOWN PYRAMID STRUCTURE
+	#60.NEW FLOATING ISLAND
+	#61.NEW WATER RESERVOIR
+	#62.NEW HIDDEN TREASURE
+	#63.NEW UNIQUE ROOMS
+	#64.NEW CORRIDORS AT TOP AND BOTTOM
+-ORANGE CHUNK NR.1
+	#65.ORANGE CRYSTAL SWORD
+	#66.NEW AUTOMATON VARIANT HOLDING ORANGE CRYSTAL SWORD
+	#67.NEW UPSIDE DOWN PYRAMID STRUCTURE
+	#68.NEW RUBIK'S CUBE
+	#69.NEW SMALL LAVA LAKE
+	#70.NEW HIDDEN TREASURE
+	#71.NEW UNIQUE ROOMS
+	#72.NEW CORRIDORS AT TOP AND BOTTOM
+-ORANGE CHUNK NR.2
+	#73.ORANGE CRYSTAL DAGGERS
+	#74.NEW AUTOMATON VARIANT HOLDING ORANGE CRYSTAL DAGGERS
+	#75.NEW UPSIDE DOWN 4 PYRAMIDS STRUCTURE
+	#76.NEW FLOATING ISLAND
+	#77.NEW WATER RESERVOIR
+	#78.NEW HIDDEN TREASURE
+	#79.NEW UNIQUE ROOMS
+	#80.NEW CORRIDORS AT TOP AND BOTTOM
+-RED CHUNK NR.1
+	#81.RED CRYSTAL SWORD
+	#82.NEW AUTOMATON VARIANT HOLDING RED CRYSTAL SWORD
+	#83.NEW UPSIDE DOWN RED FORT STRUCTURE
+	#84.NEW FLOATING ISLAND
+	#85.NEW RED TOWER
+	#86.NEW HIDDEN TREASURE
+	#87.NEW UNIQUE ROOMS
+	#88.NEW CORRIDORS AT TOP AND BOTTOM
+-RED CHUNK NR.2
+	#89.RED CRYSTAL DAGGERS
+	#90.NEW AUTOMATON VARIANT HOLDING RED CRYSTAL DAGGERS
+	#91.NEW UPSIDE DOWN 4 PYRAMIDS STRUCTURE
+	#92.NEW FLOATING ISLAND
+	#93.NEW WATER RESERVOIR
+	#94.NEW HIDDEN TREASURE
+	#95.NEW UNIQUE ROOMS
+	#96.NEW CORRIDORS AT TOP AND BOTTOM
+-PURPLE CHUNK NR.1
+	#97.PURPLE CRYSTAL SWORD
+	#98.NEW AUTOMATON VARIANT HOLDING PURPLE CRYSTAL SWORD
+	#99.NEW UPSIDE DOWN PYRAMID STRUCTURE
+	#100.NEW RUBIK'S CUBE
+	#101.NEW HUGE MUSHROOM
+	#102.NEW HIDDEN TREASURE
+	#103.NEW UNIQUE ROOMS
+	#104.NEW CORRIDORS AT TOP AND BOTTOM
+-PURPLE CHUNK NR.2
+	#105.PURPLE CRYSTAL DAGGERS
+	#106.NEW AUTOMATON VARIANT HOLDING PURPLE CRYSTAL DAGGERS
+	#107.NEW UPSIDE DOWN PURPLE FORT STRUCTURE
+	#108.NEW FLOATING ISLAND
+	#109.NEW HUGE MUSHROOMS
+	#110.NEW HIDDEN TREASURE
+	#111.NEW UNIQUE ROOMS
+	#112.NEW CORRIDORS AT TOP AND BOTTOM
+
+version 1.4.1:
+-added couple of corridors (as always)
+-added new mushroom at the bottom!
+
+version 1.3.31:
+-added some caves
+-added some holes
+
+version 1.3.30:
+-added couple of corridors (as always)
+-added new floating island full of thorium!
+
+version 1.3.29:
+-added couple of corridors (as always)
+-added new mushroom at the bottom!
+
+version 1.3.28:
+-fixed arcanist workbench issue!
+-added new floating island!
+-added couple of corridors (as always)
+
+version 1.3.27B:
+-fixed fog issues
+
+version 1.3.27:
+-new 4 mega pipes!
+-performance upgrade
+
+version 1.3.26:
+-new 2 towers added
+-performance upgrade
+
+version 1.3.25:
+-biome update
+-multiple ruins added
+
+version 1.3.24:
+-biome update
+-new ruins added
+
+version 1.3.23:
+-biome update
+-new crystal lightning block
+
+version 1.3.22:
+-added couple of corridors (as always)
+-new filler trees at the bottom
+-performance upgrade
+
+version 1.3.21:
+-new huge crystal!
+-added couple of corridors
+
+version 1.3.20:
+-new treasure room!
+-new huge mushroom!
+-added couple of corridors
+
+version 1.3.19:
+-new huge mushroom!
+-added couple of corridors (now with small spiders)
+
+version 1.3.18:
+-new huge crystal at the bottom
+-new aquarium at the bottom
+-added couple of corridors (as always)
+
 version 1.3.17:
 -added couple of corridors (as always)
 -performance upgrade

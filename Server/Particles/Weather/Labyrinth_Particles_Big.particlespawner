@@ -1,0 +1,107 @@
+{
+  "RenderMode": "Erosion",
+  "ParticleRotationInfluence": "BillboardVelocity",
+  "ParticleLifeSpan": {
+    "Min": 10,
+    "Max": 20
+  },
+  "ParticleRotateWithSpawner": false,
+  "TrailSpawnerPositionMultiplier": 1,
+  "TrailSpawnerRotationMultiplier": 1,
+  "Particle": {
+    "Texture": "Particles/Textures/Basic/Ball2.png",
+    "ScaleRatioConstraint": "None",
+    "UVOption": "None",
+    "Animation": {
+      "0": {
+        "Color": "#ff0d0d",
+        "Scale": {
+          "X": {
+            "Min": 0.0,
+            "Max": 0.2
+          },
+          "Y": {
+            "Min": 0.0,
+            "Max": 0.2
+          }
+        }
+      },
+      "20": {
+        "Scale": {
+          "X": {
+            "Min": 1.0,
+            "Max": 1.0
+          },
+          "Y": {
+            "Min": 1.0,
+            "Max": 1.0
+          }
+        },
+        "Color": "#ff8600"
+      },
+      "60": {
+        "Color": "#fff800"
+      },
+      "100": {
+        "Color": "#c300ff",
+        "Scale": {
+          "X": {
+            "Min": 0.0,
+            "Max": 0.1
+          },
+          "Y": {
+            "Min": 0.0,
+            "Max": 0.1
+          }
+        }
+      }
+    },
+    "InitialAnimationFrame": {
+      "Scale": {
+        "X": {
+          "Min": 0.4,
+          "Max": 0.4
+        },
+        "Y": {
+          "Max": 0.8,
+          "Min": 0.8
+        }
+      },
+      "Opacity": 1,
+      "Color": "#ffffff"
+    }
+  },
+  "LinearFiltering": false,
+  "Attractors": [
+    {
+      "RadialAxis": {
+        "Y": 8
+      },
+      "Radius": 0,
+      "RadialTangentImpulse": -1.0,
+      "RadialAcceleration": -0.5,
+      "RadialTangentAcceleration": 0.04,
+      "LinearImpulse": {
+        "Y": 6,
+        "X": 0,
+        "Z": 0
+      }
+    }
+  ],
+  "SpawnBurst": false,
+  "SpawnRate": {
+    "Min": 5,
+    "Max": 7
+  },
+  "EmitOffset": {
+    "Z": {
+      "Max": 21,
+      "Min": 16
+    },
+    "X": {
+      "Max": 21,
+      "Min": 16
+    }
+  },
+  "Shape": "Sphere"
+}

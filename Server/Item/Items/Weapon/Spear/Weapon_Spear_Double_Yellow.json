@@ -111,7 +111,7 @@
   "Icon": "Icons/ItemsGenerated/Weapon_Spear_Double_Yellow.png",
   "Trails": [
     {
-      "TrailId": "Orb_Tail_Yellow",
+      "TrailId": "Orb_Trail_Yellow",
       "PositionOffset": {
         "X": 1.1,
         "Y": 0,
@@ -125,7 +125,7 @@
       }
     },
     {
-      "TrailId": "Orb_Tail_Yellow",
+      "TrailId": "Orb_Trail_Yellow",
       "PositionOffset": {
         "X": -1.1,
         "Y": 0,

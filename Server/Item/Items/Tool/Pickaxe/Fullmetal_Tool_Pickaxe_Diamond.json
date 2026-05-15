@@ -4,7 +4,7 @@
   },
   "Parent": "Tool_Pickaxe_Crude",
   "Icon": "Icons/ItemsGenerated/Fullmetal_Tool_Pickaxe_Diamond.png",
-  "Model": "Items/Tools/Pickaxe/Onyxium.blockymodel",
+  "Model": "Items/Tools/Pickaxe/Fullmetal.blockymodel",
   "Texture": "Items/Tools/Pickaxe/Diamond_Texture.png",
   "Tool": {
     "Specs": [
@@ -83,7 +83,7 @@
   "Quality": "Legendary",
   "Light": {
     "Radius": 5,
-    "Color": "#296"
+    "Color": "#39a"
   },
   "Particles": [
     {
@@ -95,7 +95,7 @@
         "Y": 0.8,
         "Z": 0
       },
-      "Color": "#22c495"
+      "Color": "#3399aa"
     }
   ],
   "IconProperties": {

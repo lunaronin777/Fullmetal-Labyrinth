@@ -10,5 +10,18 @@
       "Model": "Cosmetics/Face_Accessories/Goggles_Wasteland_Marauder.blockymodel",
       "Texture": "Cosmetics/Face_Accessories/Goggles_Wasteland_Marauder_Texture.png"
     }
-  ]
+  ],
+  "Icon": "Icons/ModelsGenerated/Fullmetal_Automaton_Cyan_Double.png",
+  "IconProperties": {
+    "Scale": 0.2,
+    "Rotation": [
+      0,
+      -45,
+      0
+    ],
+    "Translation": [
+      0,
+      -75
+    ]
+  }
 }

@@ -1,5 +1,5 @@
 {
-  "Model": "NPC/Flying_Beast/Archaeopteryx/Models/Model.blockymodel",
+  "Model": "NPC/Flying_Beast/Arch_Red/Model.blockymodel",
   "Texture": "NPC/Flying_Beast/Arch_Red/Texture.png",
   "RandomAttachmentSets": {},
   "AnimationSets": {
@@ -415,5 +415,15 @@
   "Light": {
     "Color": "#f00",
     "Radius": 3
-  }
+  },
+  "Particles": [
+    {
+      "SystemId": "Golem_Fire_Glow",
+      "Scale": 0.3,
+      "PositionOffset": {
+        "Y": 0.08
+      },
+      "Color": "#ff0000"
+    }
+  ]
 }

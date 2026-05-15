@@ -1,0 +1,3937 @@
+{
+  "version": 8,
+  "blockIdVersion": 11,
+  "anchorX": 0,
+  "anchorY": 0,
+  "anchorZ": 0,
+  "blocks": [
+    {
+      "x": -6,
+      "y": 0,
+      "z": -1,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": -6,
+      "y": 1,
+      "z": -1,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": -6,
+      "y": 2,
+      "z": -1,
+      "name": "Plant_Bush_Crystal",
+      "support": 15
+    },
+    {
+      "x": -6,
+      "y": 0,
+      "z": 0,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": -6,
+      "y": 1,
+      "z": 0,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": -6,
+      "y": 2,
+      "z": 0,
+      "name": "Plant_Bush_Crystal",
+      "support": 15
+    },
+    {
+      "x": -6,
+      "y": 4,
+      "z": 0,
+      "name": "Rock_Crystal_Red_Medium",
+      "rotation": 7
+    },
+    {
+      "x": -6,
+      "y": 0,
+      "z": 1,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": -6,
+      "y": 1,
+      "z": 1,
+      "name": "Soil_Ash"
+    },
+    {
+      "x": -5,
+      "y": 0,
+      "z": -2,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": -5,
+      "y": 1,
+      "z": -2,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": -5,
+      "y": 2,
+      "z": -2,
+      "name": "Plant_Bush_Crystal",
+      "support": 15
+    },
+    {
+      "x": -5,
+      "y": 0,
+      "z": -1,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": -5,
+      "y": 1,
+      "z": -1,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": -5,
+      "y": 2,
+      "z": -1,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": -5,
+      "y": 3,
+      "z": -1,
+      "name": "Rock_Crystal_Red_Medium"
+    },
+    {
+      "x": -5,
+      "y": 0,
+      "z": 0,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": -5,
+      "y": 1,
+      "z": 0,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": -5,
+      "y": 2,
+      "z": 0,
+      "name": "Rock_Crystal_Red_Block"
+    },
+    {
+      "x": -5,
+      "y": 3,
+      "z": 0,
+      "name": "Rock_Crystal_Red_Block"
+    },
+    {
+      "x": -5,
+      "y": 4,
+      "z": 0,
+      "name": "Rock_Crystal_Red_Block"
+    },
+    {
+      "x": -5,
+      "y": 5,
+      "z": 0,
+      "name": "Rock_Crystal_Red_Medium"
+    },
+    {
+      "x": -5,
+      "y": 0,
+      "z": 1,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": -5,
+      "y": 1,
+      "z": 1,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": -5,
+      "y": 2,
+      "z": 1,
+      "name": "Soil_Ash"
+    },
+    {
+      "x": -5,
+      "y": 3,
+      "z": 1,
+      "name": "Plant_Bush_Crystal",
+      "support": 15
+    },
+    {
+      "x": -5,
+      "y": 4,
+      "z": 1,
+      "name": "Rock_Crystal_Red_Medium",
+      "rotation": 4
+    },
+    {
+      "x": -5,
+      "y": 0,
+      "z": 2,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": -5,
+      "y": 1,
+      "z": 2,
+      "name": "Soil_Ash"
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": -3,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": -4,
+      "y": 1,
+      "z": -3,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": -4,
+      "y": 2,
+      "z": -3,
+      "name": "Plant_Bush_Crystal",
+      "support": 15
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": -2,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": -4,
+      "y": 1,
+      "z": -2,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": -4,
+      "y": 2,
+      "z": -2,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": -1,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": -4,
+      "y": 1,
+      "z": -1,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": -4,
+      "y": 2,
+      "z": -1,
+      "name": "Rock_Crystal_Red_Block"
+    },
+    {
+      "x": -4,
+      "y": 3,
+      "z": -1,
+      "name": "Rock_Crystal_Red_Block"
+    },
+    {
+      "x": -4,
+      "y": 4,
+      "z": -1,
+      "name": "Rock_Crystal_Red_Large"
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": 0,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": -4,
+      "y": 1,
+      "z": 0,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": -4,
+      "y": 2,
+      "z": 0,
+      "name": "Soil_Ash"
+    },
+    {
+      "x": -4,
+      "y": 3,
+      "z": 0,
+      "name": "Rock_Crystal_Red_Block"
+    },
+    {
+      "x": -4,
+      "y": 4,
+      "z": 0,
+      "name": "Rock_Crystal_Red_Block"
+    },
+    {
+      "x": -4,
+      "y": 5,
+      "z": 0,
+      "name": "Rock_Crystal_Red_Block"
+    },
+    {
+      "x": -4,
+      "y": 6,
+      "z": 0,
+      "name": "Rock_Crystal_Red_Large"
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": 1,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": -4,
+      "y": 1,
+      "z": 1,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": -4,
+      "y": 2,
+      "z": 1,
+      "name": "Soil_Ash"
+    },
+    {
+      "x": -4,
+      "y": 3,
+      "z": 1,
+      "name": "Plant_Bush_Crystal",
+      "support": 15
+    },
+    {
+      "x": -4,
+      "y": 4,
+      "z": 1,
+      "name": "Rock_Crystal_Red_Medium",
+      "rotation": 4
+    },
+    {
+      "x": -4,
+      "y": 5,
+      "z": 1,
+      "name": "Rock_Crystal_Red_Medium",
+      "rotation": 4
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": 2,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": -4,
+      "y": 1,
+      "z": 2,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": -4,
+      "y": 2,
+      "z": 2,
+      "name": "Soil_Ash"
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": -4,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": -3,
+      "y": 1,
+      "z": -4,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": -3,
+      "y": 9,
+      "z": -4,
+      "name": "Plant_Coral_Bush_Red"
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": -3,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": -3,
+      "y": 1,
+      "z": -3,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": -3,
+      "y": 2,
+      "z": -3,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": -3,
+      "y": 3,
+      "z": -3,
+      "name": "Plant_Flower_Common_Poisoned2"
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": -2,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": -3,
+      "y": 1,
+      "z": -2,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": -3,
+      "y": 2,
+      "z": -2,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": -3,
+      "y": 3,
+      "z": -2,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": -3,
+      "y": 4,
+      "z": -2,
+      "name": "Plant_Bush_Crystal",
+      "support": 15
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": -1,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": -3,
+      "y": 1,
+      "z": -1,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": -3,
+      "y": 2,
+      "z": -1,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": -3,
+      "y": 3,
+      "z": -1,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": -3,
+      "y": 4,
+      "z": -1,
+      "name": "Plant_Bush_Crystal",
+      "support": 15
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": 0,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": -3,
+      "y": 1,
+      "z": 0,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": -3,
+      "y": 2,
+      "z": 0,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": -3,
+      "y": 3,
+      "z": 0,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": 1,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": -3,
+      "y": 1,
+      "z": 1,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": -3,
+      "y": 2,
+      "z": 1,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": -3,
+      "y": 3,
+      "z": 1,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": -3,
+      "y": 4,
+      "z": 1,
+      "name": "Plant_Bush_Crystal",
+      "support": 15
+    },
+    {
+      "x": -3,
+      "y": 9,
+      "z": 1,
+      "name": "Plant_Coral_Bush_Red"
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": 2,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": -3,
+      "y": 1,
+      "z": 2,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": -3,
+      "y": 2,
+      "z": 2,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": -3,
+      "y": 3,
+      "z": 2,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": 3,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": -3,
+      "y": 1,
+      "z": 3,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": -3,
+      "y": 2,
+      "z": 3,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": -3,
+      "y": 3,
+      "z": 3,
+      "name": "Plant_Flower_Common_Poisoned2"
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": -4,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": -2,
+      "y": 1,
+      "z": -4,
+      "name": "Soil_Ash"
+    },
+    {
+      "x": -2,
+      "y": 2,
+      "z": -4,
+      "name": "Plant_Flower_Common_Poisoned2"
+    },
+    {
+      "x": -2,
+      "y": 8,
+      "z": -4,
+      "name": "Plant_Coral_Bush_Red"
+    },
+    {
+      "x": -2,
+      "y": 9,
+      "z": -4,
+      "name": "Plant_Coral_Block_Red",
+      "support": 1
+    },
+    {
+      "x": -2,
+      "y": 10,
+      "z": -4,
+      "name": "Plant_Coral_Bush_Red"
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": -3,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": -2,
+      "y": 1,
+      "z": -3,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": -2,
+      "y": 2,
+      "z": -3,
+      "name": "Soil_Ash"
+    },
+    {
+      "x": -2,
+      "y": 3,
+      "z": -3,
+      "name": "Plant_Coral_Bush_Red"
+    },
+    {
+      "x": -2,
+      "y": 7,
+      "z": -3,
+      "name": "Plant_Coral_Bush_Red"
+    },
+    {
+      "x": -2,
+      "y": 8,
+      "z": -3,
+      "name": "Plant_Coral_Block_Red",
+      "support": 1
+    },
+    {
+      "x": -2,
+      "y": 9,
+      "z": -3,
+      "name": "Plant_Coral_Bush_Red"
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": -2,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": -2,
+      "y": 1,
+      "z": -2,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": -2,
+      "y": 2,
+      "z": -2,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": -2,
+      "y": 3,
+      "z": -2,
+      "name": "Soil_Ash"
+    },
+    {
+      "x": -2,
+      "y": 4,
+      "z": -2,
+      "name": "Rock_Gem_Ruby",
+      "rotation": 7
+    },
+    {
+      "x": -2,
+      "y": 6,
+      "z": -2,
+      "name": "Plant_Coral_Bush_Red"
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": -1,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": -2,
+      "y": 1,
+      "z": -1,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": -2,
+      "y": 2,
+      "z": -1,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": -2,
+      "y": 3,
+      "z": -1,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": -2,
+      "y": 4,
+      "z": -1,
+      "name": "Plant_Bush_Crystal",
+      "support": 15
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": 0,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": -2,
+      "y": 1,
+      "z": 0,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": -2,
+      "y": 2,
+      "z": 0,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": -2,
+      "y": 3,
+      "z": 0,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": -2,
+      "y": 8,
+      "z": 0,
+      "name": "Plant_Coral_Bush_Red"
+    },
+    {
+      "x": -2,
+      "y": 9,
+      "z": 0,
+      "name": "Plant_Coral_Bush_Red"
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": 1,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": -2,
+      "y": 1,
+      "z": 1,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": -2,
+      "y": 2,
+      "z": 1,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": -2,
+      "y": 3,
+      "z": 1,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": -2,
+      "y": 8,
+      "z": 1,
+      "name": "Plant_Coral_Block_Red"
+    },
+    {
+      "x": -2,
+      "y": 9,
+      "z": 1,
+      "name": "Plant_Coral_Block_Red"
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": 2,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": -2,
+      "y": 1,
+      "z": 2,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": -2,
+      "y": 2,
+      "z": 2,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": -2,
+      "y": 3,
+      "z": 2,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": -2,
+      "y": 11,
+      "z": 2,
+      "name": "Plant_Coral_Bush_Red"
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": 3,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": -2,
+      "y": 1,
+      "z": 3,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": -2,
+      "y": 2,
+      "z": 3,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": -2,
+      "y": 3,
+      "z": 3,
+      "name": "Plant_Bush_Crystal",
+      "support": 15
+    },
+    {
+      "x": -1,
+      "y": 8,
+      "z": -5,
+      "name": "Plant_Coral_Bush_Red"
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -4,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": -4,
+      "name": "Soil_Ash"
+    },
+    {
+      "x": -1,
+      "y": 6,
+      "z": -4,
+      "name": "Plant_Coral_Bush_Red"
+    },
+    {
+      "x": -1,
+      "y": 8,
+      "z": -4,
+      "name": "Plant_Coral_Block_Red",
+      "support": 1
+    },
+    {
+      "x": -1,
+      "y": 9,
+      "z": -4,
+      "name": "Plant_Coral_Block_Red"
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -3,
+      "name": "Plant_Coral_Block_Red"
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": -3,
+      "name": "Soil_Ash"
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": -3,
+      "name": "Plant_Coral_Bush_Red"
+    },
+    {
+      "x": -1,
+      "y": 6,
+      "z": -3,
+      "name": "Plant_Coral_Block_Red",
+      "support": 1
+    },
+    {
+      "x": -1,
+      "y": 7,
+      "z": -3,
+      "name": "Plant_Coral_Block_Red"
+    },
+    {
+      "x": -1,
+      "y": 8,
+      "z": -3,
+      "name": "Plant_Coral_Block_Red"
+    },
+    {
+      "x": -1,
+      "y": 13,
+      "z": -3,
+      "name": "Plant_Coral_Bush_Red"
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -2,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": -2,
+      "name": "Plant_Coral_Block_Red"
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": -2,
+      "name": "Plant_Coral_Block_Red"
+    },
+    {
+      "x": -1,
+      "y": 3,
+      "z": -2,
+      "name": "Soil_Ash"
+    },
+    {
+      "x": -1,
+      "y": 4,
+      "z": -2,
+      "name": "Plant_Coral_Bush_Red"
+    },
+    {
+      "x": -1,
+      "y": 5,
+      "z": -2,
+      "name": "Plant_Coral_Block_Red",
+      "support": 1
+    },
+    {
+      "x": -1,
+      "y": 6,
+      "z": -2,
+      "name": "Plant_Coral_Block_Red"
+    },
+    {
+      "x": -1,
+      "y": 7,
+      "z": -2,
+      "name": "Plant_Coral_Block_Red"
+    },
+    {
+      "x": -1,
+      "y": 8,
+      "z": -2,
+      "name": "Plant_Coral_Bush_Red"
+    },
+    {
+      "x": -1,
+      "y": 13,
+      "z": -2,
+      "name": "Plant_Coral_Bush_Red"
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -1,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": -1,
+      "name": "Plant_Coral_Block_Red"
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": -1,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": -1,
+      "y": 3,
+      "z": -1,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": -1,
+      "y": 4,
+      "z": -1,
+      "name": "Plant_Coral_Block_Red"
+    },
+    {
+      "x": -1,
+      "y": 5,
+      "z": -1,
+      "name": "Plant_Coral_Block_Red"
+    },
+    {
+      "x": -1,
+      "y": 6,
+      "z": -1,
+      "name": "Plant_Coral_Bush_Red"
+    },
+    {
+      "x": -1,
+      "y": 7,
+      "z": -1,
+      "name": "Plant_Coral_Bush_Red"
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 0,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": 0,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": 0,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": -1,
+      "y": 3,
+      "z": 0,
+      "name": "Soil_Ash"
+    },
+    {
+      "x": -1,
+      "y": 4,
+      "z": 0,
+      "name": "Plant_Coral_Bush_Red"
+    },
+    {
+      "x": -1,
+      "y": 5,
+      "z": 0,
+      "name": "Plant_Flower_Common_Poisoned2",
+      "rotation": 7
+    },
+    {
+      "x": -1,
+      "y": 7,
+      "z": 0,
+      "name": "Plant_Coral_Bush_Red"
+    },
+    {
+      "x": -1,
+      "y": 8,
+      "z": 0,
+      "name": "Plant_Coral_Bush_Red"
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 1,
+      "name": "Plant_Coral_Block_Red"
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": 1,
+      "name": "Plant_Coral_Block_Red"
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": 1,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": -1,
+      "y": 3,
+      "z": 1,
+      "name": "Soil_Ash"
+    },
+    {
+      "x": -1,
+      "y": 8,
+      "z": 1,
+      "name": "Plant_Coral_Block_Red"
+    },
+    {
+      "x": -1,
+      "y": 11,
+      "z": 1,
+      "name": "Plant_Coral_Bush_Red"
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 2,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": 2,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": 2,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": -1,
+      "y": 3,
+      "z": 2,
+      "name": "Soil_Ash"
+    },
+    {
+      "x": -1,
+      "y": 10,
+      "z": 2,
+      "name": "Plant_Coral_Bush_Red"
+    },
+    {
+      "x": -1,
+      "y": 11,
+      "z": 2,
+      "name": "Plant_Coral_Block_Red",
+      "support": 1,
+      "rotation": 5
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 3,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": 3,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": 3,
+      "name": "Soil_Ash"
+    },
+    {
+      "x": -1,
+      "y": 11,
+      "z": 3,
+      "name": "Plant_Coral_Bush_Red"
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 4,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": 4,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": -4,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": -4,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": -4,
+      "name": "Plant_Bush_Crystal",
+      "support": 15
+    },
+    {
+      "x": 0,
+      "y": 9,
+      "z": -4,
+      "name": "Plant_Coral_Bush_Red"
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": -3,
+      "name": "Plant_Coral_Block_Red"
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": -3,
+      "name": "Plant_Coral_Block_Red"
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": -3,
+      "name": "Soil_Ash"
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "z": -3,
+      "name": "Plant_Bush_Crystal",
+      "support": 15
+    },
+    {
+      "x": 0,
+      "y": 13,
+      "z": -3,
+      "name": "Plant_Coral_Block_Red",
+      "support": 1
+    },
+    {
+      "x": 0,
+      "y": 14,
+      "z": -3,
+      "name": "Plant_Coral_Bush_Red"
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": -2,
+      "name": "Wood_Ash_Roots"
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": -2,
+      "name": "Plant_Coral_Block_Red"
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": -2,
+      "name": "Plant_Coral_Block_Red"
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "z": -2,
+      "name": "Plant_Coral_Block_Red"
+    },
+    {
+      "x": 0,
+      "y": 4,
+      "z": -2,
+      "name": "Plant_Coral_Block_Red"
+    },
+    {
+      "x": 0,
+      "y": 6,
+      "z": -2,
+      "name": "Plant_Coral_Block_Red",
+      "support": 2
+    },
+    {
+      "x": 0,
+      "y": 11,
+      "z": -2,
+      "name": "Plant_Coral_Block_Red",
+      "support": 3,
+      "rotation": 5
+    },
+    {
+      "x": 0,
+      "y": 12,
+      "z": -2,
+      "name": "Plant_Coral_Block_Red"
+    },
+    {
+      "x": 0,
+      "y": 13,
+      "z": -2,
+      "name": "Plant_Coral_Block_Red"
+    },
+    {
+      "x": 0,
+      "y": 14,
+      "z": -2,
+      "name": "Plant_Coral_Bush_Red"
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": -1,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": -1,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": -1,
+      "name": "Plant_Coral_Block_Red"
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "z": -1,
+      "name": "Plant_Coral_Block_Red"
+    },
+    {
+      "x": 0,
+      "y": 4,
+      "z": -1,
+      "name": "Plant_Coral_Block_Red"
+    },
+    {
+      "x": 0,
+      "y": 5,
+      "z": -1,
+      "name": "Plant_Coral_Block_Red"
+    },
+    {
+      "x": 0,
+      "y": 6,
+      "z": -1,
+      "name": "Plant_Coral_Block_Red",
+      "support": 15
+    },
+    {
+      "x": 0,
+      "y": 7,
+      "z": -1,
+      "name": "Plant_Coral_Block_Red",
+      "support": 15
+    },
+    {
+      "x": 0,
+      "y": 8,
+      "z": -1,
+      "name": "Plant_Flower_Common_Poisoned2"
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 0,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": 0,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": 0,
+      "name": "Plant_Coral_Block_Red"
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "z": 0,
+      "name": "Plant_Coral_Block_Red"
+    },
+    {
+      "x": 0,
+      "y": 4,
+      "z": 0,
+      "name": "Plant_Coral_Block_Red"
+    },
+    {
+      "x": 0,
+      "y": 5,
+      "z": 0,
+      "name": "Plant_Coral_Block_Red"
+    },
+    {
+      "x": 0,
+      "y": 6,
+      "z": 0,
+      "name": "Plant_Coral_Block_Red"
+    },
+    {
+      "x": 0,
+      "y": 7,
+      "z": 0,
+      "name": "Plant_Coral_Block_Red"
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 1,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": 1,
+      "name": "Plant_Coral_Block_Red"
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": 1,
+      "name": "Plant_Coral_Block_Red"
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "z": 1,
+      "name": "Plant_Coral_Block_Red"
+    },
+    {
+      "x": 0,
+      "y": 4,
+      "z": 1,
+      "name": "Plant_Coral_Bush_Red"
+    },
+    {
+      "x": 0,
+      "y": 5,
+      "z": 1,
+      "name": "Plant_Flower_Common_Poisoned2",
+      "rotation": 7
+    },
+    {
+      "x": 0,
+      "y": 6,
+      "z": 1,
+      "name": "Plant_Coral_Bush_Red"
+    },
+    {
+      "x": 0,
+      "y": 7,
+      "z": 1,
+      "name": "Plant_Flower_Common_Poisoned2",
+      "rotation": 4
+    },
+    {
+      "x": 0,
+      "y": 8,
+      "z": 1,
+      "name": "Plant_Coral_Block_Red"
+    },
+    {
+      "x": 0,
+      "y": 9,
+      "z": 1,
+      "name": "Plant_Coral_Bush_Red"
+    },
+    {
+      "x": 0,
+      "y": 11,
+      "z": 1,
+      "name": "Plant_Coral_Bush_Red"
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 2,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": 2,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": 2,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "z": 2,
+      "name": "Soil_Ash"
+    },
+    {
+      "x": 0,
+      "y": 10,
+      "z": 2,
+      "name": "Plant_Coral_Block_Red",
+      "support": 2,
+      "rotation": 5
+    },
+    {
+      "x": 0,
+      "y": 11,
+      "z": 2,
+      "name": "Plant_Coral_Block_Red",
+      "rotation": 5
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 3,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": 3,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": 3,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "z": 3,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": 0,
+      "y": 4,
+      "z": 3,
+      "name": "Plant_Bush_Crystal",
+      "support": 15
+    },
+    {
+      "x": 0,
+      "y": 11,
+      "z": 3,
+      "name": "Plant_Coral_Bush_Red"
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 4,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": 4,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": 4,
+      "name": "Plant_Flower_Common_Poisoned2",
+      "rotation": 4
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": -4,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": -4,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": 1,
+      "y": 13,
+      "z": -4,
+      "name": "Plant_Coral_Bush_Red"
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": -3,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": -3,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": -3,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": 1,
+      "y": 3,
+      "z": -3,
+      "name": "Plant_Bush_Crystal",
+      "support": 15
+    },
+    {
+      "x": 1,
+      "y": 13,
+      "z": -3,
+      "name": "Plant_Coral_Block_Red",
+      "support": 2
+    },
+    {
+      "x": 1,
+      "y": 14,
+      "z": -3,
+      "name": "Plant_Coral_Block_Red"
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": -2,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": -2,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": -2,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": 1,
+      "y": 3,
+      "z": -2,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": 1,
+      "y": 4,
+      "z": -2,
+      "name": "Plant_Coral_Bush_Red"
+    },
+    {
+      "x": 1,
+      "y": 11,
+      "z": -2,
+      "name": "Plant_Coral_Block_Red",
+      "support": 2,
+      "rotation": 5
+    },
+    {
+      "x": 1,
+      "y": 13,
+      "z": -2,
+      "name": "Plant_Coral_Bush_Red"
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": -1,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": -1,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": -1,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": 1,
+      "y": 3,
+      "z": -1,
+      "name": "Plant_Coral_Block_Red"
+    },
+    {
+      "x": 1,
+      "y": 4,
+      "z": -1,
+      "name": "Plant_Coral_Block_Red"
+    },
+    {
+      "x": 1,
+      "y": 5,
+      "z": -1,
+      "name": "Plant_Coral_Block_Red"
+    },
+    {
+      "x": 1,
+      "y": 6,
+      "z": -1,
+      "name": "Plant_Coral_Bush_Red"
+    },
+    {
+      "x": 1,
+      "y": 7,
+      "z": -1,
+      "name": "Plant_Coral_Bush_Red"
+    },
+    {
+      "x": 1,
+      "y": 8,
+      "z": -1,
+      "name": "Plant_Flower_Common_Poisoned2",
+      "rotation": 7
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 0,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": 0,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": 0,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": 1,
+      "y": 3,
+      "z": 0,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": 1,
+      "y": 4,
+      "z": 0,
+      "name": "Plant_Coral_Block_Red"
+    },
+    {
+      "x": 1,
+      "y": 5,
+      "z": 0,
+      "name": "Plant_Coral_Block_Red"
+    },
+    {
+      "x": 1,
+      "y": 6,
+      "z": 0,
+      "name": "Plant_Coral_Block_Red"
+    },
+    {
+      "x": 1,
+      "y": 7,
+      "z": 0,
+      "name": "Plant_Coral_Block_Red"
+    },
+    {
+      "x": 1,
+      "y": 8,
+      "z": 0,
+      "name": "Plant_Coral_Block_Red"
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 1,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": 1,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": 1,
+      "name": "Plant_Coral_Block_Red"
+    },
+    {
+      "x": 1,
+      "y": 3,
+      "z": 1,
+      "name": "Plant_Coral_Block_Red"
+    },
+    {
+      "x": 1,
+      "y": 4,
+      "z": 1,
+      "name": "Plant_Coral_Block_Red"
+    },
+    {
+      "x": 1,
+      "y": 5,
+      "z": 1,
+      "name": "Plant_Coral_Block_Red"
+    },
+    {
+      "x": 1,
+      "y": 8,
+      "z": 1,
+      "name": "Plant_Coral_Block_Red",
+      "support": 1
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 2,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": 2,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": 2,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": 1,
+      "y": 3,
+      "z": 2,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": 1,
+      "y": 8,
+      "z": 2,
+      "name": "Plant_Coral_Bush_Red"
+    },
+    {
+      "x": 1,
+      "y": 10,
+      "z": 2,
+      "name": "Plant_Coral_Block_Red",
+      "support": 1,
+      "rotation": 5
+    },
+    {
+      "x": 1,
+      "y": 11,
+      "z": 2,
+      "name": "Plant_Coral_Bush_Red"
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 3,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": 3,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": 3,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": 1,
+      "y": 3,
+      "z": 3,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": 1,
+      "y": 4,
+      "z": 3,
+      "name": "Plant_Bush_Crystal",
+      "support": 15
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 4,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": 4,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": 2,
+      "y": 12,
+      "z": -5,
+      "name": "Plant_Coral_Bush_Red"
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": -4,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": 2,
+      "y": 1,
+      "z": -4,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": 2,
+      "y": 11,
+      "z": -4,
+      "name": "Plant_Coral_Block_Red"
+    },
+    {
+      "x": 2,
+      "y": 12,
+      "z": -4,
+      "name": "Plant_Coral_Block_Red"
+    },
+    {
+      "x": 2,
+      "y": 14,
+      "z": -4,
+      "name": "Plant_Coral_Bush_Red"
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": -3,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": 2,
+      "y": 1,
+      "z": -3,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": 2,
+      "y": 2,
+      "z": -3,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": 2,
+      "y": 11,
+      "z": -3,
+      "name": "Plant_Coral_Block_Red"
+    },
+    {
+      "x": 2,
+      "y": 12,
+      "z": -3,
+      "name": "Plant_Coral_Bush_Red"
+    },
+    {
+      "x": 2,
+      "y": 13,
+      "z": -3,
+      "name": "Plant_Coral_Bush_Red"
+    },
+    {
+      "x": 2,
+      "y": 14,
+      "z": -3,
+      "name": "Plant_Coral_Block_Red"
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": -2,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": 2,
+      "y": 1,
+      "z": -2,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": 2,
+      "y": 2,
+      "z": -2,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": 2,
+      "y": 3,
+      "z": -2,
+      "name": "Plant_Bush_Crystal",
+      "support": 15
+    },
+    {
+      "x": 2,
+      "y": 6,
+      "z": -2,
+      "name": "Plant_Coral_Bush_Red"
+    },
+    {
+      "x": 2,
+      "y": 8,
+      "z": -2,
+      "name": "Plant_Coral_Bush_Red"
+    },
+    {
+      "x": 2,
+      "y": 11,
+      "z": -2,
+      "name": "Plant_Coral_Block_Red",
+      "support": 1,
+      "rotation": 5
+    },
+    {
+      "x": 2,
+      "y": 12,
+      "z": -2,
+      "name": "Plant_Coral_Bush_Red"
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": -1,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": 2,
+      "y": 1,
+      "z": -1,
+      "name": "Plant_Coral_Block_Red"
+    },
+    {
+      "x": 2,
+      "y": 2,
+      "z": -1,
+      "name": "Plant_Coral_Block_Red"
+    },
+    {
+      "x": 2,
+      "y": 3,
+      "z": -1,
+      "name": "Plant_Coral_Block_Red"
+    },
+    {
+      "x": 2,
+      "y": 4,
+      "z": -1,
+      "name": "Plant_Coral_Bush_Red"
+    },
+    {
+      "x": 2,
+      "y": 5,
+      "z": -1,
+      "name": "Plant_Coral_Bush_Red"
+    },
+    {
+      "x": 2,
+      "y": 6,
+      "z": -1,
+      "name": "Plant_Coral_Block_Red",
+      "support": 1
+    },
+    {
+      "x": 2,
+      "y": 7,
+      "z": -1,
+      "name": "Plant_Coral_Block_Red"
+    },
+    {
+      "x": 2,
+      "y": 8,
+      "z": -1,
+      "name": "Plant_Coral_Block_Red"
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 0,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": 2,
+      "y": 1,
+      "z": 0,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": 2,
+      "y": 2,
+      "z": 0,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": 2,
+      "y": 3,
+      "z": 0,
+      "name": "Plant_Coral_Block_Red"
+    },
+    {
+      "x": 2,
+      "y": 4,
+      "z": 0,
+      "name": "Plant_Coral_Block_Red"
+    },
+    {
+      "x": 2,
+      "y": 5,
+      "z": 0,
+      "name": "Plant_Coral_Block_Red"
+    },
+    {
+      "x": 2,
+      "y": 6,
+      "z": 0,
+      "name": "Plant_Coral_Block_Red"
+    },
+    {
+      "x": 2,
+      "y": 7,
+      "z": 0,
+      "name": "Plant_Coral_Block_Red"
+    },
+    {
+      "x": 2,
+      "y": 8,
+      "z": 0,
+      "name": "Plant_Coral_Block_Red"
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 1,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": 2,
+      "y": 1,
+      "z": 1,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": 2,
+      "y": 2,
+      "z": 1,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": 2,
+      "y": 3,
+      "z": 1,
+      "name": "Plant_Coral_Block_Red"
+    },
+    {
+      "x": 2,
+      "y": 4,
+      "z": 1,
+      "name": "Plant_Coral_Block_Red"
+    },
+    {
+      "x": 2,
+      "y": 5,
+      "z": 1,
+      "name": "Plant_Coral_Bush_Red"
+    },
+    {
+      "x": 2,
+      "y": 6,
+      "z": 1,
+      "name": "Plant_Flower_Common_Poisoned2",
+      "rotation": 4
+    },
+    {
+      "x": 2,
+      "y": 7,
+      "z": 1,
+      "name": "Plant_Coral_Block_Red",
+      "support": 1
+    },
+    {
+      "x": 2,
+      "y": 8,
+      "z": 1,
+      "name": "Plant_Coral_Block_Red"
+    },
+    {
+      "x": 2,
+      "y": 9,
+      "z": 1,
+      "name": "Plant_Coral_Block_Red"
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 2,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": 2,
+      "y": 1,
+      "z": 2,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": 2,
+      "y": 2,
+      "z": 2,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": 2,
+      "y": 3,
+      "z": 2,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": 2,
+      "y": 4,
+      "z": 2,
+      "name": "Plant_Bush_Crystal",
+      "support": 15
+    },
+    {
+      "x": 2,
+      "y": 9,
+      "z": 2,
+      "name": "Plant_Coral_Block_Red",
+      "support": 1
+    },
+    {
+      "x": 2,
+      "y": 10,
+      "z": 2,
+      "name": "Plant_Coral_Block_Red",
+      "rotation": 5
+    },
+    {
+      "x": 2,
+      "y": 11,
+      "z": 2,
+      "name": "Plant_Coral_Bush_Red"
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 3,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": 2,
+      "y": 1,
+      "z": 3,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": 2,
+      "y": 2,
+      "z": 3,
+      "name": "Plant_Bush_Crystal",
+      "support": 15
+    },
+    {
+      "x": 2,
+      "y": 10,
+      "z": 3,
+      "name": "Plant_Coral_Block_Red",
+      "support": 1,
+      "rotation": 4
+    },
+    {
+      "x": 2,
+      "y": 11,
+      "z": 3,
+      "name": "Plant_Coral_Bush_Red"
+    },
+    {
+      "x": 2,
+      "y": 10,
+      "z": 4,
+      "name": "Plant_Coral_Bush_Red"
+    },
+    {
+      "x": 3,
+      "y": 11,
+      "z": -4,
+      "name": "Plant_Coral_Bush_Red"
+    },
+    {
+      "x": 3,
+      "y": 12,
+      "z": -4,
+      "name": "Plant_Coral_Bush_Red"
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": -3,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": 3,
+      "y": 1,
+      "z": -3,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": 3,
+      "y": 2,
+      "z": -3,
+      "name": "Soil_Ash"
+    },
+    {
+      "x": 3,
+      "y": 10,
+      "z": -3,
+      "name": "Plant_Coral_Bush_Red"
+    },
+    {
+      "x": 3,
+      "y": 11,
+      "z": -3,
+      "name": "Plant_Coral_Bush_Red"
+    },
+    {
+      "x": 3,
+      "y": 14,
+      "z": -3,
+      "name": "Plant_Coral_Bush_Red"
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": -2,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": 3,
+      "y": 1,
+      "z": -2,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": 3,
+      "y": 2,
+      "z": -2,
+      "name": "Soil_Ash"
+    },
+    {
+      "x": 3,
+      "y": 8,
+      "z": -2,
+      "name": "Plant_Coral_Bush_Red"
+    },
+    {
+      "x": 3,
+      "y": 9,
+      "z": -2,
+      "name": "Plant_Flower_Common_Poisoned2",
+      "rotation": 6
+    },
+    {
+      "x": 3,
+      "y": 10,
+      "z": -2,
+      "name": "Plant_Coral_Block_Red",
+      "support": 1,
+      "rotation": 5
+    },
+    {
+      "x": 3,
+      "y": 11,
+      "z": -2,
+      "name": "Plant_Coral_Block_Red",
+      "rotation": 5
+    },
+    {
+      "x": 3,
+      "y": 12,
+      "z": -2,
+      "name": "Plant_Coral_Bush_Red"
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": -1,
+      "name": "Plant_Coral_Block_Red"
+    },
+    {
+      "x": 3,
+      "y": 1,
+      "z": -1,
+      "name": "Plant_Coral_Block_Red"
+    },
+    {
+      "x": 3,
+      "y": 2,
+      "z": -1,
+      "name": "Plant_Coral_Block_Red"
+    },
+    {
+      "x": 3,
+      "y": 3,
+      "z": -1,
+      "name": "Soil_Ash"
+    },
+    {
+      "x": 3,
+      "y": 4,
+      "z": -1,
+      "name": "Plant_Coral_Bush_Red"
+    },
+    {
+      "x": 3,
+      "y": 6,
+      "z": -1,
+      "name": "Plant_Coral_Bush_Red"
+    },
+    {
+      "x": 3,
+      "y": 8,
+      "z": -1,
+      "name": "Plant_Coral_Block_Red",
+      "support": 1
+    },
+    {
+      "x": 3,
+      "y": 9,
+      "z": -1,
+      "name": "Plant_Coral_Block_Red"
+    },
+    {
+      "x": 3,
+      "y": 10,
+      "z": -1,
+      "name": "Plant_Coral_Block_Red"
+    },
+    {
+      "x": 3,
+      "y": 11,
+      "z": -1,
+      "name": "Plant_Coral_Block_Red"
+    },
+    {
+      "x": 3,
+      "y": 12,
+      "z": -1,
+      "name": "Plant_Coral_Bush_Red"
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": 0,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": 3,
+      "y": 1,
+      "z": 0,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": 3,
+      "y": 2,
+      "z": 0,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": 3,
+      "y": 3,
+      "z": 0,
+      "name": "Plant_Coral_Block_Red"
+    },
+    {
+      "x": 3,
+      "y": 4,
+      "z": 0,
+      "name": "Plant_Coral_Block_Red"
+    },
+    {
+      "x": 3,
+      "y": 5,
+      "z": 0,
+      "name": "Plant_Coral_Bush_Red"
+    },
+    {
+      "x": 3,
+      "y": 7,
+      "z": 0,
+      "name": "Plant_Coral_Block_Red",
+      "support": 1
+    },
+    {
+      "x": 3,
+      "y": 8,
+      "z": 0,
+      "name": "Plant_Coral_Block_Red"
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": 1,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": 3,
+      "y": 1,
+      "z": 1,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": 3,
+      "y": 2,
+      "z": 1,
+      "name": "Plant_Coral_Block_Red"
+    },
+    {
+      "x": 3,
+      "y": 3,
+      "z": 1,
+      "name": "Plant_Coral_Block_Red"
+    },
+    {
+      "x": 3,
+      "y": 4,
+      "z": 1,
+      "name": "Plant_Coral_Bush_Red"
+    },
+    {
+      "x": 3,
+      "y": 7,
+      "z": 1,
+      "name": "Plant_Coral_Block_Red",
+      "support": 2
+    },
+    {
+      "x": 3,
+      "y": 8,
+      "z": 1,
+      "name": "Plant_Coral_Block_Red"
+    },
+    {
+      "x": 3,
+      "y": 12,
+      "z": 1,
+      "name": "Plant_Coral_Bush_Red"
+    },
+    {
+      "x": 3,
+      "y": 2,
+      "z": 2,
+      "name": "Plant_Coral_Block_Red",
+      "support": 1
+    },
+    {
+      "x": 3,
+      "y": 3,
+      "z": 2,
+      "name": "Plant_Flower_Common_Poisoned2",
+      "rotation": 5
+    },
+    {
+      "x": 3,
+      "y": 8,
+      "z": 2,
+      "name": "Plant_Coral_Bush_Red"
+    },
+    {
+      "x": 3,
+      "y": 12,
+      "z": 2,
+      "name": "Plant_Coral_Bush_Red"
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": 3,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": 3,
+      "y": 1,
+      "z": 3,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": -3,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": 4,
+      "y": 1,
+      "z": -3,
+      "name": "Soil_Ash"
+    },
+    {
+      "x": 4,
+      "y": 2,
+      "z": -3,
+      "name": "Plant_Flower_Common_Poisoned2",
+      "rotation": 6
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": -2,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": 4,
+      "y": 1,
+      "z": -2,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": 4,
+      "y": 2,
+      "z": -2,
+      "name": "Soil_Ash"
+    },
+    {
+      "x": 4,
+      "y": 9,
+      "z": -2,
+      "name": "Plant_Flower_Common_Poisoned2",
+      "rotation": 6
+    },
+    {
+      "x": 4,
+      "y": 11,
+      "z": -2,
+      "name": "Plant_Coral_Bush_Red"
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": -1,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": 4,
+      "y": 1,
+      "z": -1,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": 4,
+      "y": 2,
+      "z": -1,
+      "name": "Soil_Ash"
+    },
+    {
+      "x": 4,
+      "y": 3,
+      "z": -1,
+      "name": "Plant_Bush_Crystal",
+      "support": 15
+    },
+    {
+      "x": 4,
+      "y": 8,
+      "z": -1,
+      "name": "Plant_Coral_Bush_Red"
+    },
+    {
+      "x": 4,
+      "y": 9,
+      "z": -1,
+      "name": "Plant_Coral_Block_Red",
+      "support": 1
+    },
+    {
+      "x": 4,
+      "y": 10,
+      "z": -1,
+      "name": "Plant_Coral_Block_Red"
+    },
+    {
+      "x": 4,
+      "y": 11,
+      "z": -1,
+      "name": "Plant_Coral_Block_Red"
+    },
+    {
+      "x": 4,
+      "y": 12,
+      "z": -1,
+      "name": "Plant_Coral_Bush_Red"
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": 0,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": 4,
+      "y": 1,
+      "z": 0,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": 4,
+      "y": 2,
+      "z": 0,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": 4,
+      "y": 3,
+      "z": 0,
+      "name": "Plant_Bush_Crystal",
+      "support": 15
+    },
+    {
+      "x": 4,
+      "y": 4,
+      "z": 0,
+      "name": "Plant_Flower_Common_Poisoned2"
+    },
+    {
+      "x": 4,
+      "y": 7,
+      "z": 0,
+      "name": "Plant_Coral_Bush_Red"
+    },
+    {
+      "x": 4,
+      "y": 8,
+      "z": 0,
+      "name": "Plant_Coral_Block_Red",
+      "support": 1
+    },
+    {
+      "x": 4,
+      "y": 9,
+      "z": 0,
+      "name": "Plant_Coral_Block_Red"
+    },
+    {
+      "x": 4,
+      "y": 10,
+      "z": 0,
+      "name": "Plant_Coral_Block_Red"
+    },
+    {
+      "x": 4,
+      "y": 11,
+      "z": 0,
+      "name": "Plant_Coral_Bush_Red"
+    },
+    {
+      "x": 4,
+      "y": 12,
+      "z": 0,
+      "name": "Plant_Coral_Bush_Red"
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": 1,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": 4,
+      "y": 1,
+      "z": 1,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": 4,
+      "y": 2,
+      "z": 1,
+      "name": "Plant_Coral_Block_Red"
+    },
+    {
+      "x": 4,
+      "y": 3,
+      "z": 1,
+      "name": "Plant_Coral_Bush_Red"
+    },
+    {
+      "x": 4,
+      "y": 8,
+      "z": 1,
+      "name": "Plant_Coral_Block_Red",
+      "support": 1
+    },
+    {
+      "x": 4,
+      "y": 9,
+      "z": 1,
+      "name": "Plant_Coral_Bush_Red"
+    },
+    {
+      "x": 4,
+      "y": 12,
+      "z": 1,
+      "name": "Plant_Coral_Block_Red",
+      "support": 2
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": 2,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": 4,
+      "y": 1,
+      "z": 2,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": 4,
+      "y": 2,
+      "z": 2,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": 4,
+      "y": 8,
+      "z": 2,
+      "name": "Plant_Coral_Block_Red",
+      "support": 2
+    },
+    {
+      "x": 4,
+      "y": 9,
+      "z": 2,
+      "name": "Plant_Coral_Block_Red"
+    },
+    {
+      "x": 4,
+      "y": 12,
+      "z": 2,
+      "name": "Plant_Coral_Block_Red",
+      "support": 1
+    },
+    {
+      "x": 4,
+      "y": 8,
+      "z": 3,
+      "name": "Plant_Coral_Bush_Red"
+    },
+    {
+      "x": 4,
+      "y": 9,
+      "z": 3,
+      "name": "Plant_Coral_Bush_Red"
+    },
+    {
+      "x": 4,
+      "y": 12,
+      "z": 3,
+      "name": "Plant_Coral_Bush_Red"
+    },
+    {
+      "x": 5,
+      "y": 0,
+      "z": -2,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": 5,
+      "y": 1,
+      "z": -2,
+      "name": "Soil_Ash"
+    },
+    {
+      "x": 5,
+      "y": 0,
+      "z": -1,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": 5,
+      "y": 1,
+      "z": -1,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": 5,
+      "y": 2,
+      "z": -1,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": 5,
+      "y": 0,
+      "z": 0,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": 5,
+      "y": 1,
+      "z": 0,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": 5,
+      "y": 2,
+      "z": 0,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": 5,
+      "y": 10,
+      "z": 0,
+      "name": "Plant_Coral_Bush_Red"
+    },
+    {
+      "x": 5,
+      "y": 0,
+      "z": 1,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": 5,
+      "y": 1,
+      "z": 1,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": 5,
+      "y": 8,
+      "z": 1,
+      "name": "Plant_Coral_Bush_Red"
+    },
+    {
+      "x": 5,
+      "y": 9,
+      "z": 1,
+      "name": "Plant_Coral_Bush_Red"
+    },
+    {
+      "x": 5,
+      "y": 12,
+      "z": 1,
+      "name": "Plant_Coral_Bush_Red"
+    },
+    {
+      "x": 5,
+      "y": 0,
+      "z": 2,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": 5,
+      "y": 1,
+      "z": 2,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": 5,
+      "y": 8,
+      "z": 2,
+      "name": "Plant_Coral_Block_Red",
+      "support": 3
+    },
+    {
+      "x": 5,
+      "y": 9,
+      "z": 2,
+      "name": "Plant_Coral_Block_Red"
+    },
+    {
+      "x": 5,
+      "y": 10,
+      "z": 2,
+      "name": "Plant_Coral_Bush_Red"
+    },
+    {
+      "x": 5,
+      "y": 11,
+      "z": 2,
+      "name": "Plant_Coral_Block_Red",
+      "support": 1
+    },
+    {
+      "x": 5,
+      "y": 12,
+      "z": 2,
+      "name": "Plant_Coral_Block_Red"
+    },
+    {
+      "x": 5,
+      "y": 13,
+      "z": 2,
+      "name": "Plant_Coral_Bush_Red"
+    },
+    {
+      "x": 5,
+      "y": 8,
+      "z": 3,
+      "name": "Plant_Coral_Bush_Red"
+    },
+    {
+      "x": 5,
+      "y": 9,
+      "z": 3,
+      "name": "Plant_Coral_Block_Red",
+      "support": 1
+    },
+    {
+      "x": 5,
+      "y": 10,
+      "z": 3,
+      "name": "Plant_Coral_Block_Red"
+    },
+    {
+      "x": 5,
+      "y": 11,
+      "z": 3,
+      "name": "Plant_Coral_Block_Red"
+    },
+    {
+      "x": 5,
+      "y": 12,
+      "z": 3,
+      "name": "Plant_Coral_Block_Red"
+    },
+    {
+      "x": 5,
+      "y": 13,
+      "z": 3,
+      "name": "Plant_Coral_Bush_Red"
+    },
+    {
+      "x": 5,
+      "y": 10,
+      "z": 4,
+      "name": "Plant_Coral_Bush_Red"
+    },
+    {
+      "x": 5,
+      "y": 12,
+      "z": 4,
+      "name": "Plant_Coral_Bush_Red"
+    },
+    {
+      "x": 6,
+      "y": 0,
+      "z": -1,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": 6,
+      "y": 1,
+      "z": -1,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": 6,
+      "y": 0,
+      "z": 0,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": 6,
+      "y": 1,
+      "z": 0,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": 6,
+      "y": 0,
+      "z": 1,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": 6,
+      "y": 1,
+      "z": 1,
+      "name": "Soil_Sand_Ashen"
+    },
+    {
+      "x": 6,
+      "y": 10,
+      "z": 2,
+      "name": "Plant_Coral_Bush_Red"
+    },
+    {
+      "x": 6,
+      "y": 11,
+      "z": 2,
+      "name": "Plant_Coral_Bush_Red"
+    },
+    {
+      "x": 6,
+      "y": 10,
+      "z": 3,
+      "name": "Plant_Coral_Block_Red",
+      "support": 1
+    },
+    {
+      "x": 6,
+      "y": 11,
+      "z": 3,
+      "name": "Plant_Coral_Block_Red"
+    },
+    {
+      "x": 6,
+      "y": 12,
+      "z": 3,
+      "name": "Plant_Coral_Bush_Red"
+    },
+    {
+      "x": 6,
+      "y": 11,
+      "z": 4,
+      "name": "Plant_Coral_Bush_Red"
+    },
+    {
+      "x": 7,
+      "y": 11,
+      "z": 3,
+      "name": "Plant_Coral_Bush_Red"
+    }
+  ],
+  "entities": [
+    {
+      "Components": {
+        "Nameplate": {
+          "Text": "Fullmetal_Ash_Trilobite_Red"
+        },
+        "HiddenFromAdventurePlayer": {},
+        "RefId": {
+          "Count": 2
+        },
+        "SpawnMarkerComponent": {
+          "SpawnMarker": "Fullmetal_Ash_Trilobite_Red",
+          "RespawnTime": 0.0,
+          "SpawnCount": 1,
+          "GameTimeRespawn": "PT24H",
+          "NPCReferences": [
+            {
+              "UUID": {
+                "$binary": "6wmKjMcfP5eRyNSWxIxNDw==",
+                "$type": "04"
+              },
+              "RefCount": 0
+            }
+          ],
+          "PersistedFlock": {},
+          "SpawnPosition": {
+            "X": 42.5,
+            "Y": 97.0,
+            "Z": -75.5
+          }
+        },
+        "Transform": {
+          "Position": {
+            "X": 1.9157142639160156,
+            "Y": 15.484771728515625,
+            "Z": -2.2485885620117188
+          },
+          "Rotation": {
+            "Pitch": 0.0,
+            "Yaw": 1.2079639434814453,
+            "Roll": 0.0
+          }
+        },
+        "Intangible": {},
+        "PrefabCopyable": {},
+        "Model": {
+          "Model": {
+            "Id": "NPC_Spawn_Marker",
+            "Scale": 1.0,
+            "Static": false
+          }
+        },
+        "UUID": {
+          "UUID": {
+            "$binary": "llsMypNaPg64Jj3Tmk23LA==",
+            "$type": "04"
+          }
+        },
+        "WorldGenId": {
+          "WorldGenId": 0
+        },
+        "HeadRotation": {
+          "Rotation": {
+            "Pitch": 0.0,
+            "Yaw": 1.2079639434814453,
+            "Roll": 0.0
+          }
+        }
+      }
+    },
+    {
+      "Components": {
+        "Nameplate": {
+          "Text": "Fullmetal_Ash_Trilobite_Red"
+        },
+        "HiddenFromAdventurePlayer": {},
+        "RefId": {
+          "Count": 2
+        },
+        "SpawnMarkerComponent": {
+          "SpawnMarker": "Fullmetal_Ash_Trilobite_Red",
+          "RespawnTime": 0.0,
+          "SpawnCount": 1,
+          "GameTimeRespawn": "PT24H",
+          "NPCReferences": [
+            {
+              "UUID": {
+                "$binary": "XP9oqdyzOI+QU9NGM6kStQ==",
+                "$type": "04"
+              },
+              "RefCount": 0
+            }
+          ],
+          "PersistedFlock": {},
+          "SpawnPosition": {
+            "X": 45.5,
+            "Y": 95.0,
+            "Z": -70.5
+          }
+        },
+        "Transform": {
+          "Position": {
+            "X": 4.5953826904296875,
+            "Y": 13.716804504394531,
+            "Z": 2.0478439331054688
+          },
+          "Rotation": {
+            "Pitch": 0.0,
+            "Yaw": 1.2079639434814453,
+            "Roll": 0.0
+          }
+        },
+        "Intangible": {},
+        "PrefabCopyable": {},
+        "Model": {
+          "Model": {
+            "Id": "NPC_Spawn_Marker",
+            "Scale": 1.0,
+            "Static": false
+          }
+        },
+        "UUID": {
+          "UUID": {
+            "$binary": "J6DLgPVdMqu7pxRQwi9Ttw==",
+            "$type": "04"
+          }
+        },
+        "WorldGenId": {
+          "WorldGenId": 0
+        },
+        "HeadRotation": {
+          "Rotation": {
+            "Pitch": 0.0,
+            "Yaw": 1.2079639434814453,
+            "Roll": 0.0
+          }
+        }
+      }
+    },
+    {
+      "Components": {
+        "Nameplate": {
+          "Text": "Fullmetal_Ash_Trilobite_Red"
+        },
+        "HiddenFromAdventurePlayer": {},
+        "RefId": {
+          "Count": 2
+        },
+        "SpawnMarkerComponent": {
+          "SpawnMarker": "Fullmetal_Ash_Trilobite_Red",
+          "RespawnTime": 0.0,
+          "SpawnCount": 1,
+          "GameTimeRespawn": "PT24H",
+          "NPCReferences": [
+            {
+              "UUID": {
+                "$binary": "SgGiluXgOvCRpSZfda0cnQ==",
+                "$type": "04"
+              },
+              "RefCount": 0
+            }
+          ],
+          "PersistedFlock": {},
+          "SpawnPosition": {
+            "X": 41.5,
+            "Y": 94.0,
+            "Z": -70.5
+          }
+        },
+        "Transform": {
+          "Position": {
+            "X": 0.008983612060546875,
+            "Y": 12.359375,
+            "Z": 2.3414382934570312
+          },
+          "Rotation": {
+            "Pitch": 0.0,
+            "Yaw": 1.2079639434814453,
+            "Roll": 0.0
+          }
+        },
+        "Intangible": {},
+        "PrefabCopyable": {},
+        "Model": {
+          "Model": {
+            "Id": "NPC_Spawn_Marker",
+            "Scale": 1.0,
+            "Static": false
+          }
+        },
+        "UUID": {
+          "UUID": {
+            "$binary": "/3/r2D1SMKChOW+uS7DUuw==",
+            "$type": "04"
+          }
+        },
+        "WorldGenId": {
+          "WorldGenId": 0
+        },
+        "HeadRotation": {
+          "Rotation": {
+            "Pitch": 0.0,
+            "Yaw": 1.2079639434814453,
+            "Roll": 0.0
+          }
+        }
+      }
+    },
+    {
+      "Components": {
+        "UtilityInventory": {
+          "Inventory": {
+            "Id": "Empty"
+          },
+          "ActiveSlot": -1
+        },
+        "EffectController": {},
+        "DisplayName": {
+          "DisplayName": {
+            "MessageId": "server.npcRoles.Crow.name",
+            "Bold": null,
+            "Italic": null,
+            "Monospace": null,
+            "Underline": null
+          }
+        },
+        "RefId": {
+          "Count": 0
+        },
+        "UIComponentList": {},
+        "HotbarInventory": {
+          "Inventory": {
+            "Id": "Simple",
+            "Capacity": 3,
+            "Items": {}
+          },
+          "ActiveSlot": 0
+        },
+        "Transform": {
+          "Position": {
+            "X": 0.5,
+            "Y": 14.0,
+            "Z": 2.5
+          },
+          "Rotation": {
+            "Pitch": 0.0,
+            "Yaw": 1.2079639434814453,
+            "Roll": 0.0
+          }
+        },
+        "StorageInventory": {
+          "Inventory": {
+            "Id": "Empty"
+          }
+        },
+        "Velocity": {
+          "Velocity": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          }
+        },
+        "PrefabCopyable": {},
+        "Interactions": {
+          "Interactions": {
+            "Use": "*UseNPC"
+          }
+        },
+        "Model": {
+          "Model": {
+            "Id": "Fullmetal_Ash_Trilobite_Red",
+            "Scale": 2.2627620697021484,
+            "Static": false
+          }
+        },
+        "UUID": {
+          "UUID": {
+            "$binary": "SgGiluXgOvCRpSZfda0cnQ==",
+            "$type": "04"
+          }
+        },
+        "EntityStats": {
+          "Version": 5,
+          "Stats": {
+            "Oxygen": {
+              "Id": "Oxygen",
+              "Value": 100.0
+            },
+            "Mana": {
+              "Id": "Mana",
+              "Value": 0.0
+            },
+            "Health": {
+              "Id": "Health",
+              "Value": 100.0,
+              "Modifiers": {
+                "NPC_Max": {
+                  "Id": "Static",
+                  "CalculationType": "Additive",
+                  "Amount": 0.0
+                }
+              }
+            },
+            "GlidingActive": {
+              "Id": "GlidingActive",
+              "Value": 0.0
+            },
+            "Immunity": {
+              "Id": "Immunity",
+              "Value": 0.0
+            },
+            "SignatureCharges": {
+              "Id": "SignatureCharges",
+              "Value": 0.0
+            },
+            "Stamina": {
+              "Id": "Stamina",
+              "Value": 10.0
+            },
+            "Ammo": {
+              "Id": "Ammo",
+              "Value": 0.0
+            },
+            "Unknown": {
+              "Id": "Unknown",
+              "Value": 0.0
+            },
+            "SignatureEnergy": {
+              "Id": "SignatureEnergy",
+              "Value": 0.0
+            },
+            "DeployablePreview": {
+              "Id": "DeployablePreview",
+              "Value": 0.0
+            },
+            "StaminaRegenDelay": {
+              "Id": "StaminaRegenDelay",
+              "Value": 0.0
+            },
+            "MagicCharges": {
+              "Id": "MagicCharges",
+              "Value": 0.0
+            }
+          }
+        },
+        "SpawnMarkerReference": {
+          "SpawnMarker": {
+            "UUID": {
+              "$binary": "/3/r2D1SMKChOW+uS7DUuw==",
+              "$type": "04"
+            },
+            "RefCount": 2
+          }
+        },
+        "WorldGenId": {
+          "WorldGenId": 0
+        },
+        "NPC": {
+          "Version": 5,
+          "UUID": {
+            "$binary": "SgGiluXgOvCRpSZfda0cnQ==",
+            "$type": "04"
+          },
+          "Inventory": {
+            "Version": 4,
+            "ActiveHotbarSlot": 0,
+            "ActiveToolsSlot": -1,
+            "ActiveUtilitySlot": -1
+          },
+          "HvrPhs": 0.0,
+          "HvrHght": 0.0,
+          "MdlScl": 2.2627620697021484,
+          "SpawnInstant": "0001-01-10T12:00:00Z",
+          "WorldgenId": 0,
+          "PathManager": {},
+          "LeashPos": {
+            "X": 41.5,
+            "Y": 94.0,
+            "Z": -70.5
+          },
+          "LeashHdg": 1.2079639434814453,
+          "LeashPtch": 0.0,
+          "RoleName": "Fullmetal_Ash_Trilobite_Red"
+        },
+        "ArmorInventory": {
+          "Inventory": {
+            "Id": "Simple",
+            "Capacity": 4,
+            "Items": {}
+          }
+        },
+        "HeadRotation": {
+          "Rotation": {
+            "Pitch": 0.0,
+            "Yaw": 1.2079639434814453,
+            "Roll": 0.0
+          }
+        }
+      }
+    },
+    {
+      "Components": {
+        "UtilityInventory": {
+          "Inventory": {
+            "Id": "Empty"
+          },
+          "ActiveSlot": -1
+        },
+        "EffectController": {},
+        "DisplayName": {
+          "DisplayName": {
+            "MessageId": "server.npcRoles.Crow.name",
+            "Bold": null,
+            "Italic": null,
+            "Monospace": null,
+            "Underline": null
+          }
+        },
+        "RefId": {
+          "Count": 0
+        },
+        "UIComponentList": {},
+        "HotbarInventory": {
+          "Inventory": {
+            "Id": "Simple",
+            "Capacity": 3,
+            "Items": {}
+          },
+          "ActiveSlot": 0
+        },
+        "Transform": {
+          "Position": {
+            "X": 1.5,
+            "Y": 17.0,
+            "Z": -2.5
+          },
+          "Rotation": {
+            "Pitch": 0.0,
+            "Yaw": 1.2079639434814453,
+            "Roll": 0.0
+          }
+        },
+        "StorageInventory": {
+          "Inventory": {
+            "Id": "Empty"
+          }
+        },
+        "Velocity": {
+          "Velocity": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          }
+        },
+        "PrefabCopyable": {},
+        "Interactions": {
+          "Interactions": {
+            "Use": "*UseNPC"
+          }
+        },
+        "Model": {
+          "Model": {
+            "Id": "Fullmetal_Ash_Trilobite_Red",
+            "Scale": 2.2708065509796143,
+            "Static": false
+          }
+        },
+        "UUID": {
+          "UUID": {
+            "$binary": "6wmKjMcfP5eRyNSWxIxNDw==",
+            "$type": "04"
+          }
+        },
+        "EntityStats": {
+          "Version": 5,
+          "Stats": {
+            "Oxygen": {
+              "Id": "Oxygen",
+              "Value": 100.0
+            },
+            "Mana": {
+              "Id": "Mana",
+              "Value": 0.0
+            },
+            "Health": {
+              "Id": "Health",
+              "Value": 100.0,
+              "Modifiers": {
+                "NPC_Max": {
+                  "Id": "Static",
+                  "CalculationType": "Additive",
+                  "Amount": 0.0
+                }
+              }
+            },
+            "GlidingActive": {
+              "Id": "GlidingActive",
+              "Value": 0.0
+            },
+            "Immunity": {
+              "Id": "Immunity",
+              "Value": 0.0
+            },
+            "SignatureCharges": {
+              "Id": "SignatureCharges",
+              "Value": 0.0
+            },
+            "Stamina": {
+              "Id": "Stamina",
+              "Value": 10.0
+            },
+            "Ammo": {
+              "Id": "Ammo",
+              "Value": 0.0
+            },
+            "Unknown": {
+              "Id": "Unknown",
+              "Value": 0.0
+            },
+            "SignatureEnergy": {
+              "Id": "SignatureEnergy",
+              "Value": 0.0
+            },
+            "DeployablePreview": {
+              "Id": "DeployablePreview",
+              "Value": 0.0
+            },
+            "StaminaRegenDelay": {
+              "Id": "StaminaRegenDelay",
+              "Value": 0.0
+            },
+            "MagicCharges": {
+              "Id": "MagicCharges",
+              "Value": 0.0
+            }
+          }
+        },
+        "SpawnMarkerReference": {
+          "SpawnMarker": {
+            "UUID": {
+              "$binary": "llsMypNaPg64Jj3Tmk23LA==",
+              "$type": "04"
+            },
+            "RefCount": 2
+          }
+        },
+        "WorldGenId": {
+          "WorldGenId": 0
+        },
+        "NPC": {
+          "Version": 5,
+          "UUID": {
+            "$binary": "6wmKjMcfP5eRyNSWxIxNDw==",
+            "$type": "04"
+          },
+          "Inventory": {
+            "Version": 4,
+            "ActiveHotbarSlot": 0,
+            "ActiveToolsSlot": -1,
+            "ActiveUtilitySlot": -1
+          },
+          "HvrPhs": 0.0,
+          "HvrHght": 0.0,
+          "MdlScl": 2.2708065509796143,
+          "SpawnInstant": "0001-01-10T12:00:00Z",
+          "WorldgenId": 0,
+          "PathManager": {},
+          "LeashPos": {
+            "X": 42.5,
+            "Y": 97.0,
+            "Z": -75.5
+          },
+          "LeashHdg": 1.2079639434814453,
+          "LeashPtch": 0.0,
+          "RoleName": "Fullmetal_Ash_Trilobite_Red"
+        },
+        "ArmorInventory": {
+          "Inventory": {
+            "Id": "Simple",
+            "Capacity": 4,
+            "Items": {}
+          }
+        },
+        "HeadRotation": {
+          "Rotation": {
+            "Pitch": 0.0,
+            "Yaw": 1.2079639434814453,
+            "Roll": 0.0
+          }
+        }
+      }
+    },
+    {
+      "Components": {
+        "UtilityInventory": {
+          "Inventory": {
+            "Id": "Empty"
+          },
+          "ActiveSlot": -1
+        },
+        "EffectController": {},
+        "DisplayName": {
+          "DisplayName": {
+            "MessageId": "server.npcRoles.Crow.name",
+            "Bold": null,
+            "Italic": null,
+            "Monospace": null,
+            "Underline": null
+          }
+        },
+        "RefId": {
+          "Count": 0
+        },
+        "UIComponentList": {},
+        "HotbarInventory": {
+          "Inventory": {
+            "Id": "Simple",
+            "Capacity": 3,
+            "Items": {}
+          },
+          "ActiveSlot": 0
+        },
+        "Transform": {
+          "Position": {
+            "X": 4.5,
+            "Y": 15.0,
+            "Z": 2.5
+          },
+          "Rotation": {
+            "Pitch": 0.0,
+            "Yaw": 1.2079639434814453,
+            "Roll": 0.0
+          }
+        },
+        "StorageInventory": {
+          "Inventory": {
+            "Id": "Empty"
+          }
+        },
+        "Velocity": {
+          "Velocity": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          }
+        },
+        "PrefabCopyable": {},
+        "Interactions": {
+          "Interactions": {
+            "Use": "*UseNPC"
+          }
+        },
+        "Model": {
+          "Model": {
+            "Id": "Fullmetal_Ash_Trilobite_Red",
+            "Scale": 2.256091356277466,
+            "Static": false
+          }
+        },
+        "UUID": {
+          "UUID": {
+            "$binary": "XP9oqdyzOI+QU9NGM6kStQ==",
+            "$type": "04"
+          }
+        },
+        "EntityStats": {
+          "Version": 5,
+          "Stats": {
+            "Oxygen": {
+              "Id": "Oxygen",
+              "Value": 100.0
+            },
+            "Mana": {
+              "Id": "Mana",
+              "Value": 0.0
+            },
+            "Health": {
+              "Id": "Health",
+              "Value": 100.0,
+              "Modifiers": {
+                "NPC_Max": {
+                  "Id": "Static",
+                  "CalculationType": "Additive",
+                  "Amount": 0.0
+                }
+              }
+            },
+            "GlidingActive": {
+              "Id": "GlidingActive",
+              "Value": 0.0
+            },
+            "Immunity": {
+              "Id": "Immunity",
+              "Value": 0.0
+            },
+            "SignatureCharges": {
+              "Id": "SignatureCharges",
+              "Value": 0.0
+            },
+            "Stamina": {
+              "Id": "Stamina",
+              "Value": 10.0
+            },
+            "Ammo": {
+              "Id": "Ammo",
+              "Value": 0.0
+            },
+            "Unknown": {
+              "Id": "Unknown",
+              "Value": 0.0
+            },
+            "SignatureEnergy": {
+              "Id": "SignatureEnergy",
+              "Value": 0.0
+            },
+            "DeployablePreview": {
+              "Id": "DeployablePreview",
+              "Value": 0.0
+            },
+            "StaminaRegenDelay": {
+              "Id": "StaminaRegenDelay",
+              "Value": 0.0
+            },
+            "MagicCharges": {
+              "Id": "MagicCharges",
+              "Value": 0.0
+            }
+          }
+        },
+        "SpawnMarkerReference": {
+          "SpawnMarker": {
+            "UUID": {
+              "$binary": "J6DLgPVdMqu7pxRQwi9Ttw==",
+              "$type": "04"
+            },
+            "RefCount": 2
+          }
+        },
+        "WorldGenId": {
+          "WorldGenId": 0
+        },
+        "NPC": {
+          "Version": 5,
+          "UUID": {
+            "$binary": "XP9oqdyzOI+QU9NGM6kStQ==",
+            "$type": "04"
+          },
+          "Inventory": {
+            "Version": 4,
+            "ActiveHotbarSlot": 0,
+            "ActiveToolsSlot": -1,
+            "ActiveUtilitySlot": -1
+          },
+          "HvrPhs": 0.0,
+          "HvrHght": 0.0,
+          "MdlScl": 2.256091356277466,
+          "SpawnInstant": "0001-01-10T12:00:00Z",
+          "WorldgenId": 0,
+          "PathManager": {},
+          "LeashPos": {
+            "X": 45.5,
+            "Y": 95.0,
+            "Z": -70.5
+          },
+          "LeashHdg": 1.2079639434814453,
+          "LeashPtch": 0.0,
+          "RoleName": "Fullmetal_Ash_Trilobite_Red"
+        },
+        "ArmorInventory": {
+          "Inventory": {
+            "Id": "Simple",
+            "Capacity": 4,
+            "Items": {}
+          }
+        },
+        "HeadRotation": {
+          "Rotation": {
+            "Pitch": 0.0,
+            "Yaw": 1.2079639434814453,
+            "Roll": 0.0
+          }
+        }
+      }
+    }
+  ]
+}

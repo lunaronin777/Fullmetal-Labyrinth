@@ -248,5 +248,18 @@
   "Light": {
     "Radius": 2,
     "Color": "#38a"
+  },
+  "Icon": "Icons/ModelsGenerated/Fullmetal_Whale.png",
+  "IconProperties": {
+    "Scale": 0.1,
+    "Rotation": [
+      0,
+      -45,
+      0
+    ],
+    "Translation": [
+      -28,
+      -28
+    ]
   }
 }

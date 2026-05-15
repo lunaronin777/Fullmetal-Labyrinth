@@ -1,0 +1,7 @@
+{
+  "Texture": "NPC/Flying_Beast/Ash_Trilobite/Models/Trilobite_Red.png",
+  "Model": "NPC/Flying_Beast/Ash_Trilobite/Models/Trilobite.blockymodel",
+  "Parent": "Trilobite",
+  "MinScale": 2.25,
+  "MaxScale": 2.3
+}

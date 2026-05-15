@@ -1,0 +1,157 @@
+{
+  "SpawnDensity": 0.8,
+  "Parent": "Env_Zone1_Caves",
+  "Tags": {
+    "Zone1": [
+      "Caves",
+      "Rats"
+    ]
+  },
+  "WeatherForecasts": {
+    "0": [
+      {
+        "WeatherId": "Fullmetal_Mid_Biome_Weather",
+        "Weight": 100
+      }
+    ],
+    "1": [
+      {
+        "WeatherId": "Fullmetal_Mid_Biome_Weather",
+        "Weight": 100
+      }
+    ],
+    "2": [
+      {
+        "WeatherId": "Fullmetal_Mid_Biome_Weather",
+        "Weight": 100
+      }
+    ],
+    "3": [
+      {
+        "WeatherId": "Fullmetal_Mid_Biome_Weather",
+        "Weight": 100
+      }
+    ],
+    "4": [
+      {
+        "WeatherId": "Fullmetal_Mid_Biome_Weather",
+        "Weight": 100
+      }
+    ],
+    "5": [
+      {
+        "WeatherId": "Fullmetal_Mid_Biome_Weather",
+        "Weight": 100
+      }
+    ],
+    "6": [
+      {
+        "WeatherId": "Fullmetal_Mid_Biome_Weather",
+        "Weight": 100
+      }
+    ],
+    "7": [
+      {
+        "WeatherId": "Fullmetal_Mid_Biome_Weather",
+        "Weight": 100
+      }
+    ],
+    "8": [
+      {
+        "WeatherId": "Fullmetal_Mid_Biome_Weather",
+        "Weight": 100
+      }
+    ],
+    "9": [
+      {
+        "WeatherId": "Fullmetal_Mid_Biome_Weather",
+        "Weight": 100
+      }
+    ],
+    "10": [
+      {
+        "WeatherId": "Fullmetal_Mid_Biome_Weather",
+        "Weight": 100
+      }
+    ],
+    "11": [
+      {
+        "WeatherId": "Fullmetal_Mid_Biome_Weather",
+        "Weight": 100
+      }
+    ],
+    "12": [
+      {
+        "WeatherId": "Fullmetal_Mid_Biome_Weather",
+        "Weight": 100
+      }
+    ],
+    "13": [
+      {
+        "WeatherId": "Fullmetal_Mid_Biome_Weather",
+        "Weight": 100
+      }
+    ],
+    "14": [
+      {
+        "WeatherId": "Fullmetal_Mid_Biome_Weather",
+        "Weight": 100
+      }
+    ],
+    "15": [
+      {
+        "WeatherId": "Fullmetal_Mid_Biome_Weather",
+        "Weight": 100
+      }
+    ],
+    "16": [
+      {
+        "WeatherId": "Fullmetal_Mid_Biome_Weather",
+        "Weight": 100
+      }
+    ],
+    "17": [
+      {
+        "WeatherId": "Fullmetal_Mid_Biome_Weather",
+        "Weight": 100
+      }
+    ],
+    "18": [
+      {
+        "WeatherId": "Fullmetal_Mid_Biome_Weather",
+        "Weight": 100
+      }
+    ],
+    "19": [
+      {
+        "WeatherId": "Fullmetal_Mid_Biome_Weather",
+        "Weight": 100
+      }
+    ],
+    "20": [
+      {
+        "WeatherId": "Fullmetal_Mid_Biome_Weather",
+        "Weight": 100
+      }
+    ],
+    "21": [
+      {
+        "WeatherId": "Fullmetal_Mid_Biome_Weather",
+        "Weight": 100
+      }
+    ],
+    "22": [
+      {
+        "WeatherId": "Fullmetal_Mid_Biome_Weather",
+        "Weight": 100
+      }
+    ],
+    "23": [
+      {
+        "WeatherId": "Fullmetal_Mid_Biome_Weather",
+        "Weight": 100
+      }
+    ]
+  },
+  "WaterTint": "#a3d9d5"
+}

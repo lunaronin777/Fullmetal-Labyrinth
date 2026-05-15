@@ -1,0 +1,16 @@
+{
+  "Spawners": [
+    {
+      "SpawnerId": "Labyrinth_Circle_Template",
+      "PositionOffset": {
+        "Z": 0.0,
+        "Y": 1.0
+      },
+      "RotationOffset": {
+        "Pitch": 10
+      }
+    }
+  ],
+  "IsImportant": false,
+  "CullDistance": 3000.0
+}

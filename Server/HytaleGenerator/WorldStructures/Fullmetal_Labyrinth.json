@@ -4,16 +4,16 @@
     {
       "Biome": "Ash_Lab_Biome",
       "Min": -1,
-      "Max": -0.4
+      "Max": -0.5
     },
     {
       "Biome": "Mid_Lab_Biome",
-      "Min": -0.4,
-      "Max": 0.3
+      "Min": -0.5,
+      "Max": 0.2
     },
     {
       "Biome": "Top_Lab_Biome",
-      "Min": 0.3,
+      "Min": 0.2,
       "Max": 1
     }
   ],
@@ -27,6 +27,11 @@
   "ContentFields": [
     {
       "Type": "BaseHeight",
+      "Name": "CaveHeight",
+      "Y": 50
+    },
+    {
+      "Type": "BaseHeight",
       "Name": "Base",
       "Y": 0
     },
@@ -38,7 +43,7 @@
     {
       "Type": "BaseHeight",
       "Name": "Bedrock",
-      "Y": 0
+      "Y": 100
     }
   ]
 }

@@ -1,10 +1,10 @@
 {
-  "SpawnDensity": 0.01,
+  "SpawnDensity": 0.8,
+  "Parent": "Env_Zone1_Caves",
   "Tags": {
-    "Zone4": [
+    "Zone1": [
       "Caves",
-      "Dungeons",
-      "Sewers"
+      "Rats"
     ]
   },
   "WeatherForecasts": {

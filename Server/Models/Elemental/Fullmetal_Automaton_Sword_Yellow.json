@@ -1,0 +1,40 @@
+{
+  "Parent": "Skeleton",
+  "Texture": "NPC/Automaton/Fullmetal.png",
+  "EyeHeight": 1.7,
+  "GradientSet": "Skin",
+  "MinScale": 1.4,
+  "MaxScale": 1.41,
+  "DefaultAttachments": [
+    {
+      "Model": "Cosmetics/Capes/Cape_Bannerlord.blockymodel",
+      "Texture": "Cosmetics/Capes/Cape_Bannerlord_Texture.png",
+      "GradientSet": "Faded_Leather",
+      "GradientId": "Yellow"
+    },
+    {
+      "Model": "Characters/Body_Attachments/Eyes/Eyes_Fullbright_Pupil.blockymodel",
+      "Texture": "NPC/Undead/Skeleton/Models/Attachments/Cosmetics/Head/Eyes/Eyes_Red.png",
+      "GradientSet": "Hair",
+      "GradientId": "Bubblegum"
+    },
+    {
+      "Model": "Cosmetics/Face_Accessories/Goggles_Wasteland_Marauder.blockymodel",
+      "Texture": "Cosmetics/Face_Accessories/Goggles_Wasteland_Marauder_Texture.png"
+    }
+  ],
+  "GradientId": "White",
+  "Icon": "Icons/ModelsGenerated/Fullmetal_Automaton_Sword_White.png",
+  "IconProperties": {
+    "Scale": 0.2,
+    "Rotation": [
+      0,
+      -45,
+      0
+    ],
+    "Translation": [
+      0,
+      -75
+    ]
+  }
+}

@@ -12,5 +12,18 @@
   "EyeHeight": 1.7,
   "Light": {
     "Radius": 0
+  },
+  "Icon": "Icons/ModelsGenerated/Fullmetal_Automaton_Gunner.png",
+  "IconProperties": {
+    "Scale": 0.2,
+    "Rotation": [
+      0,
+      -45,
+      0
+    ],
+    "Translation": [
+      0,
+      -75
+    ]
   }
 }
