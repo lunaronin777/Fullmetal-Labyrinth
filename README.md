@@ -1,4 +1,4 @@
-I usually don't use GitHub since I work alone. My daily uploads are only on the Curseforge.
+I usually don't use GitHub since I work alone.(I used GitHub before, but not for Hytale) My daily uploads are only on the Curseforge.
 https://www.curseforge.com/hytale/mods/fullmetal-labyrinth
 
 Still I have a changelog for you in the files to check what I did at each upload.
