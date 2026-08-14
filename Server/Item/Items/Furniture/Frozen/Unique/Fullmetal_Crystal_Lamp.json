@@ -1,19 +1,41 @@
 {
   "TranslationProperties": {
-    "Name": "server.items.Fullmetal_Crystal_Lamp.name"
+    "Name": "server.items.Fullmetal_Purple_Crystal_Lamp.name"
   },
   "PlayerAnimationsId": "Block",
   "Categories": [
     "Furniture.Lighting"
   ],
-  "Set": "Furniture_Frozen_Castle",
+  "Set": "Furniture_Fullmetal",
+  "Recipe": {
+    "Input": [
+      {
+        "ItemId": "Ingredient_Crystal_Purple",
+        "Quantity": 10
+      },
+      {
+        "ItemId": "Ingredient_Bar_Fullmetal",
+        "Quantity": 1
+      }
+    ],
+    "OutputQuantity": 5,
+    "BenchRequirement": [
+      {
+        "Type": "Crafting",
+        "Id": "Furniture_Bench",
+        "Categories": [
+          "Furniture_Lighting"
+        ]
+      }
+    ]
+  },
   "BlockType": {
     "BlockParticleSetId": "Ice",
     "BlockSoundSetId": "Ice",
     "CustomModel": "Blocks/Decorative_Sets/Frozen_Castle/Light_Secondary.blockymodel",
     "CustomModelTexture": [
       {
-        "Texture": "Blocks/Crystal/Light_Crystal_Texture.png",
+        "Texture": "Blocks/Crystal/Purple_Crystal_Texture.png",
         "Weight": 1
       }
     ],
@@ -85,10 +107,9 @@
     "RandomRotation": "YawStep90",
     "CustomModelAnimation": "Blocks/Dungeons/EggSacks_Scarak_Medium_Idle.blockyanim",
     "Looping": true,
-    "VariantRotation": "UpDown"
+    "VariantRotation": "UpDown",
+    "ParticleColor": "#bb46cd"
   },
-  "Model": "Blocks/Decorative_Sets/Frozen_Castle/Light_Secondary.blockymodel",
-  "Texture": "Blocks/Decorative_Sets/Frozen_Castle/Light_Secondary_Texture.png",
   "Tags": {
     "Type": [
       "Furniture"
@@ -111,5 +132,6 @@
     ]
   },
   "Icon": "Icons/ItemsGenerated/Fullmetal_Crystal_Lamp.png",
-  "ItemSoundSetId": "ISS_Blocks_Wood"
+  "ItemSoundSetId": "ISS_Blocks_Stone",
+  "Scale": 1
 }

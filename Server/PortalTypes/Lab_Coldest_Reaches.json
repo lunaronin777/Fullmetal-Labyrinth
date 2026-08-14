@@ -1,0 +1,13 @@
+{
+  "InstanceId": "Fullmetal_Coldest_Reaches",
+  "Description": {
+    "DisplayName": "server.portals.coldest_reaches",
+    "FlavorText": "server.portals.coldest_reaches.description",
+    "ThemeColor": "#84c0d9",
+    "SplashImage": "DefaultArtwork.png",
+    "Tips": [
+      "server.portals.coldest_reaches.tip1",
+      "server.portals.coldest_reaches.tip2"
+    ]
+  }
+}

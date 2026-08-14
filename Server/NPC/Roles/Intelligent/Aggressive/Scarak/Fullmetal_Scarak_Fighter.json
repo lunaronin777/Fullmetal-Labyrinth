@@ -11,7 +11,7 @@
       "Description": "Whether or not this NPC will patrol during its waking hours, either alone or as part of a group."
     },
     "NameTranslationKey": {
-      "Value": "server.npcRoles.Scarak_Fighter.name",
+      "Value": "server.npcRoles.Fullmetal_Scarak_Fighter.name",
       "Description": "Translation key for NPC name display"
     }
   },
@@ -32,8 +32,8 @@
     "BlockProbability": 0,
     "AttitudeGroup": "Scarak",
     "IsMemory": true,
-    "MemoriesCategory": "Scarak",
-    "MemoriesNameOverride": "Scarak_Fighter",
+    "MemoriesCategory": "Fullmetal",
+    "MemoriesNameOverride": "Fullmetal_Scarak_Fighter",
     "NameTranslationKey": {
       "Compute": "NameTranslationKey"
     }

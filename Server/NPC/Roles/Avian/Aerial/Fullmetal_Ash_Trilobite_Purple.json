@@ -10,14 +10,16 @@
     "MaxHealth": 100,
     "WanderRadius": 10,
     "IsMemory": true,
-    "MemoriesCategory": "Avian",
+    "MemoriesCategory": "Fullmetal",
     "NameTranslationKey": {
-      "Compute": "NameTranslationKey"
+      "Compute": "NameTranslationKey",
+      "Value": "server.npcRoles.Fullmetal_Ash_Triblobite_Purple.name",
+      "Description": "Translation key for NPC name display"
     }
   },
   "Parameters": {
     "NameTranslationKey": {
-      "Value": "server.npcRoles.Crow.name",
+      "Value": "server.npcRoles.Fullmetal_Ash_Triblobite_Purple.name",
       "Description": "Translation key for NPC name display"
     }
   }

@@ -1,0 +1,76 @@
+{
+  "TranslationProperties": {
+    "Name": "server.items.PortalKey_Hircine.name",
+    "Description": "server.items.PortalKey_Hederas_Lair.description"
+  },
+  "Icon": "Icons/ItemsGenerated/PortalKey_Gods_Dimensions_Lab_Hircine.png",
+  "Categories": [
+    "Blocks.Portals"
+  ],
+  "PortalKey": {
+    "PortalType": "Lab_Hircine",
+    "TimeLimitSeconds": 1800
+  },
+  "BlockType": {
+    "DrawType": "Model",
+    "Material": "Solid",
+    "Opacity": "Transparent",
+    "CustomModel": "Blocks/Miscellaneous/Portal_Shard.blockymodel",
+    "CustomModelTexture": [
+      {
+        "Texture": "Items/PortalKey/Hircine_Portal_Shard_Texture.png",
+        "Weight": 1
+      }
+    ],
+    "TextureComputedColor": "#81C4EC"
+  },
+  "Recipe": {
+    "TimeSeconds": 5,
+    "KnowledgeRequired": false,
+    "Input": [
+      {
+        "ItemId": "Ingredient_Bar_Fullmetal",
+        "Quantity": 10
+      },
+      {
+        "ItemId": "Ingredient_Crystal_Green",
+        "Quantity": 30
+      },
+      {
+        "ItemId": "Ingredient_Crystal_Red",
+        "Quantity": 30
+      }
+    ],
+    "BenchRequirement": [
+      {
+        "Id": "Arcanebench",
+        "Type": "Crafting",
+        "Categories": [
+          "Arcane_Portals"
+        ]
+      }
+    ],
+    "RequiredMemoriesLevel": 5
+  },
+  "PlayerAnimationsId": "Item",
+  "Tags": {
+    "Type": [
+      "Portal",
+      "Temporary"
+    ]
+  },
+  "Quality": "Epic",
+  "ItemLevel": 777,
+  "IconProperties": {
+    "Scale": 0.9,
+    "Rotation": [
+      22.5,
+      137,
+      22.5
+    ],
+    "Translation": [
+      -9,
+      -15
+    ]
+  }
+}

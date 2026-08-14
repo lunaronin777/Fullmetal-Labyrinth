@@ -23,7 +23,7 @@
           {
             "Type": "Single",
             "Item": {
-              "ItemId": "Fullmetal_Repair_Kit",
+              "ItemId": "Ore_Fullmetal",
               "QuantityMin": 0,
               "QuantityMax": 1
             }
@@ -32,8 +32,48 @@
             "Type": "Single",
             "Item": {
               "ItemId": "Ingredient_Bar_Adamantite",
-              "QuantityMin": 2,
-              "QuantityMax": 3
+              "QuantityMin": 0,
+              "QuantityMax": 1
+            }
+          },
+          {
+            "Type": "Single",
+            "Item": {
+              "ItemId": "Ingredient_Bar_Adamantite",
+              "QuantityMin": 0,
+              "QuantityMax": 1
+            }
+          },
+          {
+            "Type": "Single",
+            "Item": {
+              "ItemId": "Ore_Fullmetal",
+              "QuantityMin": 0,
+              "QuantityMax": 1
+            }
+          },
+          {
+            "Type": "Single",
+            "Item": {
+              "ItemId": "Ore_Fullmetal",
+              "QuantityMin": 0,
+              "QuantityMax": 1
+            }
+          },
+          {
+            "Type": "Single",
+            "Item": {
+              "ItemId": "Ore_Fullmetal",
+              "QuantityMin": 0,
+              "QuantityMax": 1
+            }
+          },
+          {
+            "Type": "Single",
+            "Item": {
+              "ItemId": "Ore_Fullmetal",
+              "QuantityMin": 0,
+              "QuantityMax": 1
             }
           },
           {
@@ -69,9 +109,9 @@
           {
             "Type": "Single",
             "Item": {
-              "ItemId": "Deco_Iron_Chain_Small",
-              "QuantityMin": 1,
-              "QuantityMax": 2
+              "ItemId": "Ore_Fullmetal",
+              "QuantityMin": 0,
+              "QuantityMax": 1
             }
           }
         ]

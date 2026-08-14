@@ -27,7 +27,7 @@
       "Description": "The name of the blockset used for passive detection"
     },
     "NameTranslationKey": {
-      "Value": "server.npcRoles.Spider.name",
+      "Value": "server.npcRoles.Fullmetal_Micro_Spider.name",
       "Description": "Translation key for NPC name display"
     }
   },
@@ -93,7 +93,7 @@
     "DayFlavorAnimation": "Prey",
     "NightFlavorAnimation": "Prey",
     "IsMemory": true,
-    "MemoriesCategory": "Critter",
+    "MemoriesCategory": "Fullmetal",
     "_InteractionVars": {
       "Melee_Start": {
         "Interactions": [
@@ -200,6 +200,7 @@
       }
     },
     "NameTranslationKey": {
+      "Value": "server.npcRoles.Fullmetal_Micro_Spider.name",
       "Compute": "NameTranslationKey"
     }
   }

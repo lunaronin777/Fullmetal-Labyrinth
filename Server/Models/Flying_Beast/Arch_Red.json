@@ -425,5 +425,18 @@
       },
       "Color": "#ff0000"
     }
-  ]
+  ],
+  "Icon": "Icons/ModelsGenerated/Arch_Red.png",
+  "IconProperties": {
+    "Scale": 0.25,
+    "Rotation": [
+      0,
+      -45,
+      0
+    ],
+    "Translation": [
+      -9,
+      -58
+    ]
+  }
 }

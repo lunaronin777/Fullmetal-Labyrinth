@@ -64,7 +64,7 @@
     "DayTimeNapWeight": 0,
     "TimidDuringDay": false,
     "IsMemory": true,
-    "MemoriesCategory": "Mythic",
+    "MemoriesCategory": "Fullmetal",
     "_InteractionVars": {
       "Melee_Start": {
         "Interactions": [
@@ -101,7 +101,7 @@
   },
   "Parameters": {
     "NameTranslationKey": {
-      "Value": "server.npcRoles.Emberwulf.name",
+      "Value": "server.npcRoles.Fullmetal_Crystalwulf_Purple.name",
       "Description": "Translation key for NPC name display"
     }
   }

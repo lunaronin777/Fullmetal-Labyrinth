@@ -16,7 +16,7 @@
     "AlwaysSleepAtNight": false,
     "MaxHealth": 424,
     "IsMemory": true,
-    "MemoriesCategory": "Reptile",
+    "MemoriesCategory": "Fullmetal",
     "_InteractionVars": {
       "Tongue_Damage": {
         "Interactions": [
@@ -67,7 +67,7 @@
   },
   "Parameters": {
     "NameTranslationKey": {
-      "Value": "server.npcRoles.Toad_Rhino.name",
+      "Value": "server.npcRoles.Fullmetal_Yellow_Toad_Rhino.name",
       "Description": "Translation key for NPC name display"
     }
   }

@@ -1,0 +1,54 @@
+{
+  "Environments": [
+    "Env_Lab_Cold_Reaches"
+  ],
+  "DayTimeRange": [
+    0,
+    24
+  ],
+  "NPCs": [
+    {
+      "Id": "Golem_Fullmetal_Cyan",
+      "Weight": 5,
+      "SpawnBlockSet": "Soil_Snow"
+    },
+    {
+      "Id": "Snail_Frost",
+      "Weight": 5,
+      "SpawnBlockSet": "Soil_Snow"
+    },
+    {
+      "Id": "Spectre_Void",
+      "Weight": 5,
+      "SpawnBlockSet": "Soil_Snow"
+    },
+    {
+      "Id": "Golem_Crystal_Frost",
+      "Weight": 5,
+      "SpawnBlockSet": "Soil_Snow"
+    },
+    {
+      "Id": "Fullmetal_Spark_Living",
+      "Weight": 5,
+      "SpawnBlockSet": "Soil_Snow"
+    },
+    {
+      "Id": "Skeleton_Frost_Fighter_Patrol",
+      "Weight": 5,
+      "SpawnBlockSet": "Soil_Snow",
+      "Flock": "Group_Small"
+    },
+    {
+      "Id": "Skeleton_Frost_Archer_Patrol",
+      "Weight": 5,
+      "SpawnBlockSet": "Soil_Snow",
+      "Flock": "Group_Small"
+    },
+    {
+      "Id": "Skeleton_Frost_Knight_Patrol",
+      "Weight": 5,
+      "SpawnBlockSet": "Soil_Snow",
+      "Flock": "Group_Small"
+    }
+  ]
+}

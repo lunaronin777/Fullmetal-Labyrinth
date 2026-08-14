@@ -1,0 +1,48 @@
+{
+  "TranslationProperties": {
+    "Name": "server.items.Fullmetal_Plant_Flower_Common_Cyan.name"
+  },
+  "Parent": "Plant_Flower_Common_White",
+  "BlockType": {
+    "InteractionHint": "server.interactionHints.pick",
+    "CustomModel": "Blocks/Foliage/Flowers/Jungle_Orange.blockymodel",
+    "CustomModelTexture": [
+      {
+        "Texture": "Blocks/Foliage/Flowers/Fullmetal_Jungle_Cyan.png",
+        "Weight": 1
+      }
+    ],
+    "Gathering": {
+      "Soft": {
+        "DropList": "Plant_Flower_Cyan_Harvest"
+      },
+      "Harvest": {}
+    },
+    "Support": {
+      "BlockSides": [
+        {
+          "FaceType": "Full"
+        }
+      ]
+    },
+    "ParticleColor": "#5cf1ed",
+    "VariantRotation": "DoublePipe",
+    "Light": {
+      "Color": "#377"
+    },
+    "TextureComputedColor": "#192020"
+  },
+  "Icon": "Icons/ItemsGenerated/Fullmetal_Plant_Flower_Common_Cyan.png",
+  "IconProperties": {
+    "Scale": 0.555,
+    "Rotation": [
+      19,
+      39,
+      78
+    ],
+    "Translation": [
+      8,
+      -9
+    ]
+  }
+}

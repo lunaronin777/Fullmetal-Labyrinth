@@ -1,0 +1,2327 @@
+{
+  "nodes": [
+    {
+      "id": "1",
+      "name": "Origin",
+      "position": {"x": 0, "y": 0, "z": 0},
+      "orientation": {"x": 0, "y": 0, "z": 0, "w": 1},
+      "shape": {
+        "type": "none",
+        "offset": {"x": 0, "y": 0, "z": 0},
+        "stretch": {"x": 1, "y": 1, "z": 1},
+        "settings": {
+          "isPiece": false
+        },
+        "textureLayout": {},
+        "unwrapMode": "custom",
+        "visible": true,
+        "doubleSided": false,
+        "shadingMode": "flat"
+      },
+      "children": [
+        {
+          "id": "2",
+          "name": "Pelvis",
+          "position": {"x": 0, "y": 12, "z": 0},
+          "orientation": {"x": 0, "y": 0, "z": 0, "w": 1},
+          "shape": {
+            "type": "none",
+            "offset": {"x": 0, "y": 0, "z": 0},
+            "stretch": {"x": 1, "y": 1, "z": 1},
+            "settings": {
+              "isPiece": false
+            },
+            "textureLayout": {},
+            "unwrapMode": "custom",
+            "visible": true,
+            "doubleSided": false,
+            "shadingMode": "flat"
+          },
+          "children": [
+            {
+              "id": "3",
+              "name": "Belly",
+              "position": {"x": 0, "y": 12, "z": 0},
+              "orientation": {"x": 0, "y": 0, "z": 0, "w": 1},
+              "shape": {
+                "type": "none",
+                "offset": {"x": 0, "y": 0, "z": 0},
+                "stretch": {"x": 1, "y": 1, "z": 1},
+                "settings": {
+                  "isPiece": false
+                },
+                "textureLayout": {},
+                "unwrapMode": "custom",
+                "visible": true,
+                "doubleSided": false,
+                "shadingMode": "flat"
+              },
+              "children": [
+                {
+                  "id": "4",
+                  "name": "Chest",
+                  "position": {"x": 0, "y": 12, "z": 0},
+                  "orientation": {"x": 0, "y": 0, "z": 0, "w": 1},
+                  "shape": {
+                    "type": "none",
+                    "offset": {"x": 0, "y": 0, "z": 0},
+                    "stretch": {"x": 1, "y": 1, "z": 1},
+                    "settings": {
+                      "isPiece": false
+                    },
+                    "textureLayout": {},
+                    "unwrapMode": "custom",
+                    "visible": true,
+                    "doubleSided": false,
+                    "shadingMode": "flat"
+                  },
+                  "children": [
+                    {
+                      "id": "5",
+                      "name": "Head",
+                      "position": {"x": 0, "y": 12, "z": 0},
+                      "orientation": {"x": 0, "y": 0, "z": 0, "w": 1},
+                      "shape": {
+                        "type": "box",
+                        "offset": {"x": 0, "y": 4.99977, "z": 7.00015},
+                        "stretch": {"x": 1, "y": 1, "z": 1},
+                        "settings": {
+                          "isPiece": false,
+                          "size": {"x": 30, "y": 23, "z": 28}
+                        },
+                        "textureLayout": {
+                          "back": {
+                            "offset": {"x": 58, "y": 28},
+                            "mirror": {"x": false, "y": false},
+                            "angle": 0
+                          },
+                          "right": {
+                            "offset": {"x": 30, "y": 28},
+                            "mirror": {"x": false, "y": false},
+                            "angle": 0
+                          },
+                          "front": {
+                            "offset": {"x": 0, "y": 28},
+                            "mirror": {"x": false, "y": false},
+                            "angle": 0
+                          },
+                          "left": {
+                            "offset": {"x": 58, "y": 28},
+                            "mirror": {"x": true, "y": false},
+                            "angle": 0
+                          },
+                          "top": {
+                            "offset": {"x": 0, "y": 0},
+                            "mirror": {"x": false, "y": false},
+                            "angle": 0
+                          },
+                          "bottom": {
+                            "offset": {"x": 30, "y": 0},
+                            "mirror": {"x": false, "y": false},
+                            "angle": 0
+                          }
+                        },
+                        "unwrapMode": "custom",
+                        "visible": true,
+                        "doubleSided": false,
+                        "shadingMode": "fullbright"
+                      },
+                      "children": [
+                        {
+                          "id": "6",
+                          "name": "Jaw",
+                          "position": {"x": 0, "y": -16, "z": -1},
+                          "orientation": {"x": 0.13053, "y": 0, "z": 0, "w": 0.99144},
+                          "shape": {
+                            "type": "box",
+                            "offset": {"x": 0, "y": -6, "z": 8},
+                            "stretch": {"x": 1, "y": 1, "z": 1},
+                            "settings": {
+                              "isPiece": false,
+                              "size": {"x": 17, "y": 13, "z": 19}
+                            },
+                            "textureLayout": {
+                              "back": {
+                                "offset": {"x": 36, "y": 51},
+                                "mirror": {"x": false, "y": false},
+                                "angle": 0
+                              },
+                              "right": {
+                                "offset": {"x": 17, "y": 64},
+                                "mirror": {"x": false, "y": false},
+                                "angle": 0
+                              },
+                              "front": {
+                                "offset": {"x": 0, "y": 64},
+                                "mirror": {"x": false, "y": false},
+                                "angle": 0
+                              },
+                              "left": {
+                                "offset": {"x": 36, "y": 64},
+                                "mirror": {"x": true, "y": false},
+                                "angle": 0
+                              },
+                              "top": {
+                                "offset": {"x": 61, "y": 52},
+                                "mirror": {"x": false, "y": false},
+                                "angle": 0
+                              },
+                              "bottom": {
+                                "offset": {"x": 61, "y": 26},
+                                "mirror": {"x": false, "y": true},
+                                "angle": 0
+                              }
+                            },
+                            "unwrapMode": "custom",
+                            "visible": true,
+                            "doubleSided": true,
+                            "shadingMode": "fullbright"
+                          },
+                          "children": [
+                            {
+                              "id": "7",
+                              "name": "Teeth-Bot",
+                              "position": {"x": 0, "y": 5, "z": 1.5},
+                              "orientation": {"x": -0.08716, "y": 0, "z": 0, "w": 0.99619},
+                              "shape": {
+                                "type": "box",
+                                "offset": {"x": 0, "y": 2.99992, "z": -0.00007},
+                                "stretch": {"x": 1, "y": 1, "z": 1},
+                                "settings": {
+                                  "isPiece": false,
+                                  "size": {"x": 16, "y": 6, "z": 16}
+                                },
+                                "textureLayout": {
+                                  "right": {
+                                    "offset": {"x": 17, "y": 58},
+                                    "mirror": {"x": false, "y": false},
+                                    "angle": 0
+                                  },
+                                  "front": {
+                                    "offset": {"x": 1, "y": 58},
+                                    "mirror": {"x": false, "y": false},
+                                    "angle": 0
+                                  },
+                                  "left": {
+                                    "offset": {"x": 17, "y": 58},
+                                    "mirror": {"x": false, "y": false},
+                                    "angle": 0
+                                  }
+                                },
+                                "unwrapMode": "custom",
+                                "visible": true,
+                                "doubleSided": true,
+                                "shadingMode": "fullbright"
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "id": "8",
+                          "name": "R-Horn",
+                          "position": {"x": 14, "y": 1, "z": 0},
+                          "orientation": {"x": -0.9979, "y": 0, "z": -0.06485, "w": 0},
+                          "shape": {
+                            "type": "box",
+                            "offset": {"x": 4, "y": 0, "z": 0},
+                            "stretch": {"x": 1, "y": -1, "z": 1},
+                            "settings": {
+                              "isPiece": false,
+                              "size": {"x": 15, "y": 16, "z": 12}
+                            },
+                            "textureLayout": {
+                              "back": {
+                                "offset": {"x": 54, "y": 106},
+                                "mirror": {"x": true, "y": true},
+                                "angle": 270
+                              },
+                              "right": {
+                                "offset": {"x": 51, "y": 107},
+                                "mirror": {"x": true, "y": true},
+                                "angle": 270
+                              },
+                              "front": {
+                                "offset": {"x": 54, "y": 121},
+                                "mirror": {"x": true, "y": false},
+                                "angle": 90
+                              },
+                              "top": {
+                                "offset": {"x": 66, "y": 121},
+                                "mirror": {"x": true, "y": false},
+                                "angle": 90
+                              },
+                              "bottom": {
+                                "offset": {"x": 26, "y": 121},
+                                "mirror": {"x": true, "y": true},
+                                "angle": 90
+                              }
+                            },
+                            "unwrapMode": "custom",
+                            "visible": true,
+                            "doubleSided": false,
+                            "shadingMode": "fullbright"
+                          },
+                          "children": [
+                            {
+                              "id": "9",
+                              "name": "R-Horn2",
+                              "position": {"x": 9, "y": -1, "z": 0},
+                              "orientation": {"x": 0, "y": 0, "z": -0.25882, "w": 0.96593},
+                              "shape": {
+                                "type": "box",
+                                "offset": {"x": 3, "y": 0, "z": 0},
+                                "stretch": {"x": 1, "y": 1, "z": 1},
+                                "settings": {
+                                  "isPiece": false,
+                                  "size": {"x": 17, "y": 13, "z": 7}
+                                },
+                                "textureLayout": {
+                                  "back": {
+                                    "offset": {"x": 36, "y": 89},
+                                    "mirror": {"x": true, "y": false},
+                                    "angle": 270
+                                  },
+                                  "right": {
+                                    "offset": {"x": 81, "y": 101},
+                                    "mirror": {"x": true, "y": true},
+                                    "angle": 270
+                                  },
+                                  "front": {
+                                    "offset": {"x": 36, "y": 106},
+                                    "mirror": {"x": true, "y": true},
+                                    "angle": 90
+                                  },
+                                  "top": {
+                                    "offset": {"x": 29, "y": 106},
+                                    "mirror": {"x": true, "y": true},
+                                    "angle": 90
+                                  },
+                                  "bottom": {
+                                    "offset": {"x": 49, "y": 106},
+                                    "mirror": {"x": true, "y": true},
+                                    "angle": 90
+                                  }
+                                },
+                                "unwrapMode": "custom",
+                                "visible": true,
+                                "doubleSided": false,
+                                "shadingMode": "fullbright"
+                              },
+                              "children": [
+                                {
+                                  "id": "10",
+                                  "name": "R-Horn3",
+                                  "position": {"x": 7.5, "y": -0.5, "z": 0},
+                                  "orientation": {"x": 0, "y": 0, "z": 0.38268, "w": 0.92388},
+                                  "shape": {
+                                    "type": "quad",
+                                    "offset": {"x": 0, "y": -7, "z": 0},
+                                    "stretch": {"x": -1, "y": 1, "z": 1},
+                                    "settings": {
+                                      "isPiece": false,
+                                      "size": {"x": 11, "y": 23},
+                                      "normal": "-Z"
+                                    },
+                                    "textureLayout": {
+                                      "front": {
+                                        "offset": {"x": 48, "y": 89},
+                                        "mirror": {"x": false, "y": false},
+                                        "angle": 180
+                                      }
+                                    },
+                                    "unwrapMode": "custom",
+                                    "visible": true,
+                                    "doubleSided": true,
+                                    "shadingMode": "fullbright"
+                                  },
+                                  "children": [
+                                    {
+                                      "id": "11",
+                                      "name": "R-Horn-4",
+                                      "position": {"x": 3, "y": 7, "z": 0},
+                                      "orientation": {"x": 0.15305, "y": 0.69035, "z": -0.15305, "w": 0.69035},
+                                      "shape": {
+                                        "type": "quad",
+                                        "offset": {"x": 0, "y": -7, "z": 0},
+                                        "stretch": {"x": -1, "y": 1, "z": 1},
+                                        "settings": {
+                                          "isPiece": false,
+                                          "size": {"x": 11, "y": 23},
+                                          "normal": "-Z"
+                                        },
+                                        "textureLayout": {
+                                          "front": {
+                                            "offset": {"x": 59, "y": 89},
+                                            "mirror": {"x": false, "y": false},
+                                            "angle": 180
+                                          }
+                                        },
+                                        "unwrapMode": "custom",
+                                        "visible": true,
+                                        "doubleSided": true,
+                                        "shadingMode": "fullbright"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "id": "12",
+                          "name": "L-Horn",
+                          "position": {"x": -14, "y": 1, "z": 0},
+                          "orientation": {"x": -0.9979, "y": 0, "z": 0.06485, "w": 0},
+                          "shape": {
+                            "type": "box",
+                            "offset": {"x": -4, "y": 0, "z": 0},
+                            "stretch": {"x": -1, "y": -1, "z": 1},
+                            "settings": {
+                              "isPiece": false,
+                              "size": {"x": 15, "y": 16, "z": 12}
+                            },
+                            "textureLayout": {
+                              "back": {
+                                "offset": {"x": 54, "y": 106},
+                                "mirror": {"x": true, "y": true},
+                                "angle": 270
+                              },
+                              "right": {
+                                "offset": {"x": 51, "y": 107},
+                                "mirror": {"x": true, "y": true},
+                                "angle": 270
+                              },
+                              "front": {
+                                "offset": {"x": 54, "y": 121},
+                                "mirror": {"x": true, "y": false},
+                                "angle": 90
+                              },
+                              "top": {
+                                "offset": {"x": 66, "y": 121},
+                                "mirror": {"x": true, "y": false},
+                                "angle": 90
+                              },
+                              "bottom": {
+                                "offset": {"x": 26, "y": 121},
+                                "mirror": {"x": true, "y": true},
+                                "angle": 90
+                              }
+                            },
+                            "unwrapMode": "custom",
+                            "visible": true,
+                            "doubleSided": false,
+                            "shadingMode": "fullbright"
+                          },
+                          "children": [
+                            {
+                              "id": "13",
+                              "name": "L-Horn2",
+                              "position": {"x": -9, "y": -1, "z": 0},
+                              "orientation": {"x": 0, "y": 0, "z": 0.25882, "w": 0.96593},
+                              "shape": {
+                                "type": "box",
+                                "offset": {"x": -3, "y": 0, "z": 0},
+                                "stretch": {"x": -1, "y": 1, "z": 1},
+                                "settings": {
+                                  "isPiece": false,
+                                  "size": {"x": 17, "y": 13, "z": 7}
+                                },
+                                "textureLayout": {
+                                  "back": {
+                                    "offset": {"x": 36, "y": 89},
+                                    "mirror": {"x": true, "y": false},
+                                    "angle": 270
+                                  },
+                                  "right": {
+                                    "offset": {"x": 81, "y": 101},
+                                    "mirror": {"x": true, "y": true},
+                                    "angle": 270
+                                  },
+                                  "front": {
+                                    "offset": {"x": 36, "y": 106},
+                                    "mirror": {"x": true, "y": true},
+                                    "angle": 90
+                                  },
+                                  "top": {
+                                    "offset": {"x": 29, "y": 106},
+                                    "mirror": {"x": true, "y": true},
+                                    "angle": 90
+                                  },
+                                  "bottom": {
+                                    "offset": {"x": 49, "y": 106},
+                                    "mirror": {"x": true, "y": true},
+                                    "angle": 90
+                                  }
+                                },
+                                "unwrapMode": "custom",
+                                "visible": true,
+                                "doubleSided": false,
+                                "shadingMode": "fullbright"
+                              },
+                              "children": [
+                                {
+                                  "id": "14",
+                                  "name": "L-Horn3",
+                                  "position": {"x": -7.5, "y": -0.5, "z": 0},
+                                  "orientation": {"x": 0, "y": 0, "z": -0.38268, "w": 0.92388},
+                                  "shape": {
+                                    "type": "quad",
+                                    "offset": {"x": 0, "y": -7, "z": 0},
+                                    "stretch": {"x": 1, "y": 1, "z": 1},
+                                    "settings": {
+                                      "isPiece": false,
+                                      "size": {"x": 11, "y": 23},
+                                      "normal": "-Z"
+                                    },
+                                    "textureLayout": {
+                                      "front": {
+                                        "offset": {"x": 48, "y": 89},
+                                        "mirror": {"x": false, "y": false},
+                                        "angle": 180
+                                      }
+                                    },
+                                    "unwrapMode": "custom",
+                                    "visible": true,
+                                    "doubleSided": true,
+                                    "shadingMode": "fullbright"
+                                  },
+                                  "children": [
+                                    {
+                                      "id": "15",
+                                      "name": "L-Horn-4",
+                                      "position": {"x": -3, "y": 7, "z": 0},
+                                      "orientation": {"x": 0.15305, "y": -0.69035, "z": 0.15305, "w": 0.69035},
+                                      "shape": {
+                                        "type": "quad",
+                                        "offset": {"x": 0, "y": -7, "z": 0},
+                                        "stretch": {"x": 1, "y": 1, "z": 1},
+                                        "settings": {
+                                          "isPiece": false,
+                                          "size": {"x": 11, "y": 23},
+                                          "normal": "-Z"
+                                        },
+                                        "textureLayout": {
+                                          "front": {
+                                            "offset": {"x": 59, "y": 89},
+                                            "mirror": {"x": false, "y": false},
+                                            "angle": 180
+                                          }
+                                        },
+                                        "unwrapMode": "custom",
+                                        "visible": true,
+                                        "doubleSided": true,
+                                        "shadingMode": "fullbright"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "id": "16",
+                          "name": "L-Eye",
+                          "position": {"x": 7.5, "y": 0, "z": 14.2},
+                          "orientation": {"x": 0, "y": 0, "z": 0, "w": 1},
+                          "shape": {
+                            "type": "quad",
+                            "offset": {"x": 0, "y": 0, "z": 0},
+                            "stretch": {"x": 1, "y": 1, "z": 1},
+                            "settings": {
+                              "isPiece": false,
+                              "size": {"x": 9, "y": 9},
+                              "normal": "+Z"
+                            },
+                            "textureLayout": {
+                              "front": {
+                                "offset": {"x": 70, "y": 112},
+                                "mirror": {"x": false, "y": false},
+                                "angle": 0
+                              }
+                            },
+                            "unwrapMode": "custom",
+                            "visible": true,
+                            "doubleSided": true,
+                            "shadingMode": "fullbright"
+                          }
+                        },
+                        {
+                          "id": "17",
+                          "name": "R-Eye",
+                          "position": {"x": -7.5, "y": 0, "z": 14.2},
+                          "orientation": {"x": 0, "y": 0, "z": 0, "w": 1},
+                          "shape": {
+                            "type": "quad",
+                            "offset": {"x": 0, "y": 0, "z": 0},
+                            "stretch": {"x": -1, "y": 1, "z": 1},
+                            "settings": {
+                              "isPiece": false,
+                              "size": {"x": 9, "y": 9},
+                              "normal": "+Z"
+                            },
+                            "textureLayout": {
+                              "front": {
+                                "offset": {"x": 70, "y": 112},
+                                "mirror": {"x": false, "y": false},
+                                "angle": 0
+                              }
+                            },
+                            "unwrapMode": "custom",
+                            "visible": true,
+                            "doubleSided": true,
+                            "shadingMode": "fullbright"
+                          }
+                        },
+                        {
+                          "id": "18",
+                          "name": "Teeth-Top",
+                          "position": {"x": 0, "y": -11.5, "z": 14},
+                          "orientation": {"x": 0.79335, "y": 0, "z": 0, "w": 0.60876},
+                          "shape": {
+                            "type": "quad",
+                            "offset": {"x": 0, "y": 0, "z": 1.5},
+                            "stretch": {"x": 1, "y": 1, "z": 1},
+                            "settings": {
+                              "isPiece": false,
+                              "size": {"x": 20, "y": 3},
+                              "normal": "+Y"
+                            },
+                            "textureLayout": {
+                              "front": {
+                                "offset": {"x": 5, "y": 51},
+                                "mirror": {"x": false, "y": false},
+                                "angle": 0
+                              }
+                            },
+                            "unwrapMode": "custom",
+                            "visible": true,
+                            "doubleSided": true,
+                            "shadingMode": "fullbright"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "id": "19",
+                      "name": "L-Arm",
+                      "position": {"x": 24, "y": 0, "z": 0},
+                      "orientation": {"x": 0, "y": 0, "z": 0.04362, "w": 0.99905},
+                      "shape": {
+                        "type": "none",
+                        "offset": {"x": 0.00001, "y": -0.00001, "z": 0.00002},
+                        "stretch": {"x": 1, "y": 1, "z": 1},
+                        "settings": {
+                          "isPiece": false
+                        },
+                        "textureLayout": {},
+                        "unwrapMode": "custom",
+                        "visible": true,
+                        "doubleSided": false,
+                        "shadingMode": "flat"
+                      },
+                      "children": [
+                        {
+                          "id": "20",
+                          "name": "L-Forearm",
+                          "position": {"x": 0, "y": -16, "z": 0},
+                          "orientation": {"x": 0, "y": 0, "z": 0, "w": 1},
+                          "shape": {
+                            "type": "none",
+                            "offset": {"x": 0, "y": 0, "z": 0},
+                            "stretch": {"x": 1, "y": 1, "z": 1},
+                            "settings": {
+                              "isPiece": false
+                            },
+                            "textureLayout": {},
+                            "unwrapMode": "custom",
+                            "visible": true,
+                            "doubleSided": false,
+                            "shadingMode": "flat"
+                          },
+                          "children": [
+                            {
+                              "id": "21",
+                              "name": "L-Hand",
+                              "position": {"x": 0, "y": -16, "z": 0},
+                              "orientation": {"x": 0, "y": 0, "z": 0, "w": 1},
+                              "shape": {
+                                "type": "box",
+                                "offset": {"x": 0, "y": -6, "z": 0},
+                                "stretch": {"x": 1, "y": 1, "z": 1},
+                                "settings": {
+                                  "isPiece": false,
+                                  "size": {"x": 12, "y": 17, "z": 17}
+                                },
+                                "textureLayout": {
+                                  "back": {
+                                    "offset": {"x": 66, "y": 81},
+                                    "mirror": {"x": false, "y": false},
+                                    "angle": 0
+                                  },
+                                  "right": {
+                                    "offset": {"x": 78, "y": 69},
+                                    "mirror": {"x": false, "y": true},
+                                    "angle": 0
+                                  },
+                                  "front": {
+                                    "offset": {"x": 78, "y": 81},
+                                    "mirror": {"x": true, "y": false},
+                                    "angle": 0
+                                  },
+                                  "left": {
+                                    "offset": {"x": 95, "y": 81},
+                                    "mirror": {"x": true, "y": false},
+                                    "angle": 0
+                                  },
+                                  "top": {
+                                    "offset": {"x": 95, "y": 81},
+                                    "mirror": {"x": true, "y": false},
+                                    "angle": 90
+                                  },
+                                  "bottom": {
+                                    "offset": {"x": 95, "y": 69},
+                                    "mirror": {"x": true, "y": true},
+                                    "angle": 270
+                                  }
+                                },
+                                "unwrapMode": "custom",
+                                "visible": true,
+                                "doubleSided": false,
+                                "shadingMode": "fullbright"
+                              },
+                              "children": [
+                                {
+                                  "id": "22",
+                                  "name": "L-Attachment",
+                                  "position": {"x": -4.00002, "y": -16.00004, "z": 0.00002},
+                                  "orientation": {"x": 0, "y": 0.70711, "z": 0, "w": 0.70711},
+                                  "shape": {
+                                    "type": "none",
+                                    "offset": {"x": 0, "y": 0, "z": 0},
+                                    "stretch": {"x": 1, "y": 1, "z": 1},
+                                    "settings": {
+                                      "isPiece": true
+                                    },
+                                    "textureLayout": {},
+                                    "unwrapMode": "custom",
+                                    "visible": true,
+                                    "doubleSided": false,
+                                    "shadingMode": "flat"
+                                  }
+                                },
+                                {
+                                  "id": "23",
+                                  "name": "L-Finger-Front",
+                                  "position": {"x": 1.5, "y": -7, "z": 4.5},
+                                  "orientation": {"x": -0.04362, "y": 0, "z": 0, "w": 0.99905},
+                                  "shape": {
+                                    "type": "box",
+                                    "offset": {"x": -0.00013, "y": -5.9999, "z": 0},
+                                    "stretch": {"x": 1.25, "y": 1, "z": 1},
+                                    "settings": {
+                                      "isPiece": false,
+                                      "size": {"x": 6, "y": 16, "z": 7}
+                                    },
+                                    "textureLayout": {
+                                      "back": {
+                                        "offset": {"x": 13, "y": 82},
+                                        "mirror": {"x": false, "y": false},
+                                        "angle": 0
+                                      },
+                                      "right": {
+                                        "offset": {"x": 6, "y": 82},
+                                        "mirror": {"x": false, "y": false},
+                                        "angle": 0
+                                      },
+                                      "front": {
+                                        "offset": {"x": 0, "y": 82},
+                                        "mirror": {"x": false, "y": false},
+                                        "angle": 0
+                                      },
+                                      "left": {
+                                        "offset": {"x": 6, "y": 82},
+                                        "mirror": {"x": false, "y": false},
+                                        "angle": 0
+                                      },
+                                      "top": {
+                                        "offset": {"x": 19, "y": 82},
+                                        "mirror": {"x": false, "y": false},
+                                        "angle": 0
+                                      },
+                                      "bottom": {
+                                        "offset": {"x": 13, "y": 92},
+                                        "mirror": {"x": true, "y": true},
+                                        "angle": 270
+                                      }
+                                    },
+                                    "unwrapMode": "custom",
+                                    "visible": true,
+                                    "doubleSided": false,
+                                    "shadingMode": "fullbright"
+                                  },
+                                  "children": [
+                                    {
+                                      "id": "24",
+                                      "name": "L-Finger-Front2",
+                                      "position": {"x": -0.00001, "y": -7.00001, "z": 0},
+                                      "orientation": {"x": 0, "y": 0, "z": -0.25882, "w": 0.96593},
+                                      "shape": {
+                                        "type": "box",
+                                        "offset": {"x": 0.00013, "y": -6.00006, "z": -0.00009},
+                                        "stretch": {"x": 1, "y": 1, "z": 1},
+                                        "settings": {
+                                          "isPiece": false,
+                                          "size": {"x": 6, "y": 13, "z": 6}
+                                        },
+                                        "textureLayout": {
+                                          "back": {
+                                            "offset": {"x": 13, "y": 98},
+                                            "mirror": {"x": false, "y": false},
+                                            "angle": 0
+                                          },
+                                          "right": {
+                                            "offset": {"x": 6, "y": 98},
+                                            "mirror": {"x": false, "y": false},
+                                            "angle": 0
+                                          },
+                                          "front": {
+                                            "offset": {"x": 0, "y": 98},
+                                            "mirror": {"x": false, "y": false},
+                                            "angle": 0
+                                          },
+                                          "left": {
+                                            "offset": {"x": 6, "y": 98},
+                                            "mirror": {"x": false, "y": false},
+                                            "angle": 0
+                                          },
+                                          "top": {
+                                            "offset": {"x": 25, "y": 82},
+                                            "mirror": {"x": true, "y": true},
+                                            "angle": 270
+                                          },
+                                          "bottom": {
+                                            "offset": {"x": 70, "y": 73},
+                                            "mirror": {"x": false, "y": false},
+                                            "angle": 0
+                                          }
+                                        },
+                                        "unwrapMode": "custom",
+                                        "visible": true,
+                                        "doubleSided": false,
+                                        "shadingMode": "fullbright"
+                                      },
+                                      "children": [
+                                        {
+                                          "id": "25",
+                                          "name": "L-Fingernail-Front",
+                                          "position": {"x": 0, "y": -7, "z": 0},
+                                          "orientation": {"x": 0, "y": 0, "z": -0.25882, "w": 0.96593},
+                                          "shape": {
+                                            "type": "quad",
+                                            "offset": {"x": 0, "y": -7, "z": 0},
+                                            "stretch": {"x": 1, "y": 1, "z": 1},
+                                            "settings": {
+                                              "isPiece": false,
+                                              "size": {"x": 10, "y": 17},
+                                              "normal": "+Z"
+                                            },
+                                            "textureLayout": {
+                                              "front": {
+                                                "offset": {"x": 9, "y": 111},
+                                                "mirror": {"x": false, "y": false},
+                                                "angle": 0
+                                              }
+                                            },
+                                            "unwrapMode": "custom",
+                                            "visible": true,
+                                            "doubleSided": true,
+                                            "shadingMode": "fullbright"
+                                          },
+                                          "children": [
+                                            {
+                                              "id": "26",
+                                              "name": "L-Fingernail-Front2",
+                                              "position": {"x": 1.00008, "y": 7.00014, "z": -0.99997},
+                                              "orientation": {"x": 0.0923, "y": 0.70106, "z": -0.0923, "w": 0.70106},
+                                              "shape": {
+                                                "type": "quad",
+                                                "offset": {"x": -1.00008, "y": -7.00014, "z": -0.00003},
+                                                "stretch": {"x": 1, "y": 1, "z": 1},
+                                                "settings": {
+                                                  "isPiece": false,
+                                                  "size": {"x": 7, "y": 17},
+                                                  "normal": "+Z"
+                                                },
+                                                "textureLayout": {
+                                                  "front": {
+                                                    "offset": {"x": 0, "y": 111},
+                                                    "mirror": {"x": false, "y": false},
+                                                    "angle": 0
+                                                  }
+                                                },
+                                                "unwrapMode": "custom",
+                                                "visible": true,
+                                                "doubleSided": true,
+                                                "shadingMode": "fullbright"
+                                              }
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "id": "27",
+                                  "name": "L-Finger-Back",
+                                  "position": {"x": 1.5, "y": -7, "z": -4.5},
+                                  "orientation": {"x": 0.04362, "y": 0, "z": 0, "w": 0.99905},
+                                  "shape": {
+                                    "type": "box",
+                                    "offset": {"x": -0.00013, "y": -5.9999, "z": 0},
+                                    "stretch": {"x": 1.25, "y": 1, "z": 1},
+                                    "settings": {
+                                      "isPiece": false,
+                                      "size": {"x": 6, "y": 16, "z": 7}
+                                    },
+                                    "textureLayout": {
+                                      "back": {
+                                        "offset": {"x": 13, "y": 82},
+                                        "mirror": {"x": false, "y": false},
+                                        "angle": 0
+                                      },
+                                      "right": {
+                                        "offset": {"x": 6, "y": 82},
+                                        "mirror": {"x": false, "y": false},
+                                        "angle": 0
+                                      },
+                                      "front": {
+                                        "offset": {"x": 0, "y": 82},
+                                        "mirror": {"x": false, "y": false},
+                                        "angle": 0
+                                      },
+                                      "left": {
+                                        "offset": {"x": 6, "y": 82},
+                                        "mirror": {"x": false, "y": false},
+                                        "angle": 0
+                                      },
+                                      "top": {
+                                        "offset": {"x": 19, "y": 82},
+                                        "mirror": {"x": false, "y": false},
+                                        "angle": 0
+                                      },
+                                      "bottom": {
+                                        "offset": {"x": 13, "y": 92},
+                                        "mirror": {"x": true, "y": true},
+                                        "angle": 270
+                                      }
+                                    },
+                                    "unwrapMode": "custom",
+                                    "visible": true,
+                                    "doubleSided": false,
+                                    "shadingMode": "fullbright"
+                                  },
+                                  "children": [
+                                    {
+                                      "id": "28",
+                                      "name": "L-Finger-Back2",
+                                      "position": {"x": -0.00001, "y": -7.00001, "z": 0},
+                                      "orientation": {"x": 0, "y": 0, "z": -0.25882, "w": 0.96593},
+                                      "shape": {
+                                        "type": "box",
+                                        "offset": {"x": 0.00013, "y": -6.00006, "z": -0.00009},
+                                        "stretch": {"x": 1, "y": 1, "z": 1},
+                                        "settings": {
+                                          "isPiece": false,
+                                          "size": {"x": 6, "y": 13, "z": 6}
+                                        },
+                                        "textureLayout": {
+                                          "back": {
+                                            "offset": {"x": 13, "y": 98},
+                                            "mirror": {"x": false, "y": false},
+                                            "angle": 0
+                                          },
+                                          "right": {
+                                            "offset": {"x": 6, "y": 98},
+                                            "mirror": {"x": false, "y": false},
+                                            "angle": 0
+                                          },
+                                          "front": {
+                                            "offset": {"x": 0, "y": 98},
+                                            "mirror": {"x": false, "y": false},
+                                            "angle": 0
+                                          },
+                                          "left": {
+                                            "offset": {"x": 6, "y": 98},
+                                            "mirror": {"x": false, "y": false},
+                                            "angle": 0
+                                          },
+                                          "top": {
+                                            "offset": {"x": 25, "y": 82},
+                                            "mirror": {"x": true, "y": true},
+                                            "angle": 270
+                                          },
+                                          "bottom": {
+                                            "offset": {"x": 70, "y": 73},
+                                            "mirror": {"x": false, "y": false},
+                                            "angle": 0
+                                          }
+                                        },
+                                        "unwrapMode": "custom",
+                                        "visible": true,
+                                        "doubleSided": false,
+                                        "shadingMode": "fullbright"
+                                      },
+                                      "children": [
+                                        {
+                                          "id": "29",
+                                          "name": "L-Fingernail-Back",
+                                          "position": {"x": 0, "y": -7, "z": 0},
+                                          "orientation": {"x": 0, "y": 0, "z": -0.25882, "w": 0.96593},
+                                          "shape": {
+                                            "type": "quad",
+                                            "offset": {"x": 0, "y": -7, "z": 0},
+                                            "stretch": {"x": 1, "y": 1, "z": 1},
+                                            "settings": {
+                                              "isPiece": false,
+                                              "size": {"x": 10, "y": 17},
+                                              "normal": "+Z"
+                                            },
+                                            "textureLayout": {
+                                              "front": {
+                                                "offset": {"x": 9, "y": 111},
+                                                "mirror": {"x": false, "y": false},
+                                                "angle": 0
+                                              }
+                                            },
+                                            "unwrapMode": "custom",
+                                            "visible": true,
+                                            "doubleSided": true,
+                                            "shadingMode": "fullbright"
+                                          },
+                                          "children": [
+                                            {
+                                              "id": "30",
+                                              "name": "L-Fingernail-Back2",
+                                              "position": {"x": 1, "y": 7, "z": 0},
+                                              "orientation": {"x": 0.0923, "y": 0.70106, "z": -0.0923, "w": 0.70106},
+                                              "shape": {
+                                                "type": "quad",
+                                                "offset": {"x": 0, "y": -7, "z": 0},
+                                                "stretch": {"x": 1, "y": 1, "z": 1},
+                                                "settings": {
+                                                  "isPiece": false,
+                                                  "size": {"x": 7, "y": 17},
+                                                  "normal": "+Z"
+                                                },
+                                                "textureLayout": {
+                                                  "front": {
+                                                    "offset": {"x": 0, "y": 111},
+                                                    "mirror": {"x": false, "y": false},
+                                                    "angle": 0
+                                                  }
+                                                },
+                                                "unwrapMode": "custom",
+                                                "visible": true,
+                                                "doubleSided": true,
+                                                "shadingMode": "fullbright"
+                                              }
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "id": "31",
+                                  "name": "L-Thumb",
+                                  "position": {"x": 0, "y": 0, "z": 6},
+                                  "orientation": {"x": -0.5, "y": -0.5, "z": 0, "w": 0.70711},
+                                  "shape": {
+                                    "type": "box",
+                                    "offset": {"x": -0.00013, "y": -5.9999, "z": 0},
+                                    "stretch": {"x": 1.25, "y": 1, "z": 1},
+                                    "settings": {
+                                      "isPiece": false,
+                                      "size": {"x": 6, "y": 16, "z": 7}
+                                    },
+                                    "textureLayout": {
+                                      "back": {
+                                        "offset": {"x": 13, "y": 82},
+                                        "mirror": {"x": false, "y": false},
+                                        "angle": 0
+                                      },
+                                      "right": {
+                                        "offset": {"x": 6, "y": 82},
+                                        "mirror": {"x": false, "y": false},
+                                        "angle": 0
+                                      },
+                                      "front": {
+                                        "offset": {"x": 0, "y": 82},
+                                        "mirror": {"x": false, "y": false},
+                                        "angle": 0
+                                      },
+                                      "left": {
+                                        "offset": {"x": 6, "y": 82},
+                                        "mirror": {"x": false, "y": false},
+                                        "angle": 0
+                                      },
+                                      "top": {
+                                        "offset": {"x": 19, "y": 82},
+                                        "mirror": {"x": false, "y": false},
+                                        "angle": 0
+                                      },
+                                      "bottom": {
+                                        "offset": {"x": 13, "y": 92},
+                                        "mirror": {"x": true, "y": true},
+                                        "angle": 270
+                                      }
+                                    },
+                                    "unwrapMode": "custom",
+                                    "visible": true,
+                                    "doubleSided": false,
+                                    "shadingMode": "fullbright"
+                                  },
+                                  "children": [
+                                    {
+                                      "id": "32",
+                                      "name": "L-Thumb2",
+                                      "position": {"x": -0.00001, "y": -7.00001, "z": 0},
+                                      "orientation": {"x": 0, "y": 0, "z": -0.25882, "w": 0.96593},
+                                      "shape": {
+                                        "type": "box",
+                                        "offset": {"x": 0.00013, "y": -6.00006, "z": -0.00009},
+                                        "stretch": {"x": 1, "y": 1, "z": 1},
+                                        "settings": {
+                                          "isPiece": false,
+                                          "size": {"x": 6, "y": 13, "z": 6}
+                                        },
+                                        "textureLayout": {
+                                          "back": {
+                                            "offset": {"x": 13, "y": 98},
+                                            "mirror": {"x": false, "y": false},
+                                            "angle": 0
+                                          },
+                                          "right": {
+                                            "offset": {"x": 6, "y": 98},
+                                            "mirror": {"x": false, "y": false},
+                                            "angle": 0
+                                          },
+                                          "front": {
+                                            "offset": {"x": 0, "y": 98},
+                                            "mirror": {"x": false, "y": false},
+                                            "angle": 0
+                                          },
+                                          "left": {
+                                            "offset": {"x": 6, "y": 98},
+                                            "mirror": {"x": false, "y": false},
+                                            "angle": 0
+                                          },
+                                          "top": {
+                                            "offset": {"x": 25, "y": 82},
+                                            "mirror": {"x": true, "y": true},
+                                            "angle": 270
+                                          },
+                                          "bottom": {
+                                            "offset": {"x": 70, "y": 73},
+                                            "mirror": {"x": false, "y": false},
+                                            "angle": 0
+                                          }
+                                        },
+                                        "unwrapMode": "custom",
+                                        "visible": true,
+                                        "doubleSided": false,
+                                        "shadingMode": "fullbright"
+                                      },
+                                      "children": [
+                                        {
+                                          "id": "33",
+                                          "name": "L-Thumbnail",
+                                          "position": {"x": 0, "y": -5, "z": 0},
+                                          "orientation": {"x": 0, "y": 0, "z": -0.25882, "w": 0.96593},
+                                          "shape": {
+                                            "type": "quad",
+                                            "offset": {"x": 0, "y": -7, "z": 0},
+                                            "stretch": {"x": 1, "y": 1, "z": 1},
+                                            "settings": {
+                                              "isPiece": false,
+                                              "size": {"x": 10, "y": 17},
+                                              "normal": "+Z"
+                                            },
+                                            "textureLayout": {
+                                              "front": {
+                                                "offset": {"x": 9, "y": 111},
+                                                "mirror": {"x": false, "y": false},
+                                                "angle": 0
+                                              }
+                                            },
+                                            "unwrapMode": "custom",
+                                            "visible": true,
+                                            "doubleSided": true,
+                                            "shadingMode": "fullbright"
+                                          },
+                                          "children": [
+                                            {
+                                              "id": "34",
+                                              "name": "L-Thumbnail2",
+                                              "position": {"x": 1, "y": 7, "z": 0},
+                                              "orientation": {"x": 0.0923, "y": 0.70106, "z": -0.0923, "w": 0.70106},
+                                              "shape": {
+                                                "type": "quad",
+                                                "offset": {"x": 0, "y": -7, "z": 0},
+                                                "stretch": {"x": 1, "y": 1, "z": 1},
+                                                "settings": {
+                                                  "isPiece": false,
+                                                  "size": {"x": 7, "y": 17},
+                                                  "normal": "+Z"
+                                                },
+                                                "textureLayout": {
+                                                  "front": {
+                                                    "offset": {"x": 0, "y": 111},
+                                                    "mirror": {"x": false, "y": false},
+                                                    "angle": 0
+                                                  }
+                                                },
+                                                "unwrapMode": "custom",
+                                                "visible": true,
+                                                "doubleSided": true,
+                                                "shadingMode": "fullbright"
+                                              }
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "id": "35",
+                                  "name": "L-Hand-Chain",
+                                  "position": {"x": 6, "y": -8.5, "z": 0},
+                                  "orientation": {"x": 0.43046, "y": 0.56099, "z": -0.43046, "w": 0.56099},
+                                  "shape": {
+                                    "type": "quad",
+                                    "offset": {"x": 0, "y": -8, "z": 0},
+                                    "stretch": {"x": -1, "y": 1, "z": 1},
+                                    "settings": {
+                                      "isPiece": false,
+                                      "size": {"x": 7, "y": 16},
+                                      "normal": "+Z"
+                                    },
+                                    "textureLayout": {
+                                      "front": {
+                                        "offset": {"x": 88, "y": 4},
+                                        "mirror": {"x": false, "y": false},
+                                        "angle": 0
+                                      }
+                                    },
+                                    "unwrapMode": "custom",
+                                    "visible": true,
+                                    "doubleSided": true,
+                                    "shadingMode": "fullbright"
+                                  },
+                                  "children": [
+                                    {
+                                      "id": "36",
+                                      "name": "L-Hand-Chain2",
+                                      "position": {"x": 0, "y": -8, "z": 0},
+                                      "orientation": {"x": 0, "y": 0, "z": 0, "w": 1},
+                                      "shape": {
+                                        "type": "quad",
+                                        "offset": {"x": 0, "y": -8, "z": 0},
+                                        "stretch": {"x": -1, "y": 1, "z": 1},
+                                        "settings": {
+                                          "isPiece": false,
+                                          "size": {"x": 7, "y": 16},
+                                          "normal": "+Z"
+                                        },
+                                        "textureLayout": {
+                                          "front": {
+                                            "offset": {"x": 88, "y": 20},
+                                            "mirror": {"x": false, "y": false},
+                                            "angle": 0
+                                          }
+                                        },
+                                        "unwrapMode": "custom",
+                                        "visible": true,
+                                        "doubleSided": true,
+                                        "shadingMode": "fullbright"
+                                      },
+                                      "children": [
+                                        {
+                                          "id": "37",
+                                          "name": "L-Hand-Chain3",
+                                          "position": {"x": 0, "y": -8, "z": 0},
+                                          "orientation": {"x": 0, "y": 0, "z": 0, "w": 1},
+                                          "shape": {
+                                            "type": "quad",
+                                            "offset": {"x": 0, "y": -8, "z": 0},
+                                            "stretch": {"x": -1, "y": 1, "z": 1},
+                                            "settings": {
+                                              "isPiece": false,
+                                              "size": {"x": 7, "y": 16},
+                                              "normal": "+Z"
+                                            },
+                                            "textureLayout": {
+                                              "front": {
+                                                "offset": {"x": 88, "y": 20},
+                                                "mirror": {"x": false, "y": false},
+                                                "angle": 0
+                                              }
+                                            },
+                                            "unwrapMode": "custom",
+                                            "visible": true,
+                                            "doubleSided": true,
+                                            "shadingMode": "fullbright"
+                                          }
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "id": "38",
+                                  "name": "L-Hand-Chain-L",
+                                  "position": {"x": 6, "y": -1, "z": -8.5},
+                                  "orientation": {"x": 0.70106, "y": 0.70106, "z": 0.0923, "w": 0.0923},
+                                  "shape": {
+                                    "type": "quad",
+                                    "offset": {"x": 0, "y": -7, "z": 0},
+                                    "stretch": {"x": -1, "y": 1, "z": 1},
+                                    "settings": {
+                                      "isPiece": false,
+                                      "size": {"x": 7, "y": 14},
+                                      "normal": "+Z"
+                                    },
+                                    "textureLayout": {
+                                      "front": {
+                                        "offset": {"x": 88, "y": 8},
+                                        "mirror": {"x": false, "y": false},
+                                        "angle": 0
+                                      }
+                                    },
+                                    "unwrapMode": "custom",
+                                    "visible": true,
+                                    "doubleSided": true,
+                                    "shadingMode": "fullbright"
+                                  },
+                                  "children": [
+                                    {
+                                      "id": "39",
+                                      "name": "L-Hand-Chain-L2",
+                                      "position": {"x": 0, "y": -7, "z": 0},
+                                      "orientation": {"x": 0, "y": 0, "z": 0, "w": 1},
+                                      "shape": {
+                                        "type": "quad",
+                                        "offset": {"x": 0, "y": -7, "z": 0},
+                                        "stretch": {"x": -1, "y": 1, "z": 1},
+                                        "settings": {
+                                          "isPiece": false,
+                                          "size": {"x": 7, "y": 14},
+                                          "normal": "+Z"
+                                        },
+                                        "textureLayout": {
+                                          "front": {
+                                            "offset": {"x": 88, "y": 22},
+                                            "mirror": {"x": false, "y": false},
+                                            "angle": 0
+                                          }
+                                        },
+                                        "unwrapMode": "custom",
+                                        "visible": true,
+                                        "doubleSided": true,
+                                        "shadingMode": "fullbright"
+                                      },
+                                      "children": [
+                                        {
+                                          "id": "40",
+                                          "name": "L-Hand-Chain-L3",
+                                          "position": {"x": 0, "y": -7, "z": 0},
+                                          "orientation": {"x": 0, "y": 0, "z": 0, "w": 1},
+                                          "shape": {
+                                            "type": "quad",
+                                            "offset": {"x": 0, "y": -7, "z": 0},
+                                            "stretch": {"x": -1, "y": 1, "z": 1},
+                                            "settings": {
+                                              "isPiece": false,
+                                              "size": {"x": 7, "y": 14},
+                                              "normal": "+Z"
+                                            },
+                                            "textureLayout": {
+                                              "front": {
+                                                "offset": {"x": 88, "y": 36},
+                                                "mirror": {"x": false, "y": false},
+                                                "angle": 0
+                                              }
+                                            },
+                                            "unwrapMode": "custom",
+                                            "visible": true,
+                                            "doubleSided": true,
+                                            "shadingMode": "fullbright"
+                                          }
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "id": "41",
+                                  "name": "L-Hand-Chain-R",
+                                  "position": {"x": 6, "y": -5, "z": 8.5},
+                                  "orientation": {"x": -0.11538, "y": 0.04199, "z": -0.41252, "w": 0.90263},
+                                  "shape": {
+                                    "type": "quad",
+                                    "offset": {"x": 0, "y": -6, "z": 0},
+                                    "stretch": {"x": 1, "y": 1, "z": -1},
+                                    "settings": {
+                                      "isPiece": false,
+                                      "size": {"x": 7, "y": 12},
+                                      "normal": "+Z"
+                                    },
+                                    "textureLayout": {
+                                      "front": {
+                                        "offset": {"x": 88, "y": 8},
+                                        "mirror": {"x": false, "y": false},
+                                        "angle": 0
+                                      }
+                                    },
+                                    "unwrapMode": "custom",
+                                    "visible": true,
+                                    "doubleSided": true,
+                                    "shadingMode": "fullbright"
+                                  },
+                                  "children": [
+                                    {
+                                      "id": "42",
+                                      "name": "L-Hand-Chain-R2",
+                                      "position": {"x": 0, "y": -6, "z": 0},
+                                      "orientation": {"x": 0, "y": 0, "z": 0, "w": 1},
+                                      "shape": {
+                                        "type": "quad",
+                                        "offset": {"x": 0, "y": -6, "z": 0},
+                                        "stretch": {"x": 1, "y": 1, "z": -1},
+                                        "settings": {
+                                          "isPiece": false,
+                                          "size": {"x": 7, "y": 12},
+                                          "normal": "+Z"
+                                        },
+                                        "textureLayout": {
+                                          "front": {
+                                            "offset": {"x": 88, "y": 24},
+                                            "mirror": {"x": false, "y": false},
+                                            "angle": 0
+                                          }
+                                        },
+                                        "unwrapMode": "custom",
+                                        "visible": true,
+                                        "doubleSided": true,
+                                        "shadingMode": "fullbright"
+                                      },
+                                      "children": [
+                                        {
+                                          "id": "43",
+                                          "name": "L-Hand-Chain-R3",
+                                          "position": {"x": 0, "y": -6, "z": 0},
+                                          "orientation": {"x": 0, "y": 0, "z": 0, "w": 1},
+                                          "shape": {
+                                            "type": "quad",
+                                            "offset": {"x": 0, "y": -6, "z": 0},
+                                            "stretch": {"x": 1, "y": 1, "z": -1},
+                                            "settings": {
+                                              "isPiece": false,
+                                              "size": {"x": 7, "y": 12},
+                                              "normal": "+Z"
+                                            },
+                                            "textureLayout": {
+                                              "front": {
+                                                "offset": {"x": 88, "y": 24},
+                                                "mirror": {"x": false, "y": false},
+                                                "angle": 0
+                                              }
+                                            },
+                                            "unwrapMode": "custom",
+                                            "visible": true,
+                                            "doubleSided": true,
+                                            "shadingMode": "fullbright"
+                                          }
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "44",
+                      "name": "R-Arm",
+                      "position": {"x": -24, "y": 0, "z": 0},
+                      "orientation": {"x": 0, "y": 0, "z": -0.04362, "w": 0.99905},
+                      "shape": {
+                        "type": "none",
+                        "offset": {"x": -0.00001, "y": -0.00001, "z": 0.00002},
+                        "stretch": {"x": 1, "y": 1, "z": 1},
+                        "settings": {
+                          "isPiece": false
+                        },
+                        "textureLayout": {},
+                        "unwrapMode": "custom",
+                        "visible": true,
+                        "doubleSided": false,
+                        "shadingMode": "flat"
+                      },
+                      "children": [
+                        {
+                          "id": "45",
+                          "name": "R-Forearm",
+                          "position": {"x": 0, "y": -16, "z": 0},
+                          "orientation": {"x": 0, "y": 0, "z": 0, "w": 1},
+                          "shape": {
+                            "type": "none",
+                            "offset": {"x": 0, "y": 0, "z": 0},
+                            "stretch": {"x": 1, "y": 1, "z": 1},
+                            "settings": {
+                              "isPiece": false
+                            },
+                            "textureLayout": {},
+                            "unwrapMode": "custom",
+                            "visible": true,
+                            "doubleSided": false,
+                            "shadingMode": "flat"
+                          },
+                          "children": [
+                            {
+                              "id": "46",
+                              "name": "R-Hand",
+                              "position": {"x": 0, "y": -16, "z": 0},
+                              "orientation": {"x": 0, "y": 0, "z": 0, "w": 1},
+                              "shape": {
+                                "type": "box",
+                                "offset": {"x": 0, "y": -6, "z": 0},
+                                "stretch": {"x": -1, "y": 1, "z": 1},
+                                "settings": {
+                                  "isPiece": false,
+                                  "size": {"x": 12, "y": 17, "z": 17}
+                                },
+                                "textureLayout": {
+                                  "back": {
+                                    "offset": {"x": 66, "y": 81},
+                                    "mirror": {"x": false, "y": false},
+                                    "angle": 0
+                                  },
+                                  "right": {
+                                    "offset": {"x": 78, "y": 69},
+                                    "mirror": {"x": false, "y": true},
+                                    "angle": 0
+                                  },
+                                  "front": {
+                                    "offset": {"x": 78, "y": 81},
+                                    "mirror": {"x": true, "y": false},
+                                    "angle": 0
+                                  },
+                                  "left": {
+                                    "offset": {"x": 95, "y": 81},
+                                    "mirror": {"x": true, "y": false},
+                                    "angle": 0
+                                  },
+                                  "top": {
+                                    "offset": {"x": 95, "y": 81},
+                                    "mirror": {"x": true, "y": false},
+                                    "angle": 90
+                                  },
+                                  "bottom": {
+                                    "offset": {"x": 95, "y": 69},
+                                    "mirror": {"x": true, "y": true},
+                                    "angle": 270
+                                  }
+                                },
+                                "unwrapMode": "custom",
+                                "visible": true,
+                                "doubleSided": false,
+                                "shadingMode": "fullbright"
+                              },
+                              "children": [
+                                {
+                                  "id": "47",
+                                  "name": "R-Attachment",
+                                  "position": {"x": 4.00002, "y": -16.00004, "z": 0.00002},
+                                  "orientation": {"x": 0, "y": -0.70711, "z": 0, "w": 0.70711},
+                                  "shape": {
+                                    "type": "none",
+                                    "offset": {"x": 0, "y": 0, "z": 0},
+                                    "stretch": {"x": 1, "y": 1, "z": 1},
+                                    "settings": {
+                                      "isPiece": true
+                                    },
+                                    "textureLayout": {},
+                                    "unwrapMode": "custom",
+                                    "visible": true,
+                                    "doubleSided": false,
+                                    "shadingMode": "flat"
+                                  }
+                                },
+                                {
+                                  "id": "48",
+                                  "name": "R-Finger-Front",
+                                  "position": {"x": -1.5, "y": -7, "z": 4.5},
+                                  "orientation": {"x": -0.04362, "y": 0, "z": 0, "w": 0.99905},
+                                  "shape": {
+                                    "type": "box",
+                                    "offset": {"x": 0.00013, "y": -5.9999, "z": 0},
+                                    "stretch": {"x": -1.25, "y": 1, "z": 1},
+                                    "settings": {
+                                      "isPiece": false,
+                                      "size": {"x": 6, "y": 16, "z": 7}
+                                    },
+                                    "textureLayout": {
+                                      "back": {
+                                        "offset": {"x": 13, "y": 82},
+                                        "mirror": {"x": false, "y": false},
+                                        "angle": 0
+                                      },
+                                      "right": {
+                                        "offset": {"x": 6, "y": 82},
+                                        "mirror": {"x": false, "y": false},
+                                        "angle": 0
+                                      },
+                                      "front": {
+                                        "offset": {"x": 0, "y": 82},
+                                        "mirror": {"x": false, "y": false},
+                                        "angle": 0
+                                      },
+                                      "left": {
+                                        "offset": {"x": 6, "y": 82},
+                                        "mirror": {"x": false, "y": false},
+                                        "angle": 0
+                                      },
+                                      "top": {
+                                        "offset": {"x": 19, "y": 82},
+                                        "mirror": {"x": false, "y": false},
+                                        "angle": 0
+                                      },
+                                      "bottom": {
+                                        "offset": {"x": 13, "y": 92},
+                                        "mirror": {"x": true, "y": true},
+                                        "angle": 270
+                                      }
+                                    },
+                                    "unwrapMode": "custom",
+                                    "visible": true,
+                                    "doubleSided": false,
+                                    "shadingMode": "fullbright"
+                                  },
+                                  "children": [
+                                    {
+                                      "id": "49",
+                                      "name": "R-Finger-Front2",
+                                      "position": {"x": 0.00001, "y": -7.00001, "z": 0},
+                                      "orientation": {"x": 0, "y": 0, "z": 0.25882, "w": 0.96593},
+                                      "shape": {
+                                        "type": "box",
+                                        "offset": {"x": -0.00013, "y": -6.00006, "z": -0.00009},
+                                        "stretch": {"x": -1, "y": 1, "z": 1},
+                                        "settings": {
+                                          "isPiece": false,
+                                          "size": {"x": 6, "y": 13, "z": 6}
+                                        },
+                                        "textureLayout": {
+                                          "back": {
+                                            "offset": {"x": 13, "y": 98},
+                                            "mirror": {"x": false, "y": false},
+                                            "angle": 0
+                                          },
+                                          "right": {
+                                            "offset": {"x": 6, "y": 98},
+                                            "mirror": {"x": false, "y": false},
+                                            "angle": 0
+                                          },
+                                          "front": {
+                                            "offset": {"x": 0, "y": 98},
+                                            "mirror": {"x": false, "y": false},
+                                            "angle": 0
+                                          },
+                                          "left": {
+                                            "offset": {"x": 6, "y": 98},
+                                            "mirror": {"x": false, "y": false},
+                                            "angle": 0
+                                          },
+                                          "top": {
+                                            "offset": {"x": 25, "y": 82},
+                                            "mirror": {"x": true, "y": true},
+                                            "angle": 270
+                                          },
+                                          "bottom": {
+                                            "offset": {"x": 70, "y": 73},
+                                            "mirror": {"x": false, "y": false},
+                                            "angle": 0
+                                          }
+                                        },
+                                        "unwrapMode": "custom",
+                                        "visible": true,
+                                        "doubleSided": false,
+                                        "shadingMode": "fullbright"
+                                      },
+                                      "children": [
+                                        {
+                                          "id": "50",
+                                          "name": "R-Fingernail-Front",
+                                          "position": {"x": 0, "y": -7, "z": 0},
+                                          "orientation": {"x": 0, "y": 0, "z": 0.25882, "w": 0.96593},
+                                          "shape": {
+                                            "type": "quad",
+                                            "offset": {"x": 0, "y": -7, "z": 0},
+                                            "stretch": {"x": -1, "y": 1, "z": 1},
+                                            "settings": {
+                                              "isPiece": false,
+                                              "size": {"x": 10, "y": 17},
+                                              "normal": "+Z"
+                                            },
+                                            "textureLayout": {
+                                              "front": {
+                                                "offset": {"x": 9, "y": 111},
+                                                "mirror": {"x": false, "y": false},
+                                                "angle": 0
+                                              }
+                                            },
+                                            "unwrapMode": "custom",
+                                            "visible": true,
+                                            "doubleSided": true,
+                                            "shadingMode": "fullbright"
+                                          },
+                                          "children": [
+                                            {
+                                              "id": "51",
+                                              "name": "R-Fingernail-Front2",
+                                              "position": {"x": -1.00008, "y": 7.00014, "z": -0.99997},
+                                              "orientation": {"x": 0.0923, "y": -0.70106, "z": 0.0923, "w": 0.70106},
+                                              "shape": {
+                                                "type": "quad",
+                                                "offset": {"x": 1.00008, "y": -7.00014, "z": -0.00003},
+                                                "stretch": {"x": -1, "y": 1, "z": 1},
+                                                "settings": {
+                                                  "isPiece": false,
+                                                  "size": {"x": 7, "y": 17},
+                                                  "normal": "+Z"
+                                                },
+                                                "textureLayout": {
+                                                  "front": {
+                                                    "offset": {"x": 0, "y": 111},
+                                                    "mirror": {"x": false, "y": false},
+                                                    "angle": 0
+                                                  }
+                                                },
+                                                "unwrapMode": "custom",
+                                                "visible": true,
+                                                "doubleSided": true,
+                                                "shadingMode": "fullbright"
+                                              }
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "id": "52",
+                                  "name": "R-Finger-Back",
+                                  "position": {"x": -1.5, "y": -7, "z": -4.5},
+                                  "orientation": {"x": 0.04362, "y": 0, "z": 0, "w": 0.99905},
+                                  "shape": {
+                                    "type": "box",
+                                    "offset": {"x": 0.00013, "y": -5.9999, "z": 0},
+                                    "stretch": {"x": -1.25, "y": 1, "z": 1},
+                                    "settings": {
+                                      "isPiece": false,
+                                      "size": {"x": 6, "y": 16, "z": 7}
+                                    },
+                                    "textureLayout": {
+                                      "back": {
+                                        "offset": {"x": 13, "y": 82},
+                                        "mirror": {"x": false, "y": false},
+                                        "angle": 0
+                                      },
+                                      "right": {
+                                        "offset": {"x": 6, "y": 82},
+                                        "mirror": {"x": false, "y": false},
+                                        "angle": 0
+                                      },
+                                      "front": {
+                                        "offset": {"x": 0, "y": 82},
+                                        "mirror": {"x": false, "y": false},
+                                        "angle": 0
+                                      },
+                                      "left": {
+                                        "offset": {"x": 6, "y": 82},
+                                        "mirror": {"x": false, "y": false},
+                                        "angle": 0
+                                      },
+                                      "top": {
+                                        "offset": {"x": 19, "y": 82},
+                                        "mirror": {"x": false, "y": false},
+                                        "angle": 0
+                                      },
+                                      "bottom": {
+                                        "offset": {"x": 13, "y": 92},
+                                        "mirror": {"x": true, "y": true},
+                                        "angle": 270
+                                      }
+                                    },
+                                    "unwrapMode": "custom",
+                                    "visible": true,
+                                    "doubleSided": false,
+                                    "shadingMode": "fullbright"
+                                  },
+                                  "children": [
+                                    {
+                                      "id": "53",
+                                      "name": "R-Finger-Back2",
+                                      "position": {"x": 0.00001, "y": -7.00001, "z": 0},
+                                      "orientation": {"x": 0, "y": 0, "z": 0.25882, "w": 0.96593},
+                                      "shape": {
+                                        "type": "box",
+                                        "offset": {"x": -0.00013, "y": -6.00006, "z": -0.00009},
+                                        "stretch": {"x": -1, "y": 1, "z": 1},
+                                        "settings": {
+                                          "isPiece": false,
+                                          "size": {"x": 6, "y": 13, "z": 6}
+                                        },
+                                        "textureLayout": {
+                                          "back": {
+                                            "offset": {"x": 13, "y": 98},
+                                            "mirror": {"x": false, "y": false},
+                                            "angle": 0
+                                          },
+                                          "right": {
+                                            "offset": {"x": 6, "y": 98},
+                                            "mirror": {"x": false, "y": false},
+                                            "angle": 0
+                                          },
+                                          "front": {
+                                            "offset": {"x": 0, "y": 98},
+                                            "mirror": {"x": false, "y": false},
+                                            "angle": 0
+                                          },
+                                          "left": {
+                                            "offset": {"x": 6, "y": 98},
+                                            "mirror": {"x": false, "y": false},
+                                            "angle": 0
+                                          },
+                                          "top": {
+                                            "offset": {"x": 25, "y": 82},
+                                            "mirror": {"x": true, "y": true},
+                                            "angle": 270
+                                          },
+                                          "bottom": {
+                                            "offset": {"x": 70, "y": 73},
+                                            "mirror": {"x": false, "y": false},
+                                            "angle": 0
+                                          }
+                                        },
+                                        "unwrapMode": "custom",
+                                        "visible": true,
+                                        "doubleSided": false,
+                                        "shadingMode": "fullbright"
+                                      },
+                                      "children": [
+                                        {
+                                          "id": "54",
+                                          "name": "R-Fingernail-Back",
+                                          "position": {"x": 0, "y": -7, "z": 0},
+                                          "orientation": {"x": 0, "y": 0, "z": 0.25882, "w": 0.96593},
+                                          "shape": {
+                                            "type": "quad",
+                                            "offset": {"x": 0, "y": -7, "z": 0},
+                                            "stretch": {"x": -1, "y": 1, "z": 1},
+                                            "settings": {
+                                              "isPiece": false,
+                                              "size": {"x": 10, "y": 17},
+                                              "normal": "+Z"
+                                            },
+                                            "textureLayout": {
+                                              "front": {
+                                                "offset": {"x": 9, "y": 111},
+                                                "mirror": {"x": false, "y": false},
+                                                "angle": 0
+                                              }
+                                            },
+                                            "unwrapMode": "custom",
+                                            "visible": true,
+                                            "doubleSided": true,
+                                            "shadingMode": "fullbright"
+                                          },
+                                          "children": [
+                                            {
+                                              "id": "55",
+                                              "name": "R-Fingernail-Back2",
+                                              "position": {"x": -1, "y": 7, "z": 0},
+                                              "orientation": {"x": 0.0923, "y": -0.70106, "z": 0.0923, "w": 0.70106},
+                                              "shape": {
+                                                "type": "quad",
+                                                "offset": {"x": 0, "y": -7, "z": 0},
+                                                "stretch": {"x": -1, "y": 1, "z": 1},
+                                                "settings": {
+                                                  "isPiece": false,
+                                                  "size": {"x": 7, "y": 17},
+                                                  "normal": "+Z"
+                                                },
+                                                "textureLayout": {
+                                                  "front": {
+                                                    "offset": {"x": 0, "y": 111},
+                                                    "mirror": {"x": false, "y": false},
+                                                    "angle": 0
+                                                  }
+                                                },
+                                                "unwrapMode": "custom",
+                                                "visible": true,
+                                                "doubleSided": true,
+                                                "shadingMode": "fullbright"
+                                              }
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "id": "56",
+                                  "name": "R-Thumb",
+                                  "position": {"x": 0, "y": 0, "z": 6},
+                                  "orientation": {"x": -0.5, "y": 0.5, "z": 0, "w": 0.70711},
+                                  "shape": {
+                                    "type": "box",
+                                    "offset": {"x": 0.00013, "y": -5.9999, "z": 0},
+                                    "stretch": {"x": -1.25, "y": 1, "z": 1},
+                                    "settings": {
+                                      "isPiece": false,
+                                      "size": {"x": 6, "y": 16, "z": 7}
+                                    },
+                                    "textureLayout": {
+                                      "back": {
+                                        "offset": {"x": 13, "y": 82},
+                                        "mirror": {"x": false, "y": false},
+                                        "angle": 0
+                                      },
+                                      "right": {
+                                        "offset": {"x": 6, "y": 82},
+                                        "mirror": {"x": false, "y": false},
+                                        "angle": 0
+                                      },
+                                      "front": {
+                                        "offset": {"x": 0, "y": 82},
+                                        "mirror": {"x": false, "y": false},
+                                        "angle": 0
+                                      },
+                                      "left": {
+                                        "offset": {"x": 6, "y": 82},
+                                        "mirror": {"x": false, "y": false},
+                                        "angle": 0
+                                      },
+                                      "top": {
+                                        "offset": {"x": 19, "y": 82},
+                                        "mirror": {"x": false, "y": false},
+                                        "angle": 0
+                                      },
+                                      "bottom": {
+                                        "offset": {"x": 13, "y": 92},
+                                        "mirror": {"x": true, "y": true},
+                                        "angle": 270
+                                      }
+                                    },
+                                    "unwrapMode": "custom",
+                                    "visible": true,
+                                    "doubleSided": false,
+                                    "shadingMode": "fullbright"
+                                  },
+                                  "children": [
+                                    {
+                                      "id": "57",
+                                      "name": "R-Thumb2",
+                                      "position": {"x": 0.00001, "y": -7.00001, "z": 0},
+                                      "orientation": {"x": 0, "y": 0, "z": 0.25882, "w": 0.96593},
+                                      "shape": {
+                                        "type": "box",
+                                        "offset": {"x": -0.00013, "y": -6.00006, "z": -0.00009},
+                                        "stretch": {"x": -1, "y": 1, "z": 1},
+                                        "settings": {
+                                          "isPiece": false,
+                                          "size": {"x": 6, "y": 13, "z": 6}
+                                        },
+                                        "textureLayout": {
+                                          "back": {
+                                            "offset": {"x": 13, "y": 98},
+                                            "mirror": {"x": false, "y": false},
+                                            "angle": 0
+                                          },
+                                          "right": {
+                                            "offset": {"x": 6, "y": 98},
+                                            "mirror": {"x": false, "y": false},
+                                            "angle": 0
+                                          },
+                                          "front": {
+                                            "offset": {"x": 0, "y": 98},
+                                            "mirror": {"x": false, "y": false},
+                                            "angle": 0
+                                          },
+                                          "left": {
+                                            "offset": {"x": 6, "y": 98},
+                                            "mirror": {"x": false, "y": false},
+                                            "angle": 0
+                                          },
+                                          "top": {
+                                            "offset": {"x": 25, "y": 82},
+                                            "mirror": {"x": true, "y": true},
+                                            "angle": 270
+                                          },
+                                          "bottom": {
+                                            "offset": {"x": 70, "y": 73},
+                                            "mirror": {"x": false, "y": false},
+                                            "angle": 0
+                                          }
+                                        },
+                                        "unwrapMode": "custom",
+                                        "visible": true,
+                                        "doubleSided": false,
+                                        "shadingMode": "fullbright"
+                                      },
+                                      "children": [
+                                        {
+                                          "id": "58",
+                                          "name": "R-Thumbnail",
+                                          "position": {"x": 0, "y": -5, "z": 0},
+                                          "orientation": {"x": 0, "y": 0, "z": 0.25882, "w": 0.96593},
+                                          "shape": {
+                                            "type": "quad",
+                                            "offset": {"x": 0, "y": -7, "z": 0},
+                                            "stretch": {"x": -1, "y": 1, "z": 1},
+                                            "settings": {
+                                              "isPiece": false,
+                                              "size": {"x": 10, "y": 17},
+                                              "normal": "+Z"
+                                            },
+                                            "textureLayout": {
+                                              "front": {
+                                                "offset": {"x": 9, "y": 111},
+                                                "mirror": {"x": false, "y": false},
+                                                "angle": 0
+                                              }
+                                            },
+                                            "unwrapMode": "custom",
+                                            "visible": true,
+                                            "doubleSided": true,
+                                            "shadingMode": "fullbright"
+                                          },
+                                          "children": [
+                                            {
+                                              "id": "59",
+                                              "name": "R-Thumbnail2",
+                                              "position": {"x": -1, "y": 7, "z": 0},
+                                              "orientation": {"x": 0.0923, "y": -0.70106, "z": 0.0923, "w": 0.70106},
+                                              "shape": {
+                                                "type": "quad",
+                                                "offset": {"x": 0, "y": -7, "z": 0},
+                                                "stretch": {"x": -1, "y": 1, "z": 1},
+                                                "settings": {
+                                                  "isPiece": false,
+                                                  "size": {"x": 7, "y": 17},
+                                                  "normal": "+Z"
+                                                },
+                                                "textureLayout": {
+                                                  "front": {
+                                                    "offset": {"x": 0, "y": 111},
+                                                    "mirror": {"x": false, "y": false},
+                                                    "angle": 0
+                                                  }
+                                                },
+                                                "unwrapMode": "custom",
+                                                "visible": true,
+                                                "doubleSided": true,
+                                                "shadingMode": "fullbright"
+                                              }
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "id": "60",
+                                  "name": "R-Hand-Chain",
+                                  "position": {"x": -6, "y": -8.5, "z": 0},
+                                  "orientation": {"x": 0.43046, "y": -0.56099, "z": 0.43046, "w": 0.56099},
+                                  "shape": {
+                                    "type": "quad",
+                                    "offset": {"x": 0, "y": -8, "z": 0},
+                                    "stretch": {"x": 1, "y": 1, "z": 1},
+                                    "settings": {
+                                      "isPiece": false,
+                                      "size": {"x": 7, "y": 16},
+                                      "normal": "+Z"
+                                    },
+                                    "textureLayout": {
+                                      "front": {
+                                        "offset": {"x": 88, "y": 4},
+                                        "mirror": {"x": false, "y": false},
+                                        "angle": 0
+                                      }
+                                    },
+                                    "unwrapMode": "custom",
+                                    "visible": true,
+                                    "doubleSided": true,
+                                    "shadingMode": "fullbright"
+                                  },
+                                  "children": [
+                                    {
+                                      "id": "61",
+                                      "name": "R-Hand-Chain2",
+                                      "position": {"x": 0, "y": -8, "z": 0},
+                                      "orientation": {"x": 0, "y": 0, "z": 0, "w": 1},
+                                      "shape": {
+                                        "type": "quad",
+                                        "offset": {"x": 0, "y": -8, "z": 0},
+                                        "stretch": {"x": 1, "y": 1, "z": 1},
+                                        "settings": {
+                                          "isPiece": false,
+                                          "size": {"x": 7, "y": 16},
+                                          "normal": "+Z"
+                                        },
+                                        "textureLayout": {
+                                          "front": {
+                                            "offset": {"x": 88, "y": 20},
+                                            "mirror": {"x": false, "y": false},
+                                            "angle": 0
+                                          }
+                                        },
+                                        "unwrapMode": "custom",
+                                        "visible": true,
+                                        "doubleSided": true,
+                                        "shadingMode": "fullbright"
+                                      },
+                                      "children": [
+                                        {
+                                          "id": "62",
+                                          "name": "R-Hand-Chain3",
+                                          "position": {"x": 0, "y": -8, "z": 0},
+                                          "orientation": {"x": 0, "y": 0, "z": 0, "w": 1},
+                                          "shape": {
+                                            "type": "quad",
+                                            "offset": {"x": 0, "y": -8, "z": 0},
+                                            "stretch": {"x": 1, "y": 1, "z": 1},
+                                            "settings": {
+                                              "isPiece": false,
+                                              "size": {"x": 7, "y": 16},
+                                              "normal": "+Z"
+                                            },
+                                            "textureLayout": {
+                                              "front": {
+                                                "offset": {"x": 88, "y": 20},
+                                                "mirror": {"x": false, "y": false},
+                                                "angle": 0
+                                              }
+                                            },
+                                            "unwrapMode": "custom",
+                                            "visible": true,
+                                            "doubleSided": true,
+                                            "shadingMode": "fullbright"
+                                          }
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "id": "63",
+                                  "name": "R-Hand-Chain-L",
+                                  "position": {"x": -6, "y": -1, "z": -8.5},
+                                  "orientation": {"x": 0.70106, "y": -0.70106, "z": -0.0923, "w": 0.0923},
+                                  "shape": {
+                                    "type": "quad",
+                                    "offset": {"x": 0, "y": -7, "z": 0},
+                                    "stretch": {"x": 1, "y": 1, "z": 1},
+                                    "settings": {
+                                      "isPiece": false,
+                                      "size": {"x": 7, "y": 14},
+                                      "normal": "+Z"
+                                    },
+                                    "textureLayout": {
+                                      "front": {
+                                        "offset": {"x": 88, "y": 8},
+                                        "mirror": {"x": false, "y": false},
+                                        "angle": 0
+                                      }
+                                    },
+                                    "unwrapMode": "custom",
+                                    "visible": true,
+                                    "doubleSided": true,
+                                    "shadingMode": "fullbright"
+                                  },
+                                  "children": [
+                                    {
+                                      "id": "64",
+                                      "name": "R-Hand-Chain-L2",
+                                      "position": {"x": 0, "y": -7, "z": 0},
+                                      "orientation": {"x": 0, "y": 0, "z": 0, "w": 1},
+                                      "shape": {
+                                        "type": "quad",
+                                        "offset": {"x": 0, "y": -7, "z": 0},
+                                        "stretch": {"x": 1, "y": 1, "z": 1},
+                                        "settings": {
+                                          "isPiece": false,
+                                          "size": {"x": 7, "y": 14},
+                                          "normal": "+Z"
+                                        },
+                                        "textureLayout": {
+                                          "front": {
+                                            "offset": {"x": 88, "y": 22},
+                                            "mirror": {"x": false, "y": false},
+                                            "angle": 0
+                                          }
+                                        },
+                                        "unwrapMode": "custom",
+                                        "visible": true,
+                                        "doubleSided": true,
+                                        "shadingMode": "fullbright"
+                                      },
+                                      "children": [
+                                        {
+                                          "id": "65",
+                                          "name": "R-Hand-Chain-L3",
+                                          "position": {"x": 0, "y": -7, "z": 0},
+                                          "orientation": {"x": 0, "y": 0, "z": 0, "w": 1},
+                                          "shape": {
+                                            "type": "quad",
+                                            "offset": {"x": 0, "y": -7, "z": 0},
+                                            "stretch": {"x": 1, "y": 1, "z": 1},
+                                            "settings": {
+                                              "isPiece": false,
+                                              "size": {"x": 7, "y": 14},
+                                              "normal": "+Z"
+                                            },
+                                            "textureLayout": {
+                                              "front": {
+                                                "offset": {"x": 88, "y": 36},
+                                                "mirror": {"x": false, "y": false},
+                                                "angle": 0
+                                              }
+                                            },
+                                            "unwrapMode": "custom",
+                                            "visible": true,
+                                            "doubleSided": true,
+                                            "shadingMode": "fullbright"
+                                          }
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "id": "66",
+                                  "name": "R-Hand-Chain-R",
+                                  "position": {"x": -6, "y": -5, "z": 8.5},
+                                  "orientation": {"x": -0.11538, "y": -0.04199, "z": 0.41252, "w": 0.90263},
+                                  "shape": {
+                                    "type": "quad",
+                                    "offset": {"x": 0, "y": -6, "z": 0},
+                                    "stretch": {"x": -1, "y": 1, "z": -1},
+                                    "settings": {
+                                      "isPiece": false,
+                                      "size": {"x": 7, "y": 12},
+                                      "normal": "+Z"
+                                    },
+                                    "textureLayout": {
+                                      "front": {
+                                        "offset": {"x": 88, "y": 8},
+                                        "mirror": {"x": false, "y": false},
+                                        "angle": 0
+                                      }
+                                    },
+                                    "unwrapMode": "custom",
+                                    "visible": true,
+                                    "doubleSided": true,
+                                    "shadingMode": "fullbright"
+                                  },
+                                  "children": [
+                                    {
+                                      "id": "67",
+                                      "name": "R-Hand-Chain-R2",
+                                      "position": {"x": 0, "y": -6, "z": 0},
+                                      "orientation": {"x": 0, "y": 0, "z": 0, "w": 1},
+                                      "shape": {
+                                        "type": "quad",
+                                        "offset": {"x": 0, "y": -6, "z": 0},
+                                        "stretch": {"x": -1, "y": 1, "z": -1},
+                                        "settings": {
+                                          "isPiece": false,
+                                          "size": {"x": 7, "y": 12},
+                                          "normal": "+Z"
+                                        },
+                                        "textureLayout": {
+                                          "front": {
+                                            "offset": {"x": 88, "y": 24},
+                                            "mirror": {"x": false, "y": false},
+                                            "angle": 0
+                                          }
+                                        },
+                                        "unwrapMode": "custom",
+                                        "visible": true,
+                                        "doubleSided": true,
+                                        "shadingMode": "fullbright"
+                                      },
+                                      "children": [
+                                        {
+                                          "id": "68",
+                                          "name": "R-Hand-Chain-R3",
+                                          "position": {"x": 0, "y": -6, "z": 0},
+                                          "orientation": {"x": 0, "y": 0, "z": 0, "w": 1},
+                                          "shape": {
+                                            "type": "quad",
+                                            "offset": {"x": 0, "y": -6, "z": 0},
+                                            "stretch": {"x": -1, "y": 1, "z": -1},
+                                            "settings": {
+                                              "isPiece": false,
+                                              "size": {"x": 7, "y": 12},
+                                              "normal": "+Z"
+                                            },
+                                            "textureLayout": {
+                                              "front": {
+                                                "offset": {"x": 88, "y": 24},
+                                                "mirror": {"x": false, "y": false},
+                                                "angle": 0
+                                              }
+                                            },
+                                            "unwrapMode": "custom",
+                                            "visible": true,
+                                            "doubleSided": true,
+                                            "shadingMode": "fullbright"
+                                          }
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "format": "character",
+  "lod": "auto"
+}

@@ -1,0 +1,587 @@
+{
+  "nodes": [
+    {
+      "id": "1",
+      "name": "R-Attachment",
+      "position": {"x": 0, "y": 20, "z": -10},
+      "orientation": {"x": 0, "y": 0, "z": 0, "w": 1},
+      "shape": {
+        "type": "none",
+        "offset": {"x": 0, "y": 0, "z": 0},
+        "stretch": {"x": 1, "y": 1, "z": 1},
+        "settings": {
+          "isPiece": true
+        },
+        "textureLayout": {},
+        "unwrapMode": "custom",
+        "visible": true,
+        "doubleSided": false,
+        "shadingMode": "flat"
+      },
+      "children": [
+        {
+          "id": "2",
+          "name": "Origin_Projectile",
+          "position": {"x": 0, "y": 56, "z": 0},
+          "orientation": {"x": 0, "y": 0, "z": 0, "w": 1},
+          "shape": {
+            "type": "none",
+            "offset": {"x": 0, "y": 0, "z": 0},
+            "stretch": {"x": 1, "y": 1, "z": 1},
+            "settings": {
+              "isPiece": true
+            },
+            "textureLayout": {},
+            "unwrapMode": "custom",
+            "visible": true,
+            "doubleSided": false,
+            "shadingMode": "flat"
+          },
+          "children": [
+            {
+              "id": "3",
+              "name": "Origin_Item",
+              "position": {"x": 0, "y": -36, "z": 10},
+              "orientation": {"x": 0, "y": 0, "z": 0, "w": 1},
+              "shape": {
+                "type": "none",
+                "offset": {"x": 0, "y": 0, "z": 0},
+                "stretch": {"x": 1, "y": 1, "z": 1},
+                "settings": {
+                  "isPiece": false
+                },
+                "textureLayout": {},
+                "unwrapMode": "custom",
+                "visible": true,
+                "doubleSided": false,
+                "shadingMode": "flat"
+              },
+              "children": [
+                {
+                  "id": "4",
+                  "name": "Handle",
+                  "position": {"x": 0, "y": -20, "z": -10},
+                  "orientation": {"x": -0.5, "y": -0.5, "z": 0.5, "w": 0.5},
+                  "shape": {
+                    "type": "box",
+                    "offset": {"x": 12, "y": 0, "z": 0},
+                    "stretch": {"x": 1, "y": 1.26444, "z": 1.2329},
+                    "settings": {
+                      "isPiece": false,
+                      "size": {"x": 64, "y": 6, "z": 6}
+                    },
+                    "textureLayout": {
+                      "back": {
+                        "offset": {"x": 64, "y": 6},
+                        "mirror": {"x": true, "y": false},
+                        "angle": 0
+                      },
+                      "right": {
+                        "offset": {"x": 39, "y": 12},
+                        "mirror": {"x": false, "y": false},
+                        "angle": 0
+                      },
+                      "front": {
+                        "offset": {"x": 0, "y": 6},
+                        "mirror": {"x": false, "y": false},
+                        "angle": 0
+                      },
+                      "left": {
+                        "offset": {"x": 39, "y": 12},
+                        "mirror": {"x": false, "y": false},
+                        "angle": 0
+                      },
+                      "top": {
+                        "offset": {"x": 0, "y": 0},
+                        "mirror": {"x": false, "y": false},
+                        "angle": 0
+                      },
+                      "bottom": {
+                        "offset": {"x": 0, "y": 0},
+                        "mirror": {"x": false, "y": false},
+                        "angle": 0
+                      }
+                    },
+                    "unwrapMode": "custom",
+                    "visible": true,
+                    "doubleSided": false,
+                    "shadingMode": "flat"
+                  },
+                  "children": [
+                    {
+                      "id": "5",
+                      "name": "Chain",
+                      "position": {"x": 32, "y": 0, "z": 0},
+                      "orientation": {"x": 0, "y": 0, "z": -0.5, "w": 0.86603},
+                      "shape": {
+                        "type": "quad",
+                        "offset": {"x": 6, "y": 0, "z": 0},
+                        "stretch": {"x": 1, "y": 1, "z": 1},
+                        "settings": {
+                          "isPiece": false,
+                          "size": {"x": 12, "y": 9},
+                          "normal": "+Z"
+                        },
+                        "textureLayout": {
+                          "front": {
+                            "offset": {"x": 16, "y": 31},
+                            "mirror": {"x": false, "y": false},
+                            "angle": 0
+                          }
+                        },
+                        "unwrapMode": "custom",
+                        "visible": true,
+                        "doubleSided": true,
+                        "shadingMode": "flat"
+                      },
+                      "children": [
+                        {
+                          "id": "6",
+                          "name": "Chain-Side",
+                          "position": {"x": -6, "y": 0, "z": 0},
+                          "orientation": {"x": -0.70711, "y": 0, "z": 0, "w": 0.70711},
+                          "shape": {
+                            "type": "quad",
+                            "offset": {"x": 6, "y": 0, "z": 0},
+                            "stretch": {"x": 1, "y": 1, "z": 1},
+                            "settings": {
+                              "isPiece": false,
+                              "size": {"x": 12, "y": 9},
+                              "normal": "+Z"
+                            },
+                            "textureLayout": {
+                              "front": {
+                                "offset": {"x": 16, "y": 31},
+                                "mirror": {"x": false, "y": false},
+                                "angle": 0
+                              }
+                            },
+                            "unwrapMode": "custom",
+                            "visible": true,
+                            "doubleSided": true,
+                            "shadingMode": "flat"
+                          }
+                        },
+                        {
+                          "id": "7",
+                          "name": "Chain2",
+                          "position": {"x": 6, "y": 0, "z": 0},
+                          "orientation": {"x": 0.00756, "y": 0.00436, "z": -0.49998, "w": 0.86599},
+                          "shape": {
+                            "type": "quad",
+                            "offset": {"x": 6, "y": 0, "z": 0},
+                            "stretch": {"x": 1, "y": 1, "z": 1},
+                            "settings": {
+                              "isPiece": false,
+                              "size": {"x": 12, "y": 9},
+                              "normal": "+Z"
+                            },
+                            "textureLayout": {
+                              "front": {
+                                "offset": {"x": 28, "y": 31},
+                                "mirror": {"x": false, "y": false},
+                                "angle": 0
+                              }
+                            },
+                            "unwrapMode": "custom",
+                            "visible": true,
+                            "doubleSided": true,
+                            "shadingMode": "flat"
+                          },
+                          "children": [
+                            {
+                              "id": "8",
+                              "name": "Chain2-Side",
+                              "position": {"x": -6, "y": 0, "z": 0},
+                              "orientation": {"x": -0.70711, "y": 0, "z": 0, "w": 0.70711},
+                              "shape": {
+                                "type": "quad",
+                                "offset": {"x": 6, "y": 0, "z": 0},
+                                "stretch": {"x": 1, "y": 1, "z": 1},
+                                "settings": {
+                                  "isPiece": false,
+                                  "size": {"x": 12, "y": 9},
+                                  "normal": "+Z"
+                                },
+                                "textureLayout": {
+                                  "front": {
+                                    "offset": {"x": 28, "y": 31},
+                                    "mirror": {"x": false, "y": false},
+                                    "angle": 0
+                                  }
+                                },
+                                "unwrapMode": "custom",
+                                "visible": true,
+                                "doubleSided": true,
+                                "shadingMode": "flat"
+                              }
+                            },
+                            {
+                              "id": "9",
+                              "name": "Chain3",
+                              "position": {"x": 6, "y": 0, "z": 0},
+                              "orientation": {"x": -0.00806, "y": -0.00334, "z": -0.38267, "w": 0.92384},
+                              "shape": {
+                                "type": "quad",
+                                "offset": {"x": 6, "y": 0, "z": 0},
+                                "stretch": {"x": 1, "y": 1, "z": 1},
+                                "settings": {
+                                  "isPiece": false,
+                                  "size": {"x": 12, "y": 9},
+                                  "normal": "+Z"
+                                },
+                                "textureLayout": {
+                                  "front": {
+                                    "offset": {"x": 40, "y": 31},
+                                    "mirror": {"x": false, "y": false},
+                                    "angle": 0
+                                  }
+                                },
+                                "unwrapMode": "custom",
+                                "visible": true,
+                                "doubleSided": true,
+                                "shadingMode": "flat"
+                              },
+                              "children": [
+                                {
+                                  "id": "10",
+                                  "name": "Chain3-Side",
+                                  "position": {"x": -6, "y": 0, "z": 0},
+                                  "orientation": {"x": -0.70711, "y": 0, "z": 0, "w": 0.70711},
+                                  "shape": {
+                                    "type": "quad",
+                                    "offset": {"x": 6, "y": 0, "z": 0},
+                                    "stretch": {"x": 1, "y": 1, "z": 1},
+                                    "settings": {
+                                      "isPiece": false,
+                                      "size": {"x": 12, "y": 9},
+                                      "normal": "+Z"
+                                    },
+                                    "textureLayout": {
+                                      "front": {
+                                        "offset": {"x": 40, "y": 31},
+                                        "mirror": {"x": false, "y": false},
+                                        "angle": 0
+                                      }
+                                    },
+                                    "unwrapMode": "custom",
+                                    "visible": true,
+                                    "doubleSided": true,
+                                    "shadingMode": "flat"
+                                  }
+                                },
+                                {
+                                  "id": "11",
+                                  "name": "Chain4",
+                                  "position": {"x": 6, "y": 4, "z": 0},
+                                  "orientation": {"x": 0.00865, "y": 0.00114, "z": -0.13052, "w": 0.99141},
+                                  "shape": {
+                                    "type": "none",
+                                    "offset": {"x": 15, "y": 0, "z": 0},
+                                    "stretch": {"x": 1, "y": 1, "z": 1},
+                                    "settings": {
+                                      "isPiece": false
+                                    },
+                                    "textureLayout": {},
+                                    "unwrapMode": "custom",
+                                    "visible": true,
+                                    "doubleSided": false,
+                                    "shadingMode": "flat"
+                                  },
+                                  "children": [
+                                    {
+                                      "id": "12",
+                                      "name": "Spike",
+                                      "position": {"x": 0, "y": -4, "z": 0},
+                                      "orientation": {"x": 0.04362, "y": 0, "z": 0, "w": 0.99905},
+                                      "shape": {
+                                        "type": "quad",
+                                        "offset": {"x": 0, "y": 0, "z": 0},
+                                        "stretch": {"x": 1.325, "y": 1.325, "z": 1.325},
+                                        "settings": {
+                                          "isPiece": false,
+                                          "size": {"x": 15, "y": 29},
+                                          "normal": "+Z"
+                                        },
+                                        "textureLayout": {
+                                          "front": {
+                                            "offset": {"x": 0, "y": 12},
+                                            "mirror": {"x": false, "y": false},
+                                            "angle": 0
+                                          }
+                                        },
+                                        "unwrapMode": "custom",
+                                        "visible": true,
+                                        "doubleSided": true,
+                                        "shadingMode": "fullbright"
+                                      }
+                                    },
+                                    {
+                                      "id": "13",
+                                      "name": "Spike",
+                                      "position": {"x": 0, "y": -4, "z": 0},
+                                      "orientation": {"x": -0.70643, "y": 0.03084, "z": 0.03084, "w": 0.70643},
+                                      "shape": {
+                                        "type": "none",
+                                        "offset": {"x": 0, "y": 0, "z": 0},
+                                        "stretch": {"x": 1, "y": 1, "z": 1},
+                                        "settings": {
+                                          "isPiece": false
+                                        },
+                                        "textureLayout": {},
+                                        "unwrapMode": "custom",
+                                        "visible": true,
+                                        "doubleSided": false,
+                                        "shadingMode": "flat"
+                                      }
+                                    },
+                                    {
+                                      "id": "14",
+                                      "name": "Spike",
+                                      "position": {"x": 0, "y": -4, "z": 0},
+                                      "orientation": {"x": -0.36846, "y": -0.10336, "z": -0.3058, "w": 0.8718},
+                                      "shape": {
+                                        "type": "quad",
+                                        "offset": {"x": 0, "y": 0, "z": 0},
+                                        "stretch": {"x": 1.325, "y": 1.325, "z": 1.325},
+                                        "settings": {
+                                          "isPiece": false,
+                                          "size": {"x": 15, "y": 29},
+                                          "normal": "+Z"
+                                        },
+                                        "textureLayout": {
+                                          "front": {
+                                            "offset": {"x": 0, "y": 12},
+                                            "mirror": {"x": false, "y": false},
+                                            "angle": 0
+                                          }
+                                        },
+                                        "unwrapMode": "custom",
+                                        "visible": true,
+                                        "doubleSided": true,
+                                        "shadingMode": "fullbright"
+                                      }
+                                    },
+                                    {
+                                      "id": "15",
+                                      "name": "Spike",
+                                      "position": {"x": 0, "y": -4, "z": 0},
+                                      "orientation": {"x": -0.47771, "y": 0.52133, "z": 0.47771, "w": 0.52133},
+                                      "shape": {
+                                        "type": "quad",
+                                        "offset": {"x": 0, "y": 0, "z": 0},
+                                        "stretch": {"x": 1.325, "y": 1.325, "z": 1.325},
+                                        "settings": {
+                                          "isPiece": false,
+                                          "size": {"x": 15, "y": 29},
+                                          "normal": "+Z"
+                                        },
+                                        "textureLayout": {
+                                          "front": {
+                                            "offset": {"x": 0, "y": 12},
+                                            "mirror": {"x": false, "y": false},
+                                            "angle": 0
+                                          }
+                                        },
+                                        "unwrapMode": "custom",
+                                        "visible": true,
+                                        "doubleSided": true,
+                                        "shadingMode": "fullbright"
+                                      }
+                                    },
+                                    {
+                                      "id": "16",
+                                      "name": "Spike",
+                                      "position": {"x": 0, "y": -4, "z": 0},
+                                      "orientation": {"x": -0.36748, "y": 0.13157, "z": 0.28276, "w": 0.87618},
+                                      "shape": {
+                                        "type": "none",
+                                        "offset": {"x": 0, "y": 0, "z": 0},
+                                        "stretch": {"x": 1, "y": 1, "z": 1},
+                                        "settings": {
+                                          "isPiece": false
+                                        },
+                                        "textureLayout": {},
+                                        "unwrapMode": "custom",
+                                        "visible": true,
+                                        "doubleSided": false,
+                                        "shadingMode": "flat"
+                                      }
+                                    },
+                                    {
+                                      "id": "17",
+                                      "name": "Spike",
+                                      "position": {"x": 0, "y": -4, "z": 0},
+                                      "orientation": {"x": 0.36979, "y": 0.14744, "z": -0.28745, "w": 0.87114},
+                                      "shape": {
+                                        "type": "none",
+                                        "offset": {"x": 0, "y": 0, "z": 0},
+                                        "stretch": {"x": 1, "y": 1, "z": 1},
+                                        "settings": {
+                                          "isPiece": false
+                                        },
+                                        "textureLayout": {},
+                                        "unwrapMode": "custom",
+                                        "visible": true,
+                                        "doubleSided": false,
+                                        "shadingMode": "flat"
+                                      },
+                                      "children": [
+                                        {
+                                          "id": "18",
+                                          "name": "Spike--C1",
+                                          "position": {"x": 0, "y": 0, "z": 0},
+                                          "orientation": {"x": 0, "y": 0.04362, "z": 0, "w": 0.99905},
+                                          "shape": {
+                                            "type": "quad",
+                                            "offset": {"x": 0, "y": 0, "z": 0},
+                                            "stretch": {"x": 1.325, "y": 1.325, "z": 1.325},
+                                            "settings": {
+                                              "isPiece": false,
+                                              "size": {"x": 15, "y": 29},
+                                              "normal": "+Z",
+                                              "isStaticBox": true
+                                            },
+                                            "textureLayout": {
+                                              "front": {
+                                                "offset": {"x": 0, "y": 12},
+                                                "mirror": {"x": false, "y": false},
+                                                "angle": 0
+                                              }
+                                            },
+                                            "unwrapMode": "custom",
+                                            "visible": true,
+                                            "doubleSided": true,
+                                            "shadingMode": "fullbright"
+                                          }
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "id": "19",
+                                      "name": "Spike",
+                                      "position": {"x": 0, "y": -4, "z": 0},
+                                      "orientation": {"x": 0.36748, "y": -0.13157, "z": 0.28276, "w": 0.87618},
+                                      "shape": {
+                                        "type": "quad",
+                                        "offset": {"x": 0, "y": 0, "z": 0},
+                                        "stretch": {"x": 1.325, "y": 1.325, "z": 1.325},
+                                        "settings": {
+                                          "isPiece": false,
+                                          "size": {"x": 15, "y": 29},
+                                          "normal": "+Z"
+                                        },
+                                        "textureLayout": {
+                                          "front": {
+                                            "offset": {"x": 0, "y": 12},
+                                            "mirror": {"x": false, "y": false},
+                                            "angle": 0
+                                          }
+                                        },
+                                        "unwrapMode": "custom",
+                                        "visible": true,
+                                        "doubleSided": true,
+                                        "shadingMode": "fullbright"
+                                      }
+                                    },
+                                    {
+                                      "id": "20",
+                                      "name": "Spike",
+                                      "position": {"x": 0, "y": -4, "z": 0},
+                                      "orientation": {"x": 0.70614, "y": -0.70614, "z": -0.03701, "w": -0.03701},
+                                      "shape": {
+                                        "type": "quad",
+                                        "offset": {"x": 0, "y": 0, "z": 0},
+                                        "stretch": {"x": 1.325, "y": 1.325, "z": 1.325},
+                                        "settings": {
+                                          "isPiece": false,
+                                          "size": {"x": 15, "y": 29},
+                                          "normal": "+Z"
+                                        },
+                                        "textureLayout": {
+                                          "front": {
+                                            "offset": {"x": 0, "y": 12},
+                                            "mirror": {"x": false, "y": false},
+                                            "angle": 0
+                                          }
+                                        },
+                                        "unwrapMode": "custom",
+                                        "visible": true,
+                                        "doubleSided": true,
+                                        "shadingMode": "fullbright"
+                                      }
+                                    },
+                                    {
+                                      "id": "21",
+                                      "name": "Spike",
+                                      "position": {"x": 0, "y": -4, "z": 0},
+                                      "orientation": {"x": -0.03084, "y": 0.70643, "z": 0.03084, "w": 0.70643},
+                                      "shape": {
+                                        "type": "quad",
+                                        "offset": {"x": 0, "y": 0, "z": 0},
+                                        "stretch": {"x": 1.325, "y": 1.325, "z": 1.325},
+                                        "settings": {
+                                          "isPiece": false,
+                                          "size": {"x": 15, "y": 29},
+                                          "normal": "+Z"
+                                        },
+                                        "textureLayout": {
+                                          "front": {
+                                            "offset": {"x": 0, "y": 12},
+                                            "mirror": {"x": false, "y": false},
+                                            "angle": 0
+                                          }
+                                        },
+                                        "unwrapMode": "custom",
+                                        "visible": true,
+                                        "doubleSided": true,
+                                        "shadingMode": "fullbright"
+                                      }
+                                    },
+                                    {
+                                      "id": "22",
+                                      "name": "Spike",
+                                      "position": {"x": 0, "y": -4, "z": 0},
+                                      "orientation": {"x": -0.51715, "y": -0.48225, "z": 0.51715, "w": 0.48225},
+                                      "shape": {
+                                        "type": "quad",
+                                        "offset": {"x": 0, "y": 0, "z": 0},
+                                        "stretch": {"x": 1.325, "y": 1.325, "z": 1.325},
+                                        "settings": {
+                                          "isPiece": false,
+                                          "size": {"x": 15, "y": 29},
+                                          "normal": "+Z"
+                                        },
+                                        "textureLayout": {
+                                          "front": {
+                                            "offset": {"x": 0, "y": 12},
+                                            "mirror": {"x": false, "y": false},
+                                            "angle": 0
+                                          }
+                                        },
+                                        "unwrapMode": "custom",
+                                        "visible": true,
+                                        "doubleSided": true,
+                                        "shadingMode": "fullbright"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "format": "character",
+  "lod": "auto"
+}

@@ -47,19 +47,7 @@
   "SunlightColors": [
     {
       "Hour": 5,
-      "Color": "#ac7ebc"
-    },
-    {
-      "Hour": 19,
-      "Color": "#ac7ebc"
-    },
-    {
-      "Hour": 7,
-      "Color": "#ac7ebc"
-    },
-    {
-      "Hour": 17,
-      "Color": "#ac7ebc"
+      "Color": "#de7dff"
     }
   ],
   "SunScales": [
@@ -286,9 +274,10 @@
     }
   ],
   "Particle": {
-    "SystemId": "Fog",
-    "Color": "#58385c",
-    "Scale": 2
+    "SystemId": "Dust_Sparkles_Light",
+    "Color": "#9843a2",
+    "Scale": 2,
+    "OvergroundOnly": true
   },
   "FogHeightFalloffs": [
     {
@@ -398,11 +387,11 @@
   "FogDensities": [
     {
       "Hour": 4,
-      "Value": 333
+      "Value": 50
     },
     {
       "Hour": 3,
-      "Value": 333
+      "Value": 50
     }
   ],
   "FogOptions": {
@@ -625,6 +614,12 @@
           "Value": 3
         }
       ]
+    }
+  ],
+  "SunlightDampingMultipliers": [
+    {
+      "Hour": 12,
+      "Value": 0.7
     }
   ]
 }

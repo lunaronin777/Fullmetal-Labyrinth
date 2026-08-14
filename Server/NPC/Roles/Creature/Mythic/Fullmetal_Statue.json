@@ -7,14 +7,14 @@
     "AttackSequence": "Component_Instruction_Attack_Sequence_Cactee",
     "MaxHealth": 200,
     "IsMemory": true,
-    "MemoriesCategory": "Critter",
+    "MemoriesCategory": "Fullmetal",
     "NameTranslationKey": {
       "Compute": "NameTranslationKey"
     }
   },
   "Parameters": {
     "NameTranslationKey": {
-      "Value": "server.npcRoles.Cactee.name",
+      "Value": "server.npcRoles.Fullmetal_Statue.name",
       "Description": "Translation key for NPC name display"
     }
   }

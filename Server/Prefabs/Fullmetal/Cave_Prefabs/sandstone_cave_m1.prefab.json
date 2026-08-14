@@ -1,0 +1,1145 @@
+{
+  "version": 8,
+  "blockIdVersion": 11,
+  "anchorX": 0,
+  "anchorY": 0,
+  "anchorZ": 0,
+  "blocks": [
+    {
+      "x": -3,
+      "y": 0,
+      "z": -2,
+      "name": "Rock_Sandstone"
+    },
+    {
+      "x": -3,
+      "y": 1,
+      "z": -2,
+      "name": "Rock_Sandstone"
+    },
+    {
+      "x": -3,
+      "y": 2,
+      "z": -2,
+      "name": "Rock_Sandstone"
+    },
+    {
+      "x": -3,
+      "y": 3,
+      "z": -2,
+      "name": "Rock_Sandstone_Stalactite_Large"
+    },
+    {
+      "x": -3,
+      "y": 4,
+      "z": -2,
+      "name": "Rock_Sandstone_Stalactite_Large",
+      "filler": 1024
+    },
+    {
+      "x": -3,
+      "y": 1,
+      "z": -1,
+      "name": "Ore_Gold_Sandstone"
+    },
+    {
+      "x": -3,
+      "y": 2,
+      "z": -1,
+      "name": "Rock_Sandstone"
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": -2,
+      "name": "Rock_Sandstone"
+    },
+    {
+      "x": -2,
+      "y": 1,
+      "z": -2,
+      "name": "Rock_Sandstone"
+    },
+    {
+      "x": -2,
+      "y": 2,
+      "z": -2,
+      "name": "Rock_Sandstone"
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": -1,
+      "name": "Rock_Sandstone"
+    },
+    {
+      "x": -2,
+      "y": 1,
+      "z": -1,
+      "name": "Rock_Sandstone"
+    },
+    {
+      "x": -2,
+      "y": 2,
+      "z": -1,
+      "name": "Rock_Sandstone"
+    },
+    {
+      "x": -2,
+      "y": 3,
+      "z": -1,
+      "name": "Rock_Sandstone"
+    },
+    {
+      "x": -2,
+      "y": 4,
+      "z": -1,
+      "name": "Rubble_Sandstone_Medium"
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": 0,
+      "name": "Rock_Sandstone"
+    },
+    {
+      "x": -2,
+      "y": 1,
+      "z": 0,
+      "name": "Ore_Gold_Sandstone"
+    },
+    {
+      "x": -2,
+      "y": 2,
+      "z": 0,
+      "name": "Rock_Sandstone"
+    },
+    {
+      "x": -2,
+      "y": 3,
+      "z": 0,
+      "name": "Rock_Sandstone"
+    },
+    {
+      "x": -2,
+      "y": 4,
+      "z": 0,
+      "name": "Plant_Crop_Mushroom_Glowing_Green"
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": -2,
+      "name": "Rock_Sandstone"
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": -2,
+      "name": "Rock_Sandstone_Cobble"
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -1,
+      "name": "Rock_Sandstone"
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": -1,
+      "name": "Rock_Sandstone"
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": -1,
+      "name": "Rock_Sandstone"
+    },
+    {
+      "x": -1,
+      "y": 3,
+      "z": -1,
+      "name": "Rock_Sandstone"
+    },
+    {
+      "x": -1,
+      "y": 4,
+      "z": -1,
+      "name": "Plant_Crop_Mushroom_Glowing_Green"
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 0,
+      "name": "Rock_Sandstone"
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": 0,
+      "name": "Rock_Sandstone"
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": 0,
+      "name": "Rock_Sandstone"
+    },
+    {
+      "x": -1,
+      "y": 3,
+      "z": 0,
+      "name": "Rock_Sandstone"
+    },
+    {
+      "x": -1,
+      "y": 4,
+      "z": 0,
+      "name": "Rock_Sandstone_Stalactite_Large"
+    },
+    {
+      "x": -1,
+      "y": 5,
+      "z": 0,
+      "name": "Rock_Sandstone_Stalactite_Large",
+      "filler": 1024
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": 1,
+      "name": "Ore_Gold_Sandstone"
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": 1,
+      "name": "Ore_Gold_Sandstone"
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": -1,
+      "name": "Rock_Sandstone"
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": -1,
+      "name": "Rock_Sandstone"
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": -1,
+      "name": "Rock_Sandstone"
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "z": -1,
+      "name": "Rock_Sandstone_Stalactite_Small"
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 0,
+      "name": "Rock_Sandstone"
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": 0,
+      "name": "Rock_Sandstone"
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": 0,
+      "name": "Rock_Sandstone"
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "z": 0,
+      "name": "Rock_Sandstone_Cobble"
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 1,
+      "name": "Ore_Gold_Sandstone"
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": 1,
+      "name": "Ore_Gold_Sandstone"
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": 1,
+      "name": "Rock_Sandstone"
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "z": 1,
+      "name": "Rock_Sandstone"
+    },
+    {
+      "x": 0,
+      "y": 4,
+      "z": 1,
+      "name": "Rubble_Sandstone_Medium"
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": -1,
+      "name": "Rock_Sandstone"
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": -1,
+      "name": "Rock_Sandstone_Cobble"
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 0,
+      "name": "Rock_Sandstone"
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": 0,
+      "name": "Rock_Sandstone"
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": 0,
+      "name": "Rock_Sandstone_Cobble"
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 1,
+      "name": "Rock_Sandstone"
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": 1,
+      "name": "Rock_Sandstone"
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": 1,
+      "name": "Rock_Sandstone"
+    },
+    {
+      "x": 1,
+      "y": 3,
+      "z": 1,
+      "name": "Rock_Sandstone"
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": 2,
+      "name": "Rock_Sandstone"
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": 2,
+      "name": "Rock_Sandstone"
+    },
+    {
+      "x": 1,
+      "y": 3,
+      "z": 2,
+      "name": "Rock_Sandstone"
+    },
+    {
+      "x": 1,
+      "y": 4,
+      "z": 2,
+      "name": "Rock_Sandstone_Stalactite_Large"
+    },
+    {
+      "x": 1,
+      "y": 5,
+      "z": 2,
+      "name": "Rock_Sandstone_Stalactite_Large",
+      "filler": 1024
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 1,
+      "name": "Rock_Sandstone"
+    },
+    {
+      "x": 2,
+      "y": 1,
+      "z": 1,
+      "name": "Ore_Thorium_Sandstone"
+    },
+    {
+      "x": 2,
+      "y": 2,
+      "z": 1,
+      "name": "Ore_Thorium_Sandstone"
+    },
+    {
+      "x": 2,
+      "y": 3,
+      "z": 1,
+      "name": "Rubble_Sandstone_Medium"
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 2,
+      "name": "Rock_Sandstone"
+    },
+    {
+      "x": 2,
+      "y": 1,
+      "z": 2,
+      "name": "Rock_Sandstone"
+    },
+    {
+      "x": 2,
+      "y": 2,
+      "z": 2,
+      "name": "Rock_Sandstone"
+    },
+    {
+      "x": 2,
+      "y": 3,
+      "z": 2,
+      "name": "Rock_Sandstone"
+    },
+    {
+      "x": 2,
+      "y": 4,
+      "z": 2,
+      "name": "Plant_Crop_Mushroom_Glowing_Green"
+    },
+    {
+      "x": 2,
+      "y": 1,
+      "z": 3,
+      "name": "Rock_Sandstone"
+    },
+    {
+      "x": 2,
+      "y": 2,
+      "z": 3,
+      "name": "Rock_Sandstone"
+    },
+    {
+      "x": 3,
+      "y": 1,
+      "z": 1,
+      "name": "Rock_Sandstone"
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": 2,
+      "name": "Rock_Sandstone"
+    },
+    {
+      "x": 3,
+      "y": 1,
+      "z": 2,
+      "name": "Rock_Sandstone"
+    },
+    {
+      "x": 3,
+      "y": 2,
+      "z": 2,
+      "name": "Rock_Sandstone"
+    },
+    {
+      "x": 3,
+      "y": 3,
+      "z": 2,
+      "name": "Rock_Sandstone_Cobble"
+    },
+    {
+      "x": 3,
+      "y": 4,
+      "z": 2,
+      "name": "Rubble_Sandstone"
+    },
+    {
+      "x": 3,
+      "y": 1,
+      "z": 3,
+      "name": "Ore_Thorium_Sandstone"
+    },
+    {
+      "x": 3,
+      "y": 2,
+      "z": 3,
+      "name": "Ore_Thorium_Sandstone"
+    },
+    {
+      "x": 3,
+      "y": 3,
+      "z": 3,
+      "name": "Ore_Thorium_Sandstone"
+    },
+    {
+      "x": 3,
+      "y": 4,
+      "z": 3,
+      "name": "Rubble_Sandstone"
+    },
+    {
+      "x": 4,
+      "y": 1,
+      "z": 2,
+      "name": "Rock_Sandstone"
+    },
+    {
+      "x": 4,
+      "y": 2,
+      "z": 2,
+      "name": "Rock_Sandstone"
+    },
+    {
+      "x": 4,
+      "y": 3,
+      "z": 2,
+      "name": "Rock_Sandstone"
+    },
+    {
+      "x": 4,
+      "y": 4,
+      "z": 2,
+      "name": "Rock_Sandstone_Stalactite_Small"
+    }
+  ],
+  "fluids": [
+    {
+      "x": -3,
+      "y": 0,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 1,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 2,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 3,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 4,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 1,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 2,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 1,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 2,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 1,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 2,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 3,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 4,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 1,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 2,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 3,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 4,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 3,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 4,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 3,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 4,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 5,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 4,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 3,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 3,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 4,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 5,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 1,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 2,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 3,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 1,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 2,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 3,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 4,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 1,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 2,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 1,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 1,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 2,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 3,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 4,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 1,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 2,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 3,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 4,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 4,
+      "y": 1,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 4,
+      "y": 2,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 4,
+      "y": 3,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 4,
+      "y": 4,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    }
+  ]
+}

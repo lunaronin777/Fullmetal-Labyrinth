@@ -1,0 +1,65 @@
+{
+  "Type": "Variant",
+  "Reference": "Template_Trork_Melee",
+  "Modify": {
+    "Appearance": "Fullmetal_Hircine_Daedra",
+    "DropList": "Drop_Fullmetal_Hircine_Daedra",
+    "Weapons": [
+      "Weapon_Fullmetal_Flail_Red",
+      "Weapon_Fullmetal_Flail_Red"
+    ],
+    "ViewSector": 270,
+    "HearingRange": 10,
+    "AttackSequence": "Component_Instruction_Attack_Sequence_Outlander_Berserker",
+    "TargetGroups": [
+      "Outlander"
+    ],
+    "ChestBlockSet": "Trork_Chest",
+    "BedBlockSet": "Trork_Bedroll",
+    "CampfireBlockSet": "Trork_Campfire",
+    "SparTargetGroups": [
+      "Outlander_Spar"
+    ],
+    "UnderlingGroups": [
+      "Outlander_Underlings"
+    ],
+    "DisableDamageGroups": [
+      "Self",
+      "Outlander"
+    ],
+    "AttitudeGroup": "Outlander",
+    "AttackDistance": 2.5,
+    "IdleMotionComponent": "$Null",
+    "MaxHealth": 257,
+    "MaxSpeed": 12,
+    "IsMemory": true,
+    "MemoriesCategory": "Fullmetal",
+    "_InteractionVars": {
+      "Melee_Damage": {
+        "Interactions": [
+          {
+            "Parent": "NPC_Attack_Melee_Damage",
+            "DamageCalculator": {
+              "BaseDamage": {
+                "Physical": 37
+              }
+            }
+          }
+        ]
+      }
+    },
+    "NameTranslationKey": {
+      "Compute": "NameTranslationKey"
+    }
+  },
+  "Parameters": {
+    "AlwaysSleepAtNight": {
+      "Value": false,
+      "Description": "Whether to sleep through the night"
+    },
+    "NameTranslationKey": {
+      "Value": "server.npcRoles.Fullmetal_Hircine_Daedra.name",
+      "Description": "Translation key for NPC name display"
+    }
+  }
+}

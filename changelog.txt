@@ -1,3 +1,441 @@
+version 1.8.14:
+-updated Coldest Reaches of Oblivion:
+ -added more giant spikes!
+ -changed terrain shape a bit!
+ -props are spawned differently!
+
+version 1.8.13:
+-added new colors of Crystal Flail(black and pink)
+-added new color of Crystal Lamp(pink)
+
+version 1.8.12:
+-updated Fullmetal Labyrinth:
+ -new corridors! (again)
+
+version 1.8.11:
+-updated Hirine's Hunting Grounds:
+ -added multiple new weather effects and cloud types!
+-updated Coldest Reaches of Oblivion:
+ -added snowing effects and overhauled clouds!
+
+version 1.8.10:
+-updated Coldest Reaches of Oblivion:
+ -added new shipwreck prefab!
+ -now ground is covered with icycles!
+ -spawning patterns of prefabs changed!
+
+version 1.8.9:
+-updated Coldest Reaches of Oblivion:
+ -added multiple shipwreck prefabs!
+ -now caves are full of crystals, icycles and gems!
+
+version 1.8.8:
+-updated Coldest Reaches of Oblivion:
+ -added giant spikes!
+ -now there is an ocean biome there!
+ -there are small caves inside of spikes that have gems!
+ -terrain overhaul!
+
+version 1.8.7:
+-updated Fullmetal Labyrinth:
+ -new corridors! (again)
+-now all portals and portal keys are all crafted in Aranist's Workbench!
+
+version 1.8.6:
+-fixed fullmetal crystal lamp textures!
+-added 7 new colors to crystal lamps and made them possible to craft in furniture workbench!
+
+version 1.8.5:
+-updated Fullmetal Labyrinth:
+ -new corridors! (again)
+ -new hidden treasure room!
+
+version 1.8.4:
+-added entire new dimension - Coldest Reaches of Oblivion! (very early version!)
+-added ability to craft key to get to it!
+
+version 1.8.3:
+-updated Hirine's Hunting Grounds:
+ -now some void creatures may spawn in the dimension!
+ -created Daedric Void Spectre!
+
+version 1.8.2:
+-updated Hirine's Hunting Grounds:
+ -Daedra Of Hircine now has crystal flail!
+ -drops and spawning patterns changed!
+ -flora update!
+
+version 1.8.1:
+-updated Fullmetal Labyrinth:
+ -new corridors! (again)
+
+version 1.7.31:
+-updated Fullmetal Labyrinth:
+ -new corridors!
+
+version 1.7.30:
+-added 4 new types(colors) of flail weapon!
+-changed all crafting recipies for crystal flail weapons!
+
+version 1.7.29:
+-added 3 new types of flail weapon!
+
+version 1.7.28:
+-updated Hirine's Hunting Grounds:
+ -new type of enemy "Daedra Of Hircine"!
+ -flail can be found and droped now!
+
+version 1.7.27:
+-updated Hirine's Hunting Grounds:
+ -added multiple new prefabs!
+ -added new moss type!
+
+version 1.7.26:
+-updated Hirine's Hunting Grounds:
+ -fixed clouds not showing up! (I hope)
+-updated Fullmetal Labyrinth:
+ -new corrdiors!
+
+version 1.7.25:
+-updated Hirine's Hunting Grounds:
+ -added new subspecies of crystal trees!
+ -added new subspecies of plants and leaves!
+
+version 1.7.24:
+-updated Fullmetal Labyrinth:
+ -new corrdiors!
+ -new moss type!
+
+version 1.7.23:
+-updated Fullmetal Labyrinth:
+ -new corrdiors!
+ -new library!
+
+version 1.7.22:
+-updated Fullmetal Labyrinth:
+ -new corrdiors!
+ -new hidden treasure room!
+-updated Mid Biome:
+ -added new massive volcanic spikes!
+
+version 1.7.21:
+-updated Mid Biome:
+ -minor changes,
+ -added massive volcanic spikes!
+
+version 1.7.20:
+-updated Hirine's Hunting Grounds:
+ -added new Werewolf Alpha and updated drops and spawns!
+-updated Fullmetal Labyrinth:
+ -added new corridors!
+
+version 1.7.19:
+-updated Hirine's Hunting Grounds:
+ -new prey NPC(glowing deer that drops storm leather)!
+ -new "circle of obelisks" prefab!
+ -prefabs spawning update!
+
+version 1.7.18:
+-entire new dimension of Hircine's Hunting Grounds with a new portal key and enemy!
+
+version 1.7.17:
+-adding new corridors!
+-performance update!
+
+version 1.7.16:
+-adding black void weapons that are able to be crafted!
+
+version 1.7.15:
+-sunlight and weather overhaul!
+
+version 1.7.14:
+-adding new corridors again!
+
+version 1.7.13:
+-new floating orange castle dungeon!
+-adding new corridors again!
+
+version 1.7.12:
+-new floating white castle dungeon!
+-adding new corridors again!
+
+version 1.7.11:
+-rebalance of all automaton drops!
+-added craftable Pink Crystal Sword and Pink Crystal Daggers!
+
+version 1.7.10:
+-added Fullmetal Ore and Fullmetal Ingot!
+-now almost all items can be crafted!
+-drops for all automatons updated and now inculde Fullmetal Ore!
+
+version 1.7.9:
+-new floating black castle dungeon!
+
+version 1.7.8:
+-added multiple chambers and towers to prefabs.
+
+version 1.7.7:
+-new floating red castle dungeon!
+-adding new corridors again!
+
+version 1.7.6:
+-new floating purple castle dungeon!
+-adding new corridors again!
+
+version 1.7.5:
+-new floating cyan castle dungeon!
+-adding new corridors again!
+
+version 1.7.4:
+-new floating pink castle dungeon!
+-adding new corridors again!
+
+version 1.7.3:
+-adding new spikes in Ash Biome!
+-flora update in Ash Biome!
+
+version 1.7.2:
+-new floating island in underground!
+-adding new corridors again!
+-fixing up old corridors again!
+-fixing up old spawn markers again!
+
+version 1.7.1:
+-new floating red sandstone mini dungeon underground!
+-adding new corridors again!
+-fixing up old corridors again!
+-fixing up old spawn markers again!
+
+version 1.6.30:
+-new floating island in underground!
+-adding new corridors again!
+-fixing up old corridors again!
+-fixing up old spawn markers again!
+
+version 1.6.29:
+-big floating skull underground added!
+-adding new corridors again!
+-fixing up old corridors again!
+-fixing up old spawn markers again!
+
+version 1.6.28:
+-new floating island in underground!
+-adding new corridors again!
+-fixing up old corridors again!
+-fixing up old spawn markers again!
+
+version 1.6.27:
+-new floating island in underground!
+-adding new corridors again!
+-fixing up old corridors again!
+-fixing up old spawn markers again!
+
+version 1.6.26:
+-adding new corridors again!
+-fixing up old corridors again!
+-fixing up old spawn markers again!
+
+version 1.6.25:
+-adding new corridors again!
+-fixing up old corridors again!
+-fixing up old spawn markers again!
+
+version 1.6.24:
+-adding new corridors again!
+-fixing up old corridors again!
+-fixing up old spawn markers again!
+
+version 1.6.23:
+-new floating island in underground!
+-adding new corridors again!
+-fixing up old corridors again!
+-fixing up old spawn markers again!
+
+version 1.6.22:
+-new floating island in Mid Biome!
+-adding new corridors again!
+-fixing up old corridors again!
+-fixing up old spawn markers again!
+
+version 1.6.21:
+-adding new corridors again!
+-fixing up old corridors again!
+-fixing up old spawn markers again!
+
+version 1.6.20:
+-adding more prefabs to the caves!
+-adding new corridors again!
+-fixing up old corridors again!
+-fixing up old spawn markers again!
+
+version 1.6.19:
+-adding new corridors again!
+-fixing up old corridors again!
+-fixing up old spawn markers again!
+
+version 1.6.18:
+-adding new corridors again!
+-fixing up old corridors again!
+-fixing up old spawn markers again!
+
+version 1.6.17:
+-adding new fire island!
+-adding new corridors again!
+-fixing up old corridors again!
+-fixing up old spawn markers again!
+
+version 1.6.16:
+-fixing old fire island!
+-adding new corridors again!
+-fixing up old corridors again!
+-fixing up old spawn markers again!
+
+version 1.6.15:
+-adding new floating islands in Mid Biome!
+-adding new corridors again!
+-fixing up old corridors again!
+-fixing up old spawn markers again!
+
+version 1.6.14:
+-adding new corridors again!
+-fixing up old corridors again!
+-fixing up old spawn markers again!
+
+version 1.6.13:
+-adding new corridors again!
+-fixing up old corridors again!
+-fixing up old spawn markers again!
+
+version 1.6.12:
+-green floating island spawning issues fixed and got polished up!
+-adding new corridors!
+-fixing up old corridors!
+-fixing up old spawn markers!
+
+version 1.6.11:
+-bibliotheque update!
+-adding new corridors!
+-fixing up old corridors!
+-fixing up old spawn markers!
+
+version 1.6.10:
+-adding new treasure room!
+-adding new corridors!
+-fixing up old corridors!
+-fixing up old spawn markers!
+
+version 1.6.9:
+-new floating islands!
+-adding new corridors!
+-fixing up old corridors!
+-fixing up old spawn markers!
+
+version 1.6.8:
+-now many of unique labyrinth monsters may spawn around the player!
+-adding new corridors!
+-fixing up old corridors!
+-fixing up old spawn markers!
+
+version 1.6.7:
+-adding new "shiny" Living Spark with better drops!
+-adding new corridors!
+-fixing up old corridors!
+-fixing up old spawn markers!
+
+version 1.6.6:
+-adding new corridors again!
+-fixing up old corridors again!
+-fixing up old spawn markers again!
+
+version 1.6.5:
+-adding new corridors again!
+-fixing up old corridors again!
+-fixing up old spawn markers again!
+
+version 1.6.4:
+-adding new corridors again!
+-fixing up old corridors again!
+-fixing up old spawn markers again!
+
+version 1.6.3:
+-adding new corridors!
+-fixing up old corridors!
+-fixing up old spawn markers!
+
+version 1.6.2:
+-fixing up old corridors!
+-fixing up old spawn markers!
+
+version 1.6.1:
+-fixing old corridors!
+
+version 1.5.31:
+-adding new corridors!
+-tackling some minor spawning issues!
+
+version 1.5.30:
+-adding most creatures for memory system!
+-adding creature names up for translation!
+
+version 1.5.29:
+-building foundation for memory system!
+-adressing some minor problems.
+
+version 1.5.28-B:
+-fixed the validation problem!
+
+version 1.5.28:
+-adding content to old prefabs!
+
+version 1.5.27:
+-added bunch of new corridors!
+-added big baloon in the labyrinth!
+-made my mod current version ready!
+
+version 1.5.26:
+-added bunch of new corridors!
+-added big sword in the labyrinth!
+-fixed bunch off TOO_HIGH WARNS (rest of the WARNS will gradually decrease but it will take some time. I will need to manually fix all of my hundreds of prefabs one by one)
+
+version 1.5.25:
+-added bunch of new corridors!
+-added big skull full of treasure!
+
+version 1.5.24:
+-added bunch of new corridors!
+-silver tree may be found at the bottom of the labyrinth!
+
+version 1.5.23:
+-weather overhaul for all biomes!
+
+version 1.5.22:
+-added minor changes to Blood Ocean biome.
+-added new stronger golem variant.
+
+version 1.5.21:
+-added multiple things to Blood Ocean biome.
+-now biome borders are more smooth.
+
+version 1.5.20:
+-added entire new biome! Blood Ocean.
+
+version 1.5.19:
+-new, stronger subspecies of fen stalker added!
+-raptor subspecies may spawn near the player!
+
+version 1.5.18:
+-added bunch of new corridors (again)
+-added new hidden treasure room!
+-new, stronger subspecies of rat added!
+
+version 1.5.17:
+-added bunch of new corridors (again)
+-added new floating islands!
+
+version 1.5.16:
+-added bunch of new corridors (again)
+-now fen stalkers may be found in labyrinth!
+
 version 1.5.15:
 -added bunch of new corridors (again)
 -now werewolfs may be found in labyrinth!

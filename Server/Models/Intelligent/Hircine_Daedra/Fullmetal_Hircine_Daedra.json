@@ -1,0 +1,13 @@
+{
+  "Parent": "Bramblekin",
+  "Model": "NPC/Hircine/Models/Model.blockymodel",
+  "Texture": "NPC/Hircine/Models/Daedra_Textures.png",
+  "DefaultAttachments": [
+    {
+      "Model": "NPC/Hircine/Models/Attachments/Shaman/Head.blockymodel",
+      "Texture": "NPC/Hircine/Models/Attachments/Shaman/Head_Texture.png"
+    }
+  ],
+  "MaxScale": 1.31,
+  "MinScale": 1.3
+}

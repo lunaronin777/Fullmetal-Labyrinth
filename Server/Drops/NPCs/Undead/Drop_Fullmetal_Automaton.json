@@ -23,9 +23,9 @@
           {
             "Type": "Single",
             "Item": {
-              "ItemId": "Deco_Iron_Chain_Small",
-              "QuantityMin": 1,
-              "QuantityMax": 2
+              "ItemId": "Ore_Fullmetal",
+              "QuantityMin": 0,
+              "QuantityMax": 1
             }
           }
         ]

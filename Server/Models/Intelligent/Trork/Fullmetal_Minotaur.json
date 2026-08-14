@@ -14,5 +14,18 @@
     }
   ],
   "EyeHeight": 1.9,
-  "Model": "NPC/Intelligent/Fullmetal_Minotaur/Model.blockymodel"
+  "Model": "NPC/Intelligent/Fullmetal_Minotaur/Model.blockymodel",
+  "Icon": "Icons/ModelsGenerated/Fullmetal_Minotaur.png",
+  "IconProperties": {
+    "Scale": 0.17,
+    "Rotation": [
+      0,
+      -45,
+      0
+    ],
+    "Translation": [
+      0,
+      -85
+    ]
+  }
 }

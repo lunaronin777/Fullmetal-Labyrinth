@@ -1,0 +1,252 @@
+{
+  "SpawnDensity": 0.5,
+  "Tags": {
+    "Zone3": [
+      "Forests"
+    ]
+  },
+  "WeatherForecasts": {
+    "0": [
+      {
+        "WeatherId": "Hircine_Lab_Clear_Weather",
+        "Weight": 100
+      },
+      {
+        "WeatherId": "Hircine_Lab_Rainy_Weather",
+        "Weight": 100
+      }
+    ],
+    "1": [
+      {
+        "WeatherId": "Hircine_Lab_Clear_Weather",
+        "Weight": 100
+      },
+      {
+        "WeatherId": "Hircine_Lab_Rainy_Weather",
+        "Weight": 100
+      }
+    ],
+    "2": [
+      {
+        "WeatherId": "Hircine_Lab_Clear_Weather",
+        "Weight": 100
+      },
+      {
+        "WeatherId": "Hircine_Lab_Rainy_Weather",
+        "Weight": 100
+      }
+    ],
+    "3": [
+      {
+        "WeatherId": "Hircine_Lab_Clear_Weather",
+        "Weight": 100
+      },
+      {
+        "WeatherId": "Hircine_Lab_Rainy_Weather",
+        "Weight": 100
+      }
+    ],
+    "4": [
+      {
+        "WeatherId": "Hircine_Lab_Clear_Weather",
+        "Weight": 100
+      },
+      {
+        "WeatherId": "Hircine_Lab_Rainy_Weather",
+        "Weight": 100
+      }
+    ],
+    "5": [
+      {
+        "WeatherId": "Hircine_Lab_Clear_Weather",
+        "Weight": 100
+      },
+      {
+        "WeatherId": "Hircine_Lab_Rainy_Weather",
+        "Weight": 100
+      }
+    ],
+    "6": [
+      {
+        "WeatherId": "Hircine_Lab_Clear_Weather",
+        "Weight": 100
+      },
+      {
+        "WeatherId": "Hircine_Lab_Rainy_Weather",
+        "Weight": 100
+      }
+    ],
+    "7": [
+      {
+        "WeatherId": "Hircine_Lab_Clear_Weather",
+        "Weight": 100
+      },
+      {
+        "WeatherId": "Hircine_Lab_Rainy_Weather",
+        "Weight": 0
+      }
+    ],
+    "8": [
+      {
+        "WeatherId": "Hircine_Lab_Clear_Weather",
+        "Weight": 100
+      },
+      {
+        "WeatherId": "Hircine_Lab_Rainy_Weather",
+        "Weight": 100
+      }
+    ],
+    "9": [
+      {
+        "WeatherId": "Hircine_Lab_Clear_Weather",
+        "Weight": 100
+      },
+      {
+        "WeatherId": "Hircine_Lab_Rainy_Weather",
+        "Weight": 100
+      }
+    ],
+    "10": [
+      {
+        "WeatherId": "Hircine_Lab_Clear_Weather",
+        "Weight": 100
+      },
+      {
+        "WeatherId": "Hircine_Lab_Rainy_Weather",
+        "Weight": 100
+      }
+    ],
+    "11": [
+      {
+        "WeatherId": "Hircine_Lab_Clear_Weather",
+        "Weight": 100
+      },
+      {
+        "WeatherId": "Hircine_Lab_Rainy_Weather",
+        "Weight": 100
+      }
+    ],
+    "12": [
+      {
+        "WeatherId": "Hircine_Lab_Clear_Weather",
+        "Weight": 100
+      },
+      {
+        "WeatherId": "Hircine_Lab_Rainy_Weather",
+        "Weight": 100
+      }
+    ],
+    "13": [
+      {
+        "WeatherId": "Hircine_Lab_Clear_Weather",
+        "Weight": 100
+      },
+      {
+        "WeatherId": "Hircine_Lab_Rainy_Weather",
+        "Weight": 100
+      }
+    ],
+    "14": [
+      {
+        "WeatherId": "Hircine_Lab_Clear_Weather",
+        "Weight": 100
+      },
+      {
+        "WeatherId": "Hircine_Lab_Rainy_Weather",
+        "Weight": 100
+      }
+    ],
+    "15": [
+      {
+        "WeatherId": "Hircine_Lab_Clear_Weather",
+        "Weight": 100
+      },
+      {
+        "WeatherId": "Hircine_Lab_Rainy_Weather",
+        "Weight": 100
+      }
+    ],
+    "16": [
+      {
+        "WeatherId": "Hircine_Lab_Clear_Weather",
+        "Weight": 100
+      },
+      {
+        "WeatherId": "Hircine_Lab_Rainy_Weather",
+        "Weight": 100
+      }
+    ],
+    "17": [
+      {
+        "WeatherId": "Hircine_Lab_Clear_Weather",
+        "Weight": 100
+      },
+      {
+        "WeatherId": "Hircine_Lab_Rainy_Weather",
+        "Weight": 100
+      }
+    ],
+    "18": [
+      {
+        "WeatherId": "Hircine_Lab_Clear_Weather",
+        "Weight": 100
+      },
+      {
+        "WeatherId": "Hircine_Lab_Rainy_Weather",
+        "Weight": 100
+      }
+    ],
+    "19": [
+      {
+        "WeatherId": "Hircine_Lab_Clear_Weather",
+        "Weight": 100
+      },
+      {
+        "WeatherId": "Hircine_Lab_Rainy_Weather",
+        "Weight": 100
+      }
+    ],
+    "20": [
+      {
+        "WeatherId": "Hircine_Lab_Clear_Weather",
+        "Weight": 100
+      },
+      {
+        "WeatherId": "Hircine_Lab_Rainy_Weather",
+        "Weight": 100
+      }
+    ],
+    "21": [
+      {
+        "WeatherId": "Hircine_Lab_Clear_Weather",
+        "Weight": 100
+      },
+      {
+        "WeatherId": "Hircine_Lab_Rainy_Weather",
+        "Weight": 100
+      }
+    ],
+    "22": [
+      {
+        "WeatherId": "Hircine_Lab_Clear_Weather",
+        "Weight": 100
+      },
+      {
+        "WeatherId": "Hircine_Lab_Rainy_Weather",
+        "Weight": 100
+      }
+    ],
+    "23": [
+      {
+        "WeatherId": "Hircine_Lab_Clear_Weather",
+        "Weight": 100
+      },
+      {
+        "WeatherId": "Hircine_Lab_Rainy_Weather",
+        "Weight": 100
+      }
+    ]
+  },
+  "WaterTint": "#6696d2",
+  "WeatherForecastSeed": "12"
+}

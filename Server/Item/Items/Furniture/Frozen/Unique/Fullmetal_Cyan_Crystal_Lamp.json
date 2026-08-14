@@ -1,0 +1,137 @@
+{
+  "TranslationProperties": {
+    "Name": "server.items.Fullmetal_Cyan_Crystal_Lamp.name"
+  },
+  "PlayerAnimationsId": "Block",
+  "Categories": [
+    "Furniture.Lighting"
+  ],
+  "Set": "Furniture_Fullmetal",
+  "Recipe": {
+    "Input": [
+      {
+        "ItemId": "Ingredient_Crystal_Cyan",
+        "Quantity": 10
+      },
+      {
+        "ItemId": "Ingredient_Bar_Fullmetal",
+        "Quantity": 1
+      }
+    ],
+    "OutputQuantity": 5,
+    "BenchRequirement": [
+      {
+        "Type": "Crafting",
+        "Id": "Furniture_Bench",
+        "Categories": [
+          "Furniture_Lighting"
+        ]
+      }
+    ]
+  },
+  "BlockType": {
+    "BlockParticleSetId": "Ice",
+    "BlockSoundSetId": "Ice",
+    "CustomModel": "Blocks/Decorative_Sets/Frozen_Castle/Light_Secondary.blockymodel",
+    "CustomModelTexture": [
+      {
+        "Texture": "Blocks/Crystal/Cyan_Crystal_Texture.png",
+        "Weight": 1
+      }
+    ],
+    "DrawType": "Model",
+    "Flags": {},
+    "Gathering": {
+      "Soft": {
+        "IsWeaponBreakable": false
+      }
+    },
+    "HitboxType": "Plant_Large",
+    "Light": {
+      "Color": "#089",
+      "Radius": 1
+    },
+    "Material": "Solid",
+    "Opacity": "Transparent",
+    "Support": {
+      "Down": [
+        {
+          "FaceType": "Full"
+        }
+      ]
+    },
+    "State": {
+      "Definitions": {
+        "White": {
+          "Light": {
+            "Color": "#bbb"
+          }
+        },
+        "Yellow": {
+          "Light": {
+            "Color": "#ec6"
+          }
+        },
+        "Blue": {
+          "Light": {
+            "Color": "#9ad"
+          }
+        },
+        "Cyan": {
+          "Light": {
+            "Color": "#0ef"
+          }
+        },
+        "Red": {
+          "Light": {
+            "Color": "#fa8"
+          }
+        },
+        "Green": {
+          "Light": {
+            "Color": "#bda"
+          }
+        },
+        "Pink": {
+          "Light": {
+            "Color": "#dac"
+          }
+        },
+        "Purple": {
+          "Light": {
+            "Color": "#c6f"
+          }
+        }
+      }
+    },
+    "RandomRotation": "YawStep90",
+    "CustomModelAnimation": "Blocks/Dungeons/EggSacks_Scarak_Medium_Idle.blockyanim",
+    "Looping": true,
+    "VariantRotation": "UpDown",
+    "ParticleColor": "#46cdc9"
+  },
+  "Tags": {
+    "Type": [
+      "Furniture"
+    ],
+    "Family": [
+      "Human"
+    ]
+  },
+  "$Comment": " ",
+  "IconProperties": {
+    "Scale": 0.8,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      0,
+      -13.5
+    ]
+  },
+  "Icon": "Icons/ItemsGenerated/Fullmetal_Cyan_Crystal_Lamp.png",
+  "ItemSoundSetId": "ISS_Blocks_Stone",
+  "Scale": 1
+}

@@ -8,6 +8,34 @@
   "Icon": "Icons/ItemsGenerated/Weapon_Fullmetal_Sword_Red.png",
   "Quality": "Rare",
   "ItemLevel": 40,
+  "Recipe": {
+    "TimeSeconds": 4.5,
+    "KnowledgeRequired": false,
+    "Input": [
+      {
+        "ItemId": "Ingredient_Crystal_Red",
+        "Quantity": 40
+      },
+      {
+        "ItemId": "Ingredient_Bar_Fullmetal",
+        "Quantity": 12
+      },
+      {
+        "ItemId": "Rock_Gem_Ruby",
+        "Quantity": 2
+      }
+    ],
+    "BenchRequirement": [
+      {
+        "Type": "Crafting",
+        "Categories": [
+          "Weapon_Sword"
+        ],
+        "Id": "Weapon_Bench",
+        "RequiredTierLevel": 3
+      }
+    ]
+  },
   "InteractionVars": {
     "Swing_Left_Damage": {
       "Interactions": [

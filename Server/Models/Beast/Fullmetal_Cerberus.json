@@ -375,5 +375,18 @@
         "X": 0
       }
     }
-  ]
+  ],
+  "Icon": "Icons/ModelsGenerated/Fullmetal_Cerberus.png",
+  "IconProperties": {
+    "Scale": 0.2,
+    "Rotation": [
+      0,
+      322,
+      0
+    ],
+    "Translation": [
+      0,
+      -55
+    ]
+  }
 }

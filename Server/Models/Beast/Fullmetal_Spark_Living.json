@@ -837,5 +837,18 @@
       "TargetNodeName": "FlameBody",
       "Color": "#000000"
     }
-  ]
+  ],
+  "Icon": "Icons/ModelsGenerated/Fullmetal_Spark_Living.png",
+  "IconProperties": {
+    "Scale": 0.25,
+    "Rotation": [
+      0,
+      -45,
+      0
+    ],
+    "Translation": [
+      0,
+      -23
+    ]
+  }
 }

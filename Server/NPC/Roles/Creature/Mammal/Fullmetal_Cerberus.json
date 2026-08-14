@@ -33,7 +33,7 @@
       "Description": "Overrides the memory name if set"
     },
     "NameTranslationKey": {
-      "Value": "server.npcRoles.Wolf_Black.name",
+      "Value": "server.npcRoles.Fullmetal_Cerberus.name",
       "Description": "Translation key for NPC name display"
     }
   },
@@ -57,7 +57,7 @@
     "AlertedRange": 18,
     "ChanceToBeAlertedWhenFlockAlerted": 70,
     "IsMemory": true,
-    "MemoriesCategory": "Predator",
+    "MemoriesCategory": "Fullmetal",
     "MemoriesNameOverride": {
       "Compute": "MemoriesNameOverride"
     },
@@ -141,7 +141,9 @@
       }
     },
     "NameTranslationKey": {
-      "Compute": "NameTranslationKey"
+      "Compute": "NameTranslationKey",
+      "Value": "server.npcRoles.Fullmetal_Cerberus.name",
+      "Description": "Translation key for NPC name display"
     }
   }
 }

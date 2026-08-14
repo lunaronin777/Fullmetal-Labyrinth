@@ -337,5 +337,18 @@
     }
   },
   "MinScale": 0.7,
-  "MaxScale": 0.7
+  "MaxScale": 0.7,
+  "Icon": "Icons/ModelsGenerated/Fullmetal_Scarak_Seeker.png",
+  "IconProperties": {
+    "Scale": 0.15,
+    "Rotation": [
+      0,
+      -45,
+      0
+    ],
+    "Translation": [
+      0,
+      -75
+    ]
+  }
 }

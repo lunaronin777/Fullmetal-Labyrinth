@@ -1,0 +1,46 @@
+{
+  "Environments": [
+    "Env_Lab_Hircine"
+  ],
+  "NPCs": [
+    {
+      "Weight": 15,
+      "SpawnBlockSet": "Soil_NoSnow",
+      "Id": "Boar",
+      "Flock": "Group_Small"
+    },
+    {
+      "Weight": 10,
+      "SpawnBlockSet": "Soil_NoSnow",
+      "Id": "Moose_Bull",
+      "Flock": "Group_Small"
+    },
+    {
+      "Weight": 10,
+      "SpawnBlockSet": "Soil_NoSnow",
+      "Id": "Rabbit",
+      "Flock": "One_Or_Two"
+    },
+    {
+      "Weight": 5,
+      "SpawnBlockSet": "Rock",
+      "Id": "Mouflon",
+      "Flock": "Group_Small"
+    },
+    {
+      "Id": "Deer_Doe",
+      "Weight": 10,
+      "SpawnBlockSet": "Grass"
+    },
+    {
+      "Weight": 2,
+      "SpawnBlockSet": "Grass",
+      "Id": "Fullmetal_Glowing_Deer",
+      "Flock": "One_Or_Two"
+    }
+  ],
+  "DayTimeRange": [
+    0,
+    24
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "Environments": [
+    "Env_Lab_Hircine"
+  ],
+  "NPCs": [
+    {
+      "Weight": 5,
+      "SpawnBlockSet": "Grass",
+      "Id": "Wolf_White",
+      "Flock": "Pack_Small"
+    },
+    {
+      "Weight": 5,
+      "SpawnBlockSet": "Grass",
+      "Id": "Fullmetal_Hircine_Daedra"
+    },
+    {
+      "Weight": 3,
+      "SpawnBlockSet": "Grass",
+      "Id": "Fullmetal_Daedra_Spectre_Void"
+    },
+    {
+      "Weight": 5,
+      "SpawnBlockSet": "Grass",
+      "Id": "Spectre_Void",
+      "Flock": "One_Or_Two"
+    },
+    {
+      "Weight": 5,
+      "SpawnBlockSet": "Grass",
+      "Id": "Crawler_Void",
+      "Flock": "Group_Medium"
+    },
+    {
+      "Weight": 5,
+      "SpawnBlockSet": "Grass",
+      "Id": "Wolf_Black"
+    },
+    {
+      "Weight": 5,
+      "SpawnBlockSet": "Grass",
+      "Id": "Bear_Grizzly"
+    },
+    {
+      "Id": "Fullmetal_Werewolf",
+      "Weight": 5,
+      "SpawnBlockSet": "Grass"
+    },
+    {
+      "Flock": "One_Or_Two",
+      "Id": "Fullmetal_Alpha_Werewolf",
+      "Weight": 2
+    }
+  ],
+  "DayTimeRange": [
+    0,
+    24
+  ]
+}

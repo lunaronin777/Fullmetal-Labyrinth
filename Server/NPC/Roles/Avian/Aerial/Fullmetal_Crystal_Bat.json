@@ -10,14 +10,14 @@
     "MaxHealth": 15,
     "WanderRadius": 15,
     "IsMemory": true,
-    "MemoriesCategory": "Avian",
+    "MemoriesCategory": "Fullmetal",
     "NameTranslationKey": {
       "Compute": "NameTranslationKey"
     }
   },
   "Parameters": {
     "NameTranslationKey": {
-      "Value": "server.npcRoles.Bat.name",
+      "Value": "server.npcRoles.Fullmetal_Crystal_Bat.name",
       "Description": "Translation key for NPC name display"
     }
   }

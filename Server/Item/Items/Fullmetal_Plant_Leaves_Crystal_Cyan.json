@@ -1,0 +1,30 @@
+{
+  "TranslationProperties": {
+    "Name": "server.items.Fullmetal_Leaves_Cyan_Crystal.name"
+  },
+  "Parent": "Plant_Leaves_Oak",
+  "BlockType": {
+    "CustomModelTexture": [
+      {
+        "Texture": "Blocks/Foliage/Leaves/Fullmetal_Cyan_Crystal.png",
+        "Weight": 1
+      }
+    ],
+    "CustomModel": "Blocks/Foliage/Leaves/UpShapeSoft.blockymodel",
+    "ParticleColor": "#62a6a4",
+    "TextureComputedColor": "#5a8d90"
+  },
+  "Icon": "Icons/ItemsGenerated/Fullmetal_Plant_Leaves_Crystal_Cyan.png",
+  "IconProperties": {
+    "Scale": 0.4,
+    "Rotation": [
+      0,
+      0,
+      8
+    ],
+    "Translation": [
+      7,
+      -21
+    ]
+  }
+}

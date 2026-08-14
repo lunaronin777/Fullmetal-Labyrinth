@@ -27,7 +27,7 @@
       "Description": "When set to false, NPCs wont try to avoid each other or player, it can lead to them stacking together, but can help to avoid jerky-like movemenet in enclosed space."
     },
     "NameTranslationKey": {
-      "Value": "server.npcRoles.Skeleton_Pirate_Gunner.name",
+      "Value": "server.npcRoles.Fullmetal_Automaton_Gunner.name",
       "Description": "Translation key for NPC name display"
     }
   },
@@ -71,10 +71,11 @@
       "Compute": "ApplySeparation"
     },
     "IsMemory": true,
-    "MemoriesCategory": "Undead",
-    "MemoriesNameOverride": "Skeleton_Pirate_Gunner",
+    "MemoriesCategory": "Fullmetal",
+    "MemoriesNameOverride": "Fullmetal_Automaton_Gunner",
     "BreathesInWater": true,
     "NameTranslationKey": {
+      "Value": "server.npcRoles.Fullmetal_Automaton_Gunner.name",
       "Compute": "NameTranslationKey"
     }
   }

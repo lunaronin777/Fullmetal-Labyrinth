@@ -1,0 +1,24 @@
+{
+  "Type": "Variant",
+  "Reference": "Template_Birds_Passive",
+  "Modify": {
+    "Appearance": "Fullmetal_Whale_Blood",
+    "FlockArray": [
+      "Bat"
+    ],
+    "DropList": "Drop_Fullmetal_Whale_Blood",
+    "MaxHealth": 2500,
+    "WanderRadius": 50,
+    "IsMemory": true,
+    "MemoriesCategory": "Fullmetal",
+    "NameTranslationKey": {
+      "Compute": "NameTranslationKey"
+    }
+  },
+  "Parameters": {
+    "NameTranslationKey": {
+      "Value": "server.npcRoles.Fullmetal_Whale_Blood.name",
+      "Description": "Translation key for NPC name display"
+    }
+  }
+}

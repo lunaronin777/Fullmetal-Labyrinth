@@ -1,0 +1,13 @@
+{
+  "InstanceId": "Fullmetal_Hircine",
+  "Description": {
+    "DisplayName": "server.portals.hircine",
+    "FlavorText": "server.portals.hircine.description",
+    "ThemeColor": "#23970cec",
+    "SplashImage": "DefaultArtwork.png",
+    "Tips": [
+      "server.portals.hircine.tip1",
+      "server.portals.hircine.tip2"
+    ]
+  }
+}

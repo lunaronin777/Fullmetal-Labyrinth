@@ -1,0 +1,51 @@
+{
+  "Container": {
+    "Type": "Multiple",
+    "Containers": [
+      {
+        "Type": "Choice",
+        "Weight": 100,
+        "Containers": [
+          {
+            "Type": "Single",
+            "Item": {
+              "ItemId": "Ingredient_Hide_Heavy",
+              "QuantityMin": 2,
+              "QuantityMax": 4
+            }
+          }
+        ]
+      },
+      {
+        "Type": "Choice",
+        "Weight": 100,
+        "Containers": [
+          {
+            "Type": "Single",
+            "Item": {
+              "ItemId": "Ingredient_Fire_Essence",
+              "QuantityMin": 0,
+              "QuantityMax": 4
+            }
+          },
+          {
+            "Type": "Single",
+            "Item": {
+              "ItemId": "Rock_Gem_Ruby",
+              "QuantityMin": 0,
+              "QuantityMax": 1
+            }
+          },
+          {
+            "Type": "Single",
+            "Item": {
+              "ItemId": "Rock_Gem_Topaz",
+              "QuantityMin": 0,
+              "QuantityMax": 1
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

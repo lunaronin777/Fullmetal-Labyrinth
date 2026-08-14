@@ -2,24 +2,29 @@
   "Type": "NoiseRange",
   "Biomes": [
     {
-      "Biome": "Ash_Lab_Biome",
+      "Biome": "Blood_Ocean_Lab_Biome",
       "Min": -1,
-      "Max": -0.5
+      "Max": -0.6
+    },
+    {
+      "Biome": "Ash_Lab_Biome",
+      "Min": -0.6,
+      "Max": -0.3
     },
     {
       "Biome": "Mid_Lab_Biome",
-      "Min": -0.5,
-      "Max": 0.2
+      "Min": -0.3,
+      "Max": 0.4
     },
     {
       "Biome": "Top_Lab_Biome",
-      "Min": 0.2,
+      "Min": 0.4,
       "Max": 1
     }
   ],
   "DefaultBiome": "Mid_Lab_Biome",
-  "DefaultTransitionDistance": 32,
-  "MaxBiomeEdgeDistance": 5,
+  "DefaultTransitionDistance": 55,
+  "MaxBiomeEdgeDistance": 55,
   "Density": {
     "Type": "Imported",
     "Name": "Biome-Map"
@@ -37,7 +42,12 @@
     },
     {
       "Type": "BaseHeight",
-      "Name": "Water",
+      "Name": "BloodOcean",
+      "Y": 200
+    },
+    {
+      "Type": "BaseHeight",
+      "Name": "BloodOceanBottom",
       "Y": 0
     },
     {

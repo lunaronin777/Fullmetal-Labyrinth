@@ -415,5 +415,18 @@
     "InvertedGravity": false
   },
   "GradientSet": "Hair",
-  "GradientId": "Black"
+  "GradientId": "Black",
+  "Icon": "Icons/ModelsGenerated/Klops_Lab2.png",
+  "IconProperties": {
+    "Scale": 0.25,
+    "Rotation": [
+      0,
+      -45,
+      0
+    ],
+    "Translation": [
+      0,
+      -75
+    ]
+  }
 }

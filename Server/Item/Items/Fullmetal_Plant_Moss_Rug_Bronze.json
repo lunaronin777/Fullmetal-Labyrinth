@@ -1,0 +1,32 @@
+{
+  "TranslationProperties": {
+    "Name": "server.items.Fullmetal_Plant_Moss_Rug_Bronze.name"
+  },
+  "Parent": "Plant_Moss_Rug_Green",
+  "BlockType": {
+    "CustomModel": "Blocks/Foliage/Plants/Jungle_Plant_Moss.blockymodel",
+    "CustomModelTexture": [
+      {
+        "Texture": "Blocks/Foliage/Plants/Fullmetal_Plant_Moss_Bronze.png",
+        "Weight": 1
+      }
+    ],
+    "BiomeTint": 0,
+    "Tint": [],
+    "ParticleColor": "#a33f3f",
+    "TextureComputedColor": "#613030"
+  },
+  "Icon": "Icons/ItemsGenerated/Fullmetal_Plant_Moss_Rug_Bronze.png",
+  "IconProperties": {
+    "Scale": 0.58823,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      0,
+      0
+    ]
+  }
+}

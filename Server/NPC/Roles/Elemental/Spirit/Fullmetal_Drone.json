@@ -6,7 +6,7 @@
     "DropList": "Drop_Fullmetal_Drone",
     "MaxHealth": 150,
     "IsMemory": true,
-    "MemoriesCategory": "Elemental",
+    "MemoriesCategory": "Fullmetal",
     "NameTranslationKey": {
       "Compute": "NameTranslationKey"
     }

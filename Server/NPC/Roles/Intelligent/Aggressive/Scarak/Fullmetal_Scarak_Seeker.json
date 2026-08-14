@@ -5,8 +5,8 @@
     "DropList": "Drop_Fullmetal_Scarak_Seeker",
     "MaxHealth": 50,
     "IsMemory": true,
-    "MemoriesCategory": "Scarak",
-    "MemoriesNameOverride": "Scarak_Seeker",
+    "MemoriesCategory": "Fullmetal",
+    "MemoriesNameOverride": "Fullmetal_Scarak_Seeker",
     "Appearance": "Fullmetal_Scarak_Seeker",
     "NameTranslationKey": {
       "Compute": "NameTranslationKey"
@@ -14,7 +14,7 @@
   },
   "Parameters": {
     "NameTranslationKey": {
-      "Value": "server.npcRoles.Scarak_Seeker.name",
+      "Value": "server.npcRoles.Fullmetal_Scarak_Seeker.name",
       "Description": "Translation key for NPC name display"
     }
   }

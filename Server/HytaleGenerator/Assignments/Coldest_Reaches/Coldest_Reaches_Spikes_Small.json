@@ -1,0 +1,173 @@
+{
+	"$NodeId":	"Constant.Assignments-c8622051-05af-4c90-85d2-046e6e0a2a78",
+	"Type":	"Constant",
+	"ExportAs":	"Fullmetal_Coldest_Reaches_Spikes_Small",
+	"Skip":	false,
+	"Prop":	{
+		"$NodeId":	"Locator.Prop-f05817f8-949a-4615-9033-57ed203ecf97",
+		"Type":	"Locator",
+		"Skip":	false,
+		"PlacementCap":	1,
+		"Prop":	{
+			"$NodeId":	"RandomRotator.Prop-78976b55-731a-4dfd-a2ec-1f6059a90e29",
+			"Type":	"RandomRotator",
+			"Skip":	false,
+			"HorizontalRotations":	true,
+			"Prop":	{
+				"$NodeId":	"Prefab.Prop-ba447934-fca4-4d0a-b4fe-e95648d77c75",
+				"Type":	"Prefab",
+				"Skip":	false,
+				"WeightedPrefabPaths":	[{
+						"$NodeId":	"WeightedPath.Prefab.Prop-d9758c43-67f0-4192-a5af-8089861e6791",
+						"Path":	"Fullmetal\\Coldest_Reaches\\Spikes2",
+						"Weight":	100
+					}],
+				"LegacyPath":	false,
+				"LoadEntities":	true,
+				"MoldingDirection":	"None",
+				"MoldingChildren":	false
+			}
+		},
+		"Pattern":	{
+			"$NodeId":	"Floor.Pattern-41f9f622-f5a5-473f-847e-14895035fa4b",
+			"Type":	"Floor",
+			"Skip":	false,
+			"Origin":	{
+				"$NodeId":	"BlockType.Pattern-4de6cf91-cadd-4fac-9e22-9f9ae7809fba",
+				"Type":	"BlockType",
+				"Skip":	false,
+				"Material":	{
+					"$NodeId":	"Material-63a258ad-9e9c-4c94-80ed-0744a71c26a3",
+					"Solid":	"Empty",
+					"SolidBottomUp":	false
+				}
+			},
+			"Floor":	{
+				"$NodeId":	"BlockSet.Pattern-d7fc7ff9-0327-453c-ab95-c79d98bf4de5",
+				"Type":	"BlockSet",
+				"Skip":	false,
+				"BlockSet":	{
+					"$NodeId":	"BlockSet.BlockMask-dddb396c-1f74-4ba4-89cf-c6c138bf5828",
+					"Inclusive":	true,
+					"Materials":	[{
+							"$NodeId":	"Material-6627185d-8fd6-411e-a1ae-a14a9fc2f31a",
+							"Solid":	"Soil_Snow",
+							"SolidBottomUp":	false
+						}]
+				}
+			}
+		},
+		"Scanner":	{
+			"$NodeId":	"Linear.Scanner-3a9ec07a-ddbe-43e0-8e53-063fa19fdddf",
+			"Type":	"Linear",
+			"Skip":	false,
+			"Axis":	"Y",
+			"AscendingOrder":	false,
+			"Scanner":	{
+				"$NodeId":	"Origin.Scanner-0fc3de2e-8c53-4f8f-beca-df769c0465f2",
+				"Type":	"Origin",
+				"Skip":	false
+			},
+			"Range":	{
+				"$NodeId":	"Integer.Range-774ba1f7-8e8a-4e8c-ac95-a6370c4e75bc",
+				"MinInclusive":	0,
+				"MaxExclusive":	350
+			}
+		}
+	},
+	"$NodeEditorMetadata":	{
+		"$Nodes":	{
+			"Constant.Assignments-c8622051-05af-4c90-85d2-046e6e0a2a78":	{
+				"$Position":	{
+					"$x":	3309,
+					"$y":	11421
+				},
+				"$Title":	"[ROOT] Constant Assignments"
+			},
+			"Locator.Prop-f05817f8-949a-4615-9033-57ed203ecf97":	{
+				"$Position":	{
+					"$x":	3902,
+					"$y":	11418
+				}
+			},
+			"RandomRotator.Prop-78976b55-731a-4dfd-a2ec-1f6059a90e29":	{
+				"$Position":	{
+					"$x":	4565,
+					"$y":	11017
+				}
+			},
+			"Prefab.Prop-ba447934-fca4-4d0a-b4fe-e95648d77c75":	{
+				"$Position":	{
+					"$x":	5187,
+					"$y":	11020
+				}
+			},
+			"WeightedPath.Prefab.Prop-d9758c43-67f0-4192-a5af-8089861e6791":	{
+				"$Position":	{
+					"$x":	5964,
+					"$y":	11018
+				}
+			},
+			"Floor.Pattern-41f9f622-f5a5-473f-847e-14895035fa4b":	{
+				"$Position":	{
+					"$x":	4570,
+					"$y":	11446
+				}
+			},
+			"BlockType.Pattern-4de6cf91-cadd-4fac-9e22-9f9ae7809fba":	{
+				"$Position":	{
+					"$x":	5182,
+					"$y":	11386
+				}
+			},
+			"Material-63a258ad-9e9c-4c94-80ed-0744a71c26a3":	{
+				"$Position":	{
+					"$x":	5802,
+					"$y":	11387
+				}
+			},
+			"BlockSet.Pattern-d7fc7ff9-0327-453c-ab95-c79d98bf4de5":	{
+				"$Position":	{
+					"$x":	5175,
+					"$y":	11574
+				}
+			},
+			"BlockSet.BlockMask-dddb396c-1f74-4ba4-89cf-c6c138bf5828":	{
+				"$Position":	{
+					"$x":	5799,
+					"$y":	11574
+				}
+			},
+			"Material-6627185d-8fd6-411e-a1ae-a14a9fc2f31a":	{
+				"$Position":	{
+					"$x":	6274,
+					"$y":	11575
+				}
+			},
+			"Linear.Scanner-3a9ec07a-ddbe-43e0-8e53-063fa19fdddf":	{
+				"$Position":	{
+					"$x":	4543,
+					"$y":	11786
+				}
+			},
+			"Origin.Scanner-0fc3de2e-8c53-4f8f-beca-df769c0465f2":	{
+				"$Position":	{
+					"$x":	5223,
+					"$y":	11770
+				}
+			},
+			"Integer.Range-774ba1f7-8e8a-4e8c-ac95-a6370c4e75bc":	{
+				"$Position":	{
+					"$x":	5205,
+					"$y":	11943
+				}
+			}
+		},
+		"$FloatingNodes":	[],
+		"$Links":	{
+		},
+		"$Groups":	[],
+		"$Comments":	[],
+		"$WorkspaceID":	"HytaleGenerator - Assignments"
+	}
+}

@@ -17,7 +17,7 @@
     "AlwaysSleepAtNight": true,
     "MaxHealth": 103,
     "IsMemory": true,
-    "MemoriesCategory": "Reptile",
+    "MemoriesCategory": "Fullmetal",
     "_InteractionVars": {
       "Melee_Start": {
         "Interactions": [

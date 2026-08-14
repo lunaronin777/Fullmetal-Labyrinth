@@ -27,7 +27,7 @@
       "Description": "When set to false, NPCs wont try to avoid each other or player, it can lead to them stacking together, but can help to avoid jerky-like movemenet in enclosed space."
     },
     "NameTranslationKey": {
-      "Value": "server.npcRoles.Skeleton_Sand_Assassin.name",
+      "Value": "server.npcRoles.Fullmetal_Red_Daggers_Automaton.name",
       "Description": "Translation key for NPC name display"
     }
   },
@@ -69,10 +69,11 @@
       "Compute": "ApplySeparation"
     },
     "IsMemory": true,
-    "MemoriesCategory": "Undead",
-    "MemoriesNameOverride": "Skeleton_Sand_Assassin",
+    "MemoriesCategory": "Fullmetal",
+    "MemoriesNameOverride": "Fullmetal_Red_Daggers_Automaton",
     "BreathesInWater": true,
     "NameTranslationKey": {
+      "Value": "server.npcRoles.Fullmetal_Red_Daggers_Automaton.name",
       "Compute": "NameTranslationKey"
     }
   }

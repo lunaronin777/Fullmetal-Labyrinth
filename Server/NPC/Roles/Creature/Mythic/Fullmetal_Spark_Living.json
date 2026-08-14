@@ -6,14 +6,14 @@
     "DropList": "Drop_Fullmetal_Spark_Living",
     "MaxHealth": 61,
     "IsMemory": true,
-    "MemoriesCategory": "Elemental",
+    "MemoriesCategory": "Fullmetal",
     "NameTranslationKey": {
       "Compute": "NameTranslationKey"
     }
   },
   "Parameters": {
     "NameTranslationKey": {
-      "Value": "server.npcRoles.Spark_Living.name",
+      "Value": "server.npcRoles.Fullmetal_Spark_Living.name",
       "Description": "Translation key for NPC name display"
     }
   }

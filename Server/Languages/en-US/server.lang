@@ -1,32 +1,151 @@
+items.PortalKey_Hircine.name = Hircine's Hunting Grounds - Portal Key
+portals.hircine = Hircine's Hunting Grounds
+portals.hircine.description = Hunting grounds is a savage, primordial Daedric realm of Oblivion. It features endless dense forests and vast grasslands where predators and prey exist in an eternal, violent cycle of death, rebirth, and spectacular hunts.
+portals.hircine.tip1 = Werewolfs are great source of Voidhearts!
+portals.hircine.tip2 = Top of the obelisks is almost always ended with some valuable gems, also there are some hidden chests inside of them!
+
+items.PortalKey_Coldest_Reaches.name = Coldest Reaches of Oblivion - Portal Key
+portals.coldest_reaches = Coldest Reaches of Oblivion
+portals.coldest_reaches.description = A frozen domain of Oblivion ruled by Ice Atronachs and other frost-loving Daedra. Rumors claim that ships sailing too near Mundus Northern Pole are sometimes seized by raging whirlwinds and dragged into this eternal cold.
+portals.coldest_reaches.tip1 = Take some jacket!
+portals.coldest_reaches.tip2 = Great source of diamonds and sapphires!
+
 items.Elven_Bread.name = Elven Bread
 items.Elven_Bread.decription = Fills you up for an entire day!
+
+items.Fullmetal_Plant_Moss_Rug_Bronze.name = Bronze Moss Rug
+items.Fullmetal_Plant_Moss_Rug_Blue.name = Blue Moss Rug
+items.Fullmetal_Plant_Flower_Common_Cyan.name = Cyan Pitcher Flower
+items.Fullmetal_Leaves_Cyan_Crystal.name = Cyan Crystal Leaves
+
+items.Fullmetal_Ore.name = Fullmetal Scrap
+items.Fullmetal_Ingot.name = Fullmetal Ingot
+
 items.Cyan_Crystal_Double_Blade.name = Cyan Crystal Double Blade
 items.Orange_Crystal_Double_Blade.name = Orange Crystal Double Blade
 items.Red_Crystal_Double_Blade.name = Red Crystal Double Blade
 items.Emerald_Double_Blade.name = Emerald Double Blade
+
 items.Potion_Of_Gentle_Fall.name = Potion Of Gentle Fall
 items.Potion_Of_Gentle_Fall.description = Potion that allows you to negate all fall damage!
+
 items.Fullmetal_Portal.name = Fullmetal Portal
 items.Fullmetal_Comeback_Portal.name = Portal Back To Default World
+
 items.White_Crystal_Double_Blade.name = White Crystal Double Blade
 items.Purple_Crystal_Double_Blade.name = Purple Crystal Double Blade
 items.Yellow_Crystal_Double_Blade.name = Yellow Crystal Double Blade
 items.Pink_Crystal_Double_Blade.name = Pink Crystal Double Blade
+items.Black_Crystal_Double_Blade.name = Black Void Double Blade
 items.Magic_Crystal_Pickaxe.name = Magic Crystal Pickaxe
+
 items.Fullmetal_Crystal_Lamp.name = Fullmetal Crystal Lamp
+
+items.Fullmetal_Purple_Crystal_Lamp.name = Fullmetal Purple Crystal Lamp
+items.Fullmetal_Red_Crystal_Lamp.name = Fullmetal Red Crystal Lamp
+items.Fullmetal_Pink_Crystal_Lamp.name = Fullmetal Pink Crystal Lamp
+items.Fullmetal_Orange_Crystal_Lamp.name = Fullmetal Orange Crystal Lamp
+items.Fullmetal_Yellow_Crystal_Lamp.name = Fullmetal Yellow Crystal Lamp
+items.Fullmetal_Green_Crystal_Lamp.name = Fullmetal Green Crystal Lamp
+items.Fullmetal_Cyan_Crystal_Lamp.name = Fullmetal Cyan Crystal Lamp
+items.Fullmetal_Blue_Crystal_Lamp.name = Fullmetal Blue Crystal Lamp
+items.Fullmetal_White_Crystal_Lamp.name = Fullmetal White Crystal Lamp
+
 items.Fullmetal_Repair_Kit_Iron.name = Fullmetal Repair Kit
 items.Fullmetal_Repair_Kit_Iron.description = Used to repair tools, weapons and armor. Repaired tools will lose up to 4% of their maximum durability.
+
 items.Weapon_Fullmetal_Daggers_White.name = White Crystal Daggers
 items.Weapon_Fullmetal_Daggers_Cyan.name = Cyan Crystal Daggers
 items.Weapon_Fullmetal_Daggers_Emerald.name = Emerald Crystal Daggers
 items.Weapon_Fullmetal_Daggers_Orange.name = Orange Crystal Daggers
 items.Weapon_Fullmetal_Daggers_Purple.name = Purple Crystal Daggers
+items.Weapon_Fullmetal_Daggers_Pink.name = Pink Crystal Daggers
 items.Weapon_Fullmetal_Daggers_Red.name = Red Crystal Daggers
 items.Weapon_Fullmetal_Daggers_Yellow.name = Yellow Crystal Daggers
+items.Weapon_Fullmetal_Daggers_Black.name = Black Void Daggers
+
 items.Weapon_Fullmetal_Sword_White.name = White Crystal Sword
 items.Weapon_Fullmetal_Sword_Cyan.name = Cyan Crystal Sword
 items.Weapon_Fullmetal_Sword_Emerald.name = Emerald Crystal Sword
 items.Weapon_Fullmetal_Sword_Orange.name = Orange Crystal Sword
 items.Weapon_Fullmetal_Sword_Purple.name = Purple Crystal Sword
+items.Weapon_Fullmetal_Sword_Pink.name = Pink Crystal Sword
 items.Weapon_Fullmetal_Sword_Red.name = Red Crystal Sword
 items.Weapon_Fullmetal_Sword_Yellow.name = Yellow Crystal Sword
+items.Weapon_Fullmetal_Sword_Black.name = Black Void Sword
+
+items.Weapon_Fullmetal_Flail_Red.name = Red Crystal Flail
+items.Weapon_Fullmetal_Flail_Emerald.name = Emerald Crystal Flail
+items.Weapon_Fullmetal_Flail_Cyan.name = Cyan Crystal Flail
+items.Weapon_Fullmetal_Flail_White.name = White Crystal Flail
+items.Weapon_Fullmetal_Flail_Purple.name = Purple Crystal Flail
+items.Weapon_Fullmetal_Flail_Black.name = Black Crystal Flail
+items.Weapon_Fullmetal_Flail_Pink.name = Pink Crystal Flail
+items.Weapon_Fullmetal_Flail_Yellow.name = Yellow Crystal Flail
+items.Weapon_Fullmetal_Flail_Orange.name = Orange Crystal Flail
+
+memories.categories.Fullmetal.title = Fullmetal
+
+npcRoles.Fullmetal_Hircine_Daedra.name = Daedra Of Hircine
+
+npcRoles.Fullmetal_Cyan_Daggers_Automaton.name = Cyan Daggers Automaton
+npcRoles.Fullmetal_Emerald_Daggers_Automaton.name = Emerald Daggers Automaton
+npcRoles.Fullmetal_Red_Daggers_Automaton.name = Red Daggers Automaton
+npcRoles.Fullmetal_Yellow_Daggers_Automaton.name = Yellow Daggers Automaton
+npcRoles.Fullmetal_Orange_Daggers_Automaton.name = Orange Daggers Automaton
+npcRoles.Fullmetal_Purple_Daggers_Automaton.name = Purple Daggers Automaton
+npcRoles.Fullmetal_White_Daggers_Automaton.name = White Daggers Automaton
+
+npcRoles.Fullmetal_Cyan_Sword_Automaton.name = Cyan Sword Automaton
+npcRoles.Fullmetal_Emerald_Sword_Automaton.name = Emerald Sword Automaton
+npcRoles.Fullmetal_Red_Sword_Automaton.name = Red Sword Automaton
+npcRoles.Fullmetal_Yellow_Sword_Automaton.name = Yellow Sword Automaton
+npcRoles.Fullmetal_Orange_Sword_Automaton.name = Orange Sword Automaton
+npcRoles.Fullmetal_Purple_Sword_Automaton.name = Purple Sword Automaton
+npcRoles.Fullmetal_White_Sword_Automaton.name = White Sword Automaton
+
+npcRoles.Fullmetal_Cyan_Blades_Automaton.name = Cyan Blades Automaton
+npcRoles.Fullmetal_Emerald_Blades_Automaton.name = Emerald Blades Automaton
+npcRoles.Fullmetal_Red_Blades_Automaton.name = Red Blades Automaton
+npcRoles.Fullmetal_Yellow_Blades_Automaton.name = Yellow Blades Automaton
+npcRoles.Fullmetal_Orange_Blades_Automaton.name = Orange Blades Automaton
+npcRoles.Fullmetal_Purple_Blades_Automaton.name = Purple Blades Automaton
+npcRoles.Fullmetal_White_Blades_Automaton.name = White Blades Automaton
+npcRoles.Fullmetal_Pink_Blades_Automaton.name = Pink Blades Automaton
+
+npcRoles.Fullmetal_Automaton.name = Automaton
+npcRoles.Fullmetal_Automaton_Gunner.name = Automaton Gunner
+npcRoles.Fullmetal_Assassin_Automaton.name = Automaton Assassin
+
+npcRoles.Fullmetal_Arch_Red.name = Red Archaeopteryx
+npcRoles.Fullmetal_Cerberus.name = Cerberus
+npcRoles.Fullmetal_Ash_Triblobite_Red.name = Flying Trilobite Red
+npcRoles.Fullmetal_Ash_Triblobite_Purple.name = Flying Trilobite Purple
+npcRoles.Fullmetal_Crystal_Bat.name = Crystal Bat
+npcRoles.Fullmetal_Whale.name = Sky Whale
+npcRoles.Fullmetal_Whale_Blood.name = Bloody Sky Whale
+npcRoles.Fullmetal_Whale_Yellow.name = Yellow Sky Whale
+
+npcRoles.Fullmetal_Crystalwulf_Yellow.name = Crystalwulf Yellow
+npcRoles.Fullmetal_Crystalwulf_Red.name = Crystalwulf Red
+npcRoles.Fullmetal_Crystalwulf_Purple.name = Crystalwulf Purple
+npcRoles.Fullmetal_Crystalwulf_Emerald.name = Crystalwulf Emerald
+
+npcRoles.Fullmetal_Fen_Stalker.name = Purple Fen Stalker
+npcRoles.Fullmetal_Spark_Living.name = Cyan Living Spark
+npcRoles.Fullmetal_Statue_Brown.name = Living Mushroom Statue
+npcRoles.Fullmetal_Statue_Sandstone.name = Living Sandstone Statue
+npcRoles.Fullmetal_Statue.name = Living Statue
+npcRoles.Fullmetal_Trillodon.name = Purple Trillodon
+
+npcRoles.Fullmetal_Green_Toad_Rhino.name = Green Rhino Toad
+npcRoles.Fullmetal_Purple_Toad_Rhino.name = Purple Rhino Toad
+npcRoles.Fullmetal_Yellow_Toad_Rhino.name = Yellow Rhino Toad
+npcRoles.Fullmetal_Red_Toad_Rhino.name = Red Rhino Toad
+
+npcRoles.Fullmetal_Micro_Spider.name = Micro Spider
+npcRoles.Fullmetal_Rat.name = Alpha Rat
+npcRoles.Fullmetal_Minotaur.name = Minotaur
+
+npcRoles.Fullmetal_Scarak_Fighter.name = Purple Scarak Fighter
+npcRoles.Fullmetal_Scarak_Seeker.name = Purple Scarak Seeker

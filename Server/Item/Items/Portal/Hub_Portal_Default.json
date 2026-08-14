@@ -21,14 +21,14 @@
     ],
     "BenchRequirement": [
       {
-        "Id": "Workbench",
+        "Id": "Arcanebench",
         "Type": "Crafting",
         "Categories": [
-          "Workbench_Crafting"
-        ],
-        "RequiredTierLevel": 1
+          "Arcane_Portals"
+        ]
       }
-    ]
+    ],
+    "RequiredMemoriesLevel": 1
   },
   "BlockType": {
     "DrawType": "Model",

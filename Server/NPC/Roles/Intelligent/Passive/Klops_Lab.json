@@ -8,6 +8,7 @@
     "Weapons": [],
     "OffHand": [],
     "DefaultPlayerAttitude": "Neutral",
+    "MemoriesCategory": "Fullmetal",
     "MaxSpeed": 6,
     "NameTranslationKey": {
       "Compute": "NameTranslationKey"

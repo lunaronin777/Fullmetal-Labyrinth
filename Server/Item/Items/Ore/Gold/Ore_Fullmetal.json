@@ -1,0 +1,39 @@
+{
+  "TranslationProperties": {
+    "Name": "server.items.Fullmetal_Ore.name",
+    "Description": "server.items.Ore_Gold.description"
+  },
+  "Categories": [
+    "Blocks.Ores"
+  ],
+  "SubCategory": "Ore",
+  "Icon": "Icons/ItemsGenerated/Ore_Fullmetal.png",
+  "Model": "Resources/Ores/Ore_Large.blockymodel",
+  "Texture": "Items/Ore/Fullmetal_Ore.png",
+  "ItemLevel": 10,
+  "PlayerAnimationsId": "Block",
+  "IconProperties": {
+    "Scale": 0.57323,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      -3.6,
+      -16.2
+    ]
+  },
+  "Tags": {
+    "Type": [
+      "Ore"
+    ]
+  },
+  "ItemEntity": {
+    "ParticleSystemId": null
+  },
+  "MaxStack": 25,
+  "ItemSoundSetId": "ISS_Blocks_Stone",
+  "DropOnDeath": true,
+  "Quality": "Epic"
+}

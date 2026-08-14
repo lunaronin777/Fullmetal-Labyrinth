@@ -1,0 +1,63 @@
+{
+  "Parent": "Deer_Doe",
+  "Model": "NPC/Fullmetal_Deer/Models/Model.blockymodel",
+  "Texture": "NPC/Fullmetal_Deer/Models/Texture.png",
+  "DefaultAttachments": [
+    {
+      "Model": "NPC/Fullmetal_Deer/Models/Attachments/Antlers_Glowing.blockymodel",
+      "Texture": "NPC/Fullmetal_Deer/Models/Attachments/Antlers_Glowing.png"
+    }
+  ],
+  "AnimationSets": {
+    "Alerted": {
+      "Animations": [
+        {
+          "Animation": "NPC/Wildlife/Deer/Animations/Default/Alerted.blockyanim",
+          "Looping": false,
+          "SoundEventId": "SFX_Deer_Stag_Alerted"
+        }
+      ]
+    },
+    "Run": {
+      "Animations": [
+        {
+          "Animation": "NPC/Wildlife/Deer/Animations/Default/Run.blockyanim",
+          "SoundEventId": "SFX_Deer_Stag_Run",
+          "Speed": 1
+        }
+      ]
+    },
+    "Hurt": {
+      "Animations": [
+        {
+          "Animation": "NPC/Wildlife/Deer/Animations/Damage/Hurt.blockyanim",
+          "BlendingDuration": 0.1,
+          "Looping": false,
+          "SoundEventId": "SFX_Deer_Stag_Hurt"
+        }
+      ]
+    },
+    "Death": {
+      "Animations": [
+        {
+          "Animation": "NPC/Wildlife/Deer/Animations/Damage/Death.blockyanim",
+          "Looping": false,
+          "SoundEventId": "SFX_Deer_Stag_Death"
+        }
+      ]
+    },
+    "Sleep": {
+      "Animations": [
+        {
+          "Animation": "NPC/Wildlife/Deer/Animations/Default/Sleep.blockyanim",
+          "SoundEventId": "SFX_Deer_Stag_Sleep"
+        }
+      ]
+    }
+  },
+  "Light": {
+    "Color": "#555"
+  },
+  "MinScale": 1.5,
+  "MaxScale": 1.51
+}

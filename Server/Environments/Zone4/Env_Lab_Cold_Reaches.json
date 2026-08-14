@@ -1,0 +1,156 @@
+{
+  "SpawnDensity": 0.4,
+  "Tags": {
+    "Zone3": [
+      "Forests"
+    ]
+  },
+  "WeatherForecasts": {
+    "0": [
+      {
+        "WeatherId": "Cold_Reaches_Lab_Clear_Weather",
+        "Weight": 100
+      }
+    ],
+    "1": [
+      {
+        "WeatherId": "Cold_Reaches_Lab_Clear_Weather",
+        "Weight": 100
+      }
+    ],
+    "2": [
+      {
+        "WeatherId": "Cold_Reaches_Lab_Clear_Weather",
+        "Weight": 100
+      }
+    ],
+    "3": [
+      {
+        "WeatherId": "Cold_Reaches_Lab_Clear_Weather",
+        "Weight": 100
+      }
+    ],
+    "4": [
+      {
+        "WeatherId": "Cold_Reaches_Lab_Clear_Weather",
+        "Weight": 100
+      }
+    ],
+    "5": [
+      {
+        "WeatherId": "Cold_Reaches_Lab_Clear_Weather",
+        "Weight": 100
+      }
+    ],
+    "6": [
+      {
+        "WeatherId": "Cold_Reaches_Lab_Clear_Weather",
+        "Weight": 100
+      }
+    ],
+    "7": [
+      {
+        "WeatherId": "Cold_Reaches_Lab_Clear_Weather",
+        "Weight": 100
+      }
+    ],
+    "8": [
+      {
+        "WeatherId": "Cold_Reaches_Lab_Clear_Weather",
+        "Weight": 100
+      }
+    ],
+    "9": [
+      {
+        "WeatherId": "Cold_Reaches_Lab_Clear_Weather",
+        "Weight": 100
+      }
+    ],
+    "10": [
+      {
+        "WeatherId": "Cold_Reaches_Lab_Clear_Weather",
+        "Weight": 100
+      }
+    ],
+    "11": [
+      {
+        "WeatherId": "Cold_Reaches_Lab_Clear_Weather",
+        "Weight": 100
+      }
+    ],
+    "12": [
+      {
+        "WeatherId": "Cold_Reaches_Lab_Clear_Weather",
+        "Weight": 100
+      }
+    ],
+    "13": [
+      {
+        "WeatherId": "Cold_Reaches_Lab_Clear_Weather",
+        "Weight": 100
+      }
+    ],
+    "14": [
+      {
+        "WeatherId": "Cold_Reaches_Lab_Clear_Weather",
+        "Weight": 100
+      }
+    ],
+    "15": [
+      {
+        "WeatherId": "Cold_Reaches_Lab_Clear_Weather",
+        "Weight": 100
+      }
+    ],
+    "16": [
+      {
+        "WeatherId": "Cold_Reaches_Lab_Clear_Weather",
+        "Weight": 100
+      }
+    ],
+    "17": [
+      {
+        "WeatherId": "Cold_Reaches_Lab_Clear_Weather",
+        "Weight": 100
+      }
+    ],
+    "18": [
+      {
+        "WeatherId": "Cold_Reaches_Lab_Clear_Weather",
+        "Weight": 100
+      }
+    ],
+    "19": [
+      {
+        "WeatherId": "Cold_Reaches_Lab_Clear_Weather",
+        "Weight": 100
+      }
+    ],
+    "20": [
+      {
+        "WeatherId": "Cold_Reaches_Lab_Clear_Weather",
+        "Weight": 100
+      }
+    ],
+    "21": [
+      {
+        "WeatherId": "Cold_Reaches_Lab_Clear_Weather",
+        "Weight": 100
+      }
+    ],
+    "22": [
+      {
+        "WeatherId": "Cold_Reaches_Lab_Clear_Weather",
+        "Weight": 100
+      }
+    ],
+    "23": [
+      {
+        "WeatherId": "Cold_Reaches_Lab_Clear_Weather",
+        "Weight": 100
+      }
+    ]
+  },
+  "WaterTint": "#698ebc",
+  "WeatherForecastSeed": "12"
+}

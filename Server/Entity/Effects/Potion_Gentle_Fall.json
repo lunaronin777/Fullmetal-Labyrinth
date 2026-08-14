@@ -3,7 +3,7 @@
     "Fall": [
       {
         "Amount": 1.0,
-        "CalculationType": "Multiplicative"
+        "CalculationType": "Percent"
       }
     ]
   },

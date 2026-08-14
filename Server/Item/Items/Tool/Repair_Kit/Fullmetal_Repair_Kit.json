@@ -5,7 +5,7 @@
   },
   "Icon": "Icons/ItemsGenerated/Fullmetal_Repair_Kit.png",
   "Parent": "Tool_Repair_Kit_Crude",
-  "ItemLevel": 1,
+  "ItemLevel": 100,
   "Model": "Items/Tools/Repair_Kit/Repair_Kit_Fullmetal.blockymodel",
   "Texture": "Items/Tools/Repair_Kit/Repair_Kit_Fullmetal_Texture.png",
   "Interactions": {
@@ -31,6 +31,30 @@
         }
       ]
     }
+  },
+  "Recipe": {
+    "TimeSeconds": 1,
+    "Input": [
+      {
+        "ItemId": "Ingredient_Bar_Fullmetal",
+        "Quantity": 10
+      },
+      {
+        "ItemId": "Tool_Repair_Kit_Iron",
+        "Quantity": 1
+      }
+    ],
+    "OutputQuantity": 1,
+    "BenchRequirement": [
+      {
+        "Id": "Workbench",
+        "Type": "Crafting",
+        "Categories": [
+          "Workbench_Tools"
+        ],
+        "RequiredTierLevel": 3
+      }
+    ]
   },
   "Quality": "Epic",
   "IconProperties": {

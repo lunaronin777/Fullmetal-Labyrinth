@@ -25,7 +25,7 @@
   "SkyTopColors": [
     {
       "Hour": 7,
-      "Color": "#745b1aff"
+      "Color": "#967623ff"
     }
   ],
   "SkySunsetColors": [
@@ -47,19 +47,7 @@
   "SunlightColors": [
     {
       "Hour": 5,
-      "Color": "#bca77e"
-    },
-    {
-      "Hour": 19,
-      "Color": "#bca87e"
-    },
-    {
-      "Hour": 7,
-      "Color": "#bca57e"
-    },
-    {
-      "Hour": 17,
-      "Color": "#bca27e"
+      "Color": "#ffcf71"
     }
   ],
   "SunScales": [
@@ -286,9 +274,10 @@
     }
   ],
   "Particle": {
-    "SystemId": "Fog",
-    "Color": "#58385c",
-    "Scale": 2
+    "SystemId": "Sand_Storm",
+    "Color": "#5c5038",
+    "Scale": 2,
+    "OvergroundOnly": true
   },
   "FogHeightFalloffs": [
     {
@@ -398,11 +387,11 @@
   "FogDensities": [
     {
       "Hour": 4,
-      "Value": 333
+      "Value": 50
     },
     {
       "Hour": 3,
-      "Value": 333
+      "Value": 50
     }
   ],
   "FogOptions": {
@@ -625,6 +614,12 @@
           "Value": 3
         }
       ]
+    }
+  ],
+  "SunlightDampingMultipliers": [
+    {
+      "Hour": 13,
+      "Value": 0.8
     }
   ]
 }

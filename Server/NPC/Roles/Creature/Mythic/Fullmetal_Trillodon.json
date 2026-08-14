@@ -6,14 +6,14 @@
     "DropList": "Drop_Trillodon",
     "MaxHealth": 175,
     "IsMemory": true,
-    "MemoriesCategory": "Reptile",
+    "MemoriesCategory": "Fullmetal",
     "NameTranslationKey": {
       "Compute": "NameTranslationKey"
     }
   },
   "Parameters": {
     "NameTranslationKey": {
-      "Value": "server.npcRoles.Trillodon.name",
+      "Value": "server.npcRoles.Fullmetal_Trillodon.name",
       "Description": "Translation key for NPC name display"
     }
   }

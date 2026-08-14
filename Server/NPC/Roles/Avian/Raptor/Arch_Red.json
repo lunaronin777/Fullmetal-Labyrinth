@@ -10,14 +10,14 @@
     "MaxHealth": 220,
     "WanderRadius": 10,
     "IsMemory": true,
-    "MemoriesCategory": "Avian",
+    "MemoriesCategory": "Fullmetal",
     "NameTranslationKey": {
       "Compute": "NameTranslationKey"
     }
   },
   "Parameters": {
     "NameTranslationKey": {
-      "Value": "server.npcRoles.Archaeopteryx.name",
+      "Value": "server.npcRoles.Fullmetal_Arch_Red.name",
       "Description": "Translation key for NPC name display"
     }
   }

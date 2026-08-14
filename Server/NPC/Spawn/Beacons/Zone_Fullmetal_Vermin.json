@@ -1,5 +1,6 @@
 {
   "Environments": [
+    "Env_Fullmetal_Blood_Ocean_Biome",
     "Env_Fullmetal_Ash_Biome",
     "Env_Fullmetal_Mid_Biome",
     "Env_Fullmetal_Top_Biome"
@@ -18,14 +19,18 @@
   "NPCs": [
     {
       "Weight": 15,
-      "Id": "Rat"
+      "Id": "Fullmetal_Rat"
+    },
+    {
+      "Weight": 1,
+      "Id": "Fullmetal_Spark_Living_Green"
     },
     {
       "Weight": 5,
       "Id": "Spectre_Void"
     },
     {
-      "Weight": 7,
+      "Weight": 6,
       "Id": "Fullmetal_Scarak_Fighter"
     },
     {
@@ -37,16 +42,44 @@
       "Id": "Fullmetal_Statue"
     },
     {
-      "Weight": 14,
+      "Weight": 4,
       "Id": "Zombie_Burnt"
     },
     {
-      "Weight": 10,
+      "Weight": 5,
+      "Id": "Fullmetal_Raptor_Cave"
+    },
+    {
+      "Weight": 5,
+      "Id": "Fullmetal_Fen_Stalker"
+    },
+    {
+      "Weight": 9,
       "Id": "Crawler_Void"
+    },
+    {
+      "Weight": 1,
+      "Id": "Fullmetal_Red_Golem_Firesteel"
     },
     {
       "Weight": 5,
       "Id": "Bat"
+    },
+    {
+      "Weight": 2,
+      "Id": "Fullmetal_Crystalwulf_Emerald"
+    },
+    {
+      "Weight": 2,
+      "Id": "Fullmetal_Crystalwulf_Yellow"
+    },
+    {
+      "Weight": 2,
+      "Id": "Fullmetal_Crystalwulf_Red"
+    },
+    {
+      "Weight": 2,
+      "Id": "Fullmetal_Crystalwulf_Purple"
     },
     {
       "Id": "Fullmetal_Micro_Spider",
@@ -85,6 +118,12 @@
     "PT1S",
     "PT2S"
   ],
+  "LightRanges": {
+    "Light": [
+      0,
+      2
+    ]
+  },
   "NPCSpawnState": "Seek",
   "TargetSlot": "LockedTarget"
 }

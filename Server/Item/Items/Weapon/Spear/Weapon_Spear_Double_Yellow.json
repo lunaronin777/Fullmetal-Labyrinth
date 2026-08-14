@@ -6,7 +6,31 @@
     "Items.Weapons"
   ],
   "Quality": "Rare",
-  "ItemLevel": 30,
+  "ItemLevel": 41,
+  "Recipe": {
+    "TimeSeconds": 4.5,
+    "KnowledgeRequired": false,
+    "Input": [
+      {
+        "ItemId": "Ingredient_Crystal_Yellow",
+        "Quantity": 6
+      },
+      {
+        "ItemId": "Ingredient_Bar_Fullmetal",
+        "Quantity": 1
+      }
+    ],
+    "BenchRequirement": [
+      {
+        "Type": "Crafting",
+        "Categories": [
+          "Weapon_Daggers"
+        ],
+        "Id": "Weapon_Bench",
+        "RequiredTierLevel": 3
+      }
+    ]
+  },
   "Model": "Items/Weapons/Spear/Double_Incandescent.blockymodel",
   "Texture": "Items/Weapons/Spear/Double_Incandescent_Texture_Yellow.png",
   "PlayerAnimationsId": "Spear",
@@ -75,7 +99,7 @@
       "Interactions": [
         {
           "Parent": "Spear_Throw_Charged_Projectile",
-          "ProjectileId": "Spear_Double_Orange"
+          "ProjectileId": "Spear_Double_Yellow"
         }
       ]
     },
